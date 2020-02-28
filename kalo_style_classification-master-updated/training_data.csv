@@ -1,0 +1,3981 @@
+,brands,prices,sale,tier
+0,Kate Spade New York,45.0,45.0,0 1 0
+1,ALLSAINTS,35.0,35.0,0 1 0
+2,Michael Aram,22.0,,0 1 0
+3,Agraria,30.0,,0 1 0
+4,Rip Curl,44.95,44.95,0 1 0
+5,Elemis,40.0,40.0,0 1 0
+6,ROSSIGNOL,35.0,35.0,0 1 0
+7,Patchology,30.0,30.0,0 1 0
+8,Stance,20.0,13.98,0 1 0
+9,Minnetonka,39.95,39.95,0 1 0
+10,Nordstrom,39.0,39.0,1 0 0
+11,Clarins,30.0,,0 1 0
+12,Diesel,38.0,38.0,0 1 0
+13,Kim Seybert,45.0,,0 1 0
+14,Estee Lauder,26.0,26.0,0 1 0
+15,Unionbay,30.0,30.0,0 1 0
+16,BP.,19.0,11.4,0 1 0
+17,Fashion Forms,36.0,,0 1 0
+18,Calvin Klein,22.0,10.19,0 1 0
+19,Elizabeth and James,28.0,28.0,0 1 0
+20,Knotty,44.0,44.0,0 1 0
+21,Wacoal,19.0,19.0,0 1 0
+22,Juliska,38.0,,0 1 0
+23,BP.,29.0,17.4,0 1 0
+24,Topman,30.0,18.0,1 0 0
+25,Ursa Major,18.0,18.0,0 1 0
+26,Alex and Ani,32.0,,0 1 0
+27,Bobbi Brown,27.0,27.0,0 1 0
+28,Dior,28.0,28.0,0 1 0
+29,Kim Seybert,30.0,15.0,0 1 0
+30,All in Favor,45.0,45.0,0 1 0
+31,Topshop,35.0,35.0,1 0 0
+32,Topman,45.0,45.0,1 0 0
+33,Sparrow & Wren,8.0,,0 1 0
+34,Nordstrom Men's Shop,29.5,29.5,1 0 0
+35,Anastasia Beverly Hills,23.0,,0 1 0
+36,Rip Curl,39.95,39.95,0 1 0
+37,Burberry,29.5,29.5,0 1 0
+38,Bombas,12.0,12.0,0 1 0
+39,Dansk,10.0,6.0,0 1 0
+40,Juliska,28.0,28.0,0 1 0
+41,Juliska,24.0,,0 1 0
+42,New Balance,45.0,25.69,0 1 0
+43,Stance,14.0,12.0,0 1 0
+44,STS Blue,39.0,39.0,0 1 0
+45,Shiseido,29.0,,0 1 0
+46,L. Erickson,18.0,18.0,0 1 0
+47,Chantecaille,36.0,,0 1 0
+48,Wedgwood,35.0,,0 1 0
+49,VIETRI,23.0,,0 1 0
+50,Echo Design,39.0,,0 1 0
+51,Villeroy & Boch,39.0,23.4,0 1 0
+52,Diesel,45.0,45.0,0 1 0
+53,All in Favor,29.0,17.4,0 1 0
+54,Saint Laurent,38.0,38.0,0 1 0
+55,BASTIDE,38.0,,0 1 0
+56,Dolce & Gabbana,45.0,45.0,0 1 0
+57,Agraria,28.0,,0 1 0
+58,LORAC,18.0,18.0,0 1 0
+59,L'Amour Shoes,38.0,,0 1 0
+60,By Terry,34.0,34.0,0 1 0
+61,Juliska,39.0,39.0,0 1 0
+62,Royce New York,35.0,26.25,0 1 0
+63,Topshop,22.0,10.99,1 0 0
+64,Supreme,25.0,25.0,0 1 0
+65,O'Neill,45.0,20.25,0 1 0
+66,Juliska,17.0,17.0,0 1 0
+67,Kevyn Aucoin,28.0,,0 1 0
+68,Berard,19.0,,0 1 0
+69,Captain Blankenship,24.0,,0 1 0
+70,Madewell,32.0,32.0,0 1 0
+71,TOP CHEF,35.0,35.0,0 1 0
+72,adidas,16.0,7.98,0 1 0
+73,Ralph Lauren Childrenswear,29.5,,0 1 0
+74,Kate Spade New York,21.0,,0 1 0
+75,Sole Society,39.95,39.95,0 1 0
+76,Coola,36.0,36.0,0 1 0
+77,Casetify,36.0,36.0,0 1 0
+78,Homesick,30.0,,0 1 0
+79,Kate Spade New York,16.0,,0 1 0
+80,Kate Spade New York,15.0,,0 1 0
+81,Nakamol Design,42.0,42.0,0 1 0
+82,Madewell,24.5,24.5,0 1 0
+83,STATIC NAILS,14.0,14.0,0 1 0
+84,Kate Spade New York,19.0,,0 1 0
+85,THE WHITE COMPANY,32.0,32.0,0 1 0
+86,Paul Smith,25.0,25.0,0 1 0
+87,New Era Cap,34.0,,0 1 0
+88,1822 Denim,39.0,23.4,0 1 0
+89,2xist,26.0,13.0,0 1 0
+90,Topman,40.0,40.0,1 0 0
+91,Hue,34.0,23.8,1 0 0
+92,Bonobos,15.0,9.75,0 1 0
+93,Sunspel,39.0,24.0,0 1 0
+94,Kiehl's Since,26.0,,0 1 0
+95,Topman,35.0,35.0,1 0 0
+96,Charcoal Companion,9.99,,0 1 0
+97,ALLSTATE,35.99,35.99,0 1 0
+98,Clinique,18.5,18.5,0 1 0
+99,adidas Originals,25.0,19.99,0 1 0
+100,Juice Beauty,44.0,,0 1 0
+101,Kate Spade New York,20.0,,0 1 0
+102,PANDORA,35.0,35.0,0 1 0
+103,Reiss,25.0,25.0,0 1 0
+104,Supergoop,38.0,38.0,0 1 0
+105,Levis,35.0,35.0,0 1 0
+106,adidas,32.0,19.2,0 1 0
+107,Philippe Deshoulieres,35.0,,0 1 0
+108,Sugarfina,9.5,,0 1 0
+109,Diesel,44.0,44.0,0 1 0
+110,Smashbox,27.0,27.0,0 1 0
+111,Cole Haan,12.5,12.5,0 1 0
+112,MAC Cosmetics,36.0,36.0,0 1 0
+113,Dita Von Teese,45.0,20.25,0 1 0
+114,Anastasia Beverly Hills,25.0,25.0,0 1 0
+115,Banks Journal,30.0,22.5,0 1 0
+116,S'well,10.0,,0 1 0
+117,The North Face,25.0,19.99,0 1 0
+118,Kosta Boda,14.95,,0 1 0
+119,Burberry,29.0,,0 1 0
+120,Kate Spade New York,17.0,,0 1 0
+121,Kerber's Farm,30.0,,0 1 0
+122,adidas,33.0,33.0,0 1 0
+123,Yummie,39.0,32.66,0 1 0
+124,Elemis,34.0,34.0,0 1 0
+125,Volcom,39.5,39.5,0 1 0
+126,Maison Labiche,44.0,,0 1 0
+127,Casetify,45.0,45.0,0 1 0
+128,Topman,35.0,21.0,1 0 0
+129,Argento Vivo,38.0,38.0,0 1 0
+130,The North Face,38.0,27.0,0 1 0
+131,ALLSAINTS,40.0,40.0,0 1 0
+132,BP.,25.0,14.98,0 1 0
+133,Chilewich,22.5,18.0,0 1 0
+134,Iscream,30.0,,0 1 0
+135,Sparrow & Wren,8.0,,0 1 0
+136,RuffleButts,42.0,,0 1 0
+137,New Balance,35.0,20.98,0 1 0
+138,Panacea,28.0,28.0,0 1 0
+139,Charbonnel et Walker,28.0,29.0,0 1 0
+140,Juliska,44.0,,0 1 0
+141,Nordstrom,24.0,24.0,1 0 0
+142,Waterford,20.0,,0 1 0
+143,French Connection,44.0,26.4,0 1 0
+144,ystudio,18.0,,0 1 0
+145,Bluebella,24.0,18.0,0 1 0
+146,Omc,42.0,40.0,0 1 0
+147,The Book Club,30.0,,0 1 0
+148,Bloomingdale's,16.0,,0 1 0
+149,Jimmy Choo,28.0,28.0,0 1 0
+150,Lucky Brand,44.5,44.5,0 1 0
+151,Kid Dangerous,38.0,28.5,0 1 0
+152,Olivia Burton,45.0,,0 1 0
+153,Rituel De Fille,24.0,,0 1 0
+154,Chilewich,20.0,16.0,0 1 0
+155,Nordstrom Signature,16.5,16.5,1 0 0
+156,Vince Camuto,42.0,42.0,0 1 0
+157,Karine Sultan,34.0,34.0,0 1 0
+158,Oxo,24.99,,0 1 0
+159,Clarins,44.0,,0 1 0
+160,Juice Beauty,22.0,,0 1 0
+161,Hydro Flask,32.95,32.95,0 1 0
+162,Angel Dear,23.0,,0 1 0
+163,Ettika,40.0,40.0,0 1 0
+164,Michael Wainwright,42.0,,0 1 0
+165,Natori,32.0,19.2,0 1 0
+166,C.O. BIGELOW,28.0,,0 1 0
+167,Topman,6.0,6.0,1 0 0
+168,CLAUS PORTO,27.0,27.0,0 1 0
+169,Schott Zwiesel,14.0,,0 1 0
+170,Topman,30.0,16.49,1 0 0
+171,M Missoni,38.0,37.0,0 1 0
+172,Anthropologie,22.0,22.0,0 1 0
+173,Wacoal,24.0,,0 1 0
+174,Levi's,32.0,32.0,0 1 0
+175,Nordstrom Men's Shop,12.5,12.5,1 0 0
+176,Hanky Panky,29.0,29.0,0 1 0
+177,Hanky Panky,45.0,45.0,0 1 0
+178,Aesop,41.0,41.0,0 1 0
+179,Jordan,10.0,10.0,0 1 0
+180,NARS,22.0,,0 1 0
+181,Prive Revaux,29.95,29.95,0 1 0
+182,Totally Bamboo,29.99,,0 1 0
+183,Oroblu,22.0,22.0,0 1 0
+184,Noodle & Boo,14.0,,0 1 0
+185,Laura Mercier,28.0,,0 1 0
+186,Topman,30.0,30.0,1 0 0
+187,Kiehl's Since,42.0,42.0,0 1 0
+188,LORAC,18.0,18.0,0 1 0
+189,Bean There Coffee Company,12.0,,0 1 0
+190,BeautyBio,35.0,35.0,0 1 0
+191,Laura Mercier,38.0,,0 1 0
+192,Diesel,43.0,43.0,0 1 0
+193,Dansk,12.0,,0 1 0
+194,Ralph Lauren,32.0,11.2,0 1 0
+195,Topman,35.0,21.0,1 0 0
+196,Topman,30.0,9.9,1 0 0
+197,Kate Spade New York,14.0,,0 1 0
+198,Voluspa,24.0,,0 1 0
+199,Vans,65.0,,0 1 0
+200,Lafco,58.0,43.5,0 1 0
+201,Dolce Vita,58.0,46.4,0 1 0
+202,Dsquared2,60.0,60.0,0 1 0
+203,Elan,68.0,40.8,0 1 0
+204,Spiritual Gangster,58.0,34.8,0 1 0
+205,Nashelle,63.0,63.0,0 1 0
+206,Villeroy & Boch,67.0,33.5,0 1 0
+207,Stella McCartney,59.0,59.0,0 1 0
+208,Keds,65.0,65.0,0 1 0
+209,vineyard vines,48.0,48.0,0 1 0
+210,Topshop,55.0,55.0,1 0 0
+211,Treasure & Bond,49.0,49.0,0 1 0
+212,VERO MODA,55.0,32.98,0 1 0
+213,Aqua,48.0,,0 1 0
+214,Leith,49.0,49.0,0 1 0
+215,Fleur du Mal,45.0,45.0,0 1 0
+216,Nordstrom Men's Shop,55.0,55.0,1 0 0
+217,HalogenR,59.0,35.4,0 1 0
+218,Sunski,58.0,58.0,0 1 0
+219,gorjana,55.0,,0 1 0
+220,Nordstrom Lingerie,49.0,29.4,1 0 0
+221,Spiritual Gangster,48.0,48.0,0 1 0
+222,Givenchy,62.0,,0 1 0
+223,Volcom,55.0,55.0,0 1 0
+224,Armani,58.0,43.5,0 1 0
+225,Natori,46.0,,0 1 0
+226,Topman,55.0,32.98,1 0 0
+227,Petite Plume,58.0,,0 1 0
+228,Bernie Mev,66.95,66.95,0 1 0
+229,adidas,57.0,,0 1 0
+230,Champion,55.0,,0 1 0
+231,Pendleton,65.0,65.0,0 1 0
+232,Vans,65.0,,0 1 0
+233,Juliska,58.0,,0 1 0
+234,Topshop,52.0,25.98,1 0 0
+235,Yamazaki,47.0,,0 1 0
+236,Vintage Havana,58.0,,0 1 0
+237,gorjana,55.0,55.0,0 1 0
+238,Universal Standard,60.0,60.0,0 1 0
+239,Lafco,65.0,48.75,0 1 0
+240,Reiss,60.0,20.0,0 1 0
+241,Kate Spade New York,50.0,,0 1 0
+242,Soul by SoulCycle,58.0,58.0,0 1 0
+243,Cupio,48.0,36.0,0 1 0
+244,Polaroid,60.0,60.0,0 1 0
+245,Oribe,48.0,,0 1 0
+246,Treasure & Bond,59.0,59.0,0 1 0
+247,Onzie,60.0,45.0,0 1 0
+248,Juliska,50.0,50.0,0 1 0
+249,Dolce & Gabbana,65.0,65.0,0 1 0
+250,Shiseido,67.0,67.0,0 1 0
+251,Treasure & Bond,49.0,49.0,0 1 0
+252,Stella + Ruby,48.0,48.0,0 1 0
+253,Bernardaud,46.0,,0 1 0
+254,Sole Society,48.0,48.0,0 1 0
+255,Supreme,63.0,,0 1 0
+256,Nina,58.0,58.0,0 1 0
+257,Tommy Bahama,67.0,39.99,0 1 0
+258,Topshop,55.0,27.49,1 0 0
+259,Dickies,65.0,65.0,0 1 0
+260,Leith,49.0,49.0,0 1 0
+261,Chiara Ferragni,54.0,54.0,0 1 0
+262,City Chic,49.0,49.0,0 1 0
+263,adidas,65.0,59.0,0 1 0
+264,Palm Angels,65.0,39.0,0 1 0
+265,Palm Angels,65.0,65.0,0 1 0
+266,Kendra Scott,48.0,48.0,0 1 0
+267,Flowers by Zoe,67.0,32.0,0 1 0
+268,Zella,59.0,59.0,0 1 0
+269,Acqua di Parma,59.0,,0 1 0
+270,Guerlain,59.0,,0 1 0
+271,VERO MODA,59.0,,0 1 0
+272,Jordan,45.0,,0 1 0
+273,TOMS,64.95,25.98,0 1 0
+274,Sovereign Code,64.0,48.0,0 1 0
+275,Champion,50.0,24.99,0 1 0
+276,Argento Vivo,58.0,,0 1 0
+277,Joe's Jeans,54.0,54.0,0 1 0
+278,VERO MODA,59.0,17.63,0 1 0
+279,adidas,55.0,,0 1 0
+280,Quiksilver Waterman Collection,55.0,55.0,0 1 0
+281,Christopher Radko,56.0,,0 1 0
+282,Madewell,49.5,39.6,0 1 0
+283,Diesel,48.0,48.0,0 1 0
+284,Nambe,60.0,,0 1 0
+285,Nakamol Design,56.0,56.0,0 1 0
+286,Adina's Jewels,62.0,62.0,0 1 0
+287,ALLSAINTS,55.0,55.0,0 1 0
+288,Mc2 Saint Barth Kids,65.0,65.0,0 1 0
+289,Cupio,68.0,,0 1 0
+290,Noah NYC,50.0,50.0,0 1 0
+291,Jordan,60.0,,0 1 0
+292,BP.,49.0,49.0,0 1 0
+293,Kris Nations,50.0,50.0,0 1 0
+294,Lenox,54.0,,0 1 0
+295,Champion,65.0,65.0,0 1 0
+296,BP.,59.0,59.0,0 1 0
+297,Sole Society,49.95,49.95,0 1 0
+298,Boconi,55.0,55.0,0 1 0
+299,The Tie Bar,49.5,49.5,0 1 0
+300,Wolford,53.0,53.0,0 1 0
+301,Bourbon and Boweties,56.0,56.0,0 1 0
+302,Alo Yoga,48.0,48.0,0 1 0
+303,Onzie,54.0,,0 1 0
+304,AFRM,58.0,58.0,0 1 0
+305,HalogenR,59.0,35.4,0 1 0
+306,Goodlife,68.0,33.98,0 1 0
+307,ALLSAINTS,48.0,48.0,0 1 0
+308,Matouk,65.0,,0 1 0
+309,Marchesa By Lenox,65.0,,0 1 0
+310,Rodial,52.0,52.0,0 1 0
+311,adidas,64.0,64.0,0 1 0
+312,Quiksilver Waterman Collection,65.0,65.0,0 1 0
+313,Prosperity Denim,59.0,59.0,0 1 0
+314,Topman,45.0,26.98,1 0 0
+315,Spanx,50.0,50.0,0 1 0
+316,Nike,50.0,,0 1 0
+317,Topman,55.0,33.0,1 0 0
+318,vuori,58.0,34.8,0 1 0
+319,VIETRI,50.0,,0 1 0
+320,b.tempt'd by Wacoal,52.0,36.4,0 1 0
+321,Palace,65.0,,0 1 0
+322,Topman,50.0,30.0,1 0 0
+323,MIA,49.95,39.96,0 1 0
+324,Topman,45.0,27.0,1 0 0
+325,Closed,54.0,54.0,0 1 0
+326,Velvet,59.0,,0 1 0
+327,Gibson,54.0,54.0,0 1 0
+328,Poetic Justice,64.0,64.0,0 1 0
+329,Koral,65.0,,0 1 0
+330,Topman,65.0,39.0,1 0 0
+331,The North Face,63.0,,0 1 0
+332,Tommy Jeans,59.5,59.5,0 1 0
+333,adidas,67.0,,0 1 0
+334,Natori,54.0,,0 1 0
+335,Topshop,55.0,55.0,1 0 0
+336,Cartier,55.0,,0 1 0
+337,Tinsel,49.0,49.0,0 1 0
+338,Nashelle,52.0,52.0,0 1 0
+339,Valet Studio,52.0,52.0,0 1 0
+340,sloggi,46.0,46.0,0 1 0
+341,The Men's Store At Bloomingdale's,59.0,,0 1 0
+342,Alo Yoga,66.0,,0 1 0
+343,New Balance,60.0,60.0,0 1 0
+344,Derek Rose,65.0,,0 1 0
+345,Villa Home Collection,59.99,59.99,0 1 0
+346,Champion,65.0,65.0,0 1 0
+347,Tavik,60.0,60.0,0 1 0
+348,FILA,60.0,49.99,0 1 0
+349,J. Valdi,56.0,35.7,0 1 0
+350,Nike,60.0,,0 1 0
+351,HalogenR,59.0,59.0,0 1 0
+352,Lira Clothing,64.0,38.4,0 1 0
+353,Cold Picnic,60.0,60.0,0 1 0
+354,Sperry,59.95,23.98,0 1 0
+355,Obey,53.0,23.85,0 1 0
+356,Ralph Lauren,45.0,,0 1 0
+357,Majestic International,65.0,65.0,0 1 0
+358,Kendra Scott,58.0,58.0,0 1 0
+359,Leith,55.0,55.0,0 1 0
+360,PANDORA,65.0,65.0,0 1 0
+361,Topman,55.0,55.0,1 0 0
+362,BODY VIBES,64.0,64.0,0 1 0
+363,Converse,50.0,37.5,0 1 0
+364,ANTIK KRAFT,54.0,54.0,0 1 0
+365,Michael Stars,58.0,,0 1 0
+366,adidas,60.0,60.0,0 1 0
+367,VERO MODA,65.0,65.0,0 1 0
+368,Billabong,59.95,59.95,0 1 0
+369,Simone Perele,55.0,26.0,0 1 0
+370,Diesel,48.0,48.0,0 1 0
+371,adidas,55.0,55.0,0 1 0
+372,Nordstrom Men's Shop,49.5,49.5,1 0 0
+373,Michael Kors,60.0,45.0,0 1 0
+374,gorjana,45.0,45.0,0 1 0
+375,Goodlife,60.0,60.0,0 1 0
+376,Ralph Lauren Childrenswear,65.0,,0 1 0
+377,Highline Bedding Co.,60.0,39.99,0 1 0
+378,Jo Malone London,59.0,59.0,0 1 0
+379,Bardot,59.0,59.0,0 1 0
+380,Nashelle,61.0,61.0,0 1 0
+381,Nike,55.0,,0 1 0
+382,Glamglow,65.0,65.0,0 1 0
+383,La Perla,65.0,46.0,0 1 0
+384,Free People,68.0,40.8,0 1 0
+385,Bourbon and Boweties,56.0,56.0,0 1 0
+386,Appaman,53.0,,0 1 0
+387,Jordan,50.0,,0 1 0
+388,Madewell,55.0,55.0,0 1 0
+389,O'Neill,65.0,65.0,0 1 0
+390,Peter Millar,64.0,,0 1 0
+391,Laura Mercier,60.0,51.0,0 1 0
+392,VIETRI,46.0,,0 1 0
+393,Project Social T,58.0,58.0,0 1 0
+394,Whal Myung,48.0,48.0,0 1 0
+395,Billabong,59.95,59.95,0 1 0
+396,Status By Chenault Plus,68.0,47.6,0 1 0
+397,Topshop,48.0,28.8,1 0 0
+398,Puma,70.0,,0 1 0
+399,Zoe Chicco,70.0,,0 1 0
+400,Velveteen,74.0,67.0,0 1 0
+401,Leith,75.0,75.0,0 1 0
+402,Atelier Cologne,75.0,,0 1 0
+403,Bagatelle,79.0,59.25,0 1 0
+404,UGG,80.0,80.0,0 1 0
+405,Diesel,75.0,75.0,0 1 0
+406,English Laundry,69.5,69.5,0 1 0
+407,Little Marc Jacobs,75.0,52.0,0 1 0
+408,RAGEN Jewels,75.0,75.0,0 1 0
+409,Karl Lagerfeld Paris,69.0,,0 1 0
+410,Puma,80.0,80.0,0 1 0
+411,Paige,79.0,,0 1 0
+412,Suboo,79.0,78.0,0 1 0
+413,Nike,73.0,,0 1 0
+414,Emporio Armani,89.0,84.0,0 1 0
+415,Calvin Klein,79.5,,0 1 0
+416,THE WHITE COMPANY,69.0,69.0,0 1 0
+417,Msgm Kids,78.0,78.0,0 1 0
+418,Juliska,68.0,,0 1 0
+419,Argento Vivo,78.0,,0 1 0
+420,Free People,68.0,68.0,0 1 0
+421,Wit & Wisdom,78.0,78.0,0 1 0
+422,Kendra Scott,78.0,,0 1 0
+423,Nike,69.0,,0 1 0
+424,Fatboy,89.0,,0 1 0
+425,Versace,70.0,,0 1 0
+426,Kimi and Kai,78.0,50.7,0 1 0
+427,adidas,85.0,85.0,0 1 0
+428,tasc Performance,88.0,43.98,0 1 0
+429,BOUND by Bond-Eye,75.0,75.0,0 1 0
+430,Collections by joya,88.95,88.95,0 1 0
+431,Reiss,85.0,85.0,0 1 0
+432,Kate Spade New York,75.0,,0 1 0
+433,Michael Kors,84.0,83.0,0 1 0
+434,Gottex,68.0,,0 1 0
+435,Champion,79.0,75.0,0 1 0
+436,Reebok,85.0,85.0,0 1 0
+437,Urban Originals,88.0,88.0,0 1 0
+438,Highline Bedding Co.,75.0,49.99,0 1 0
+439,Alexander McQueen,85.0,85.0,0 1 0
+440,Adam Tucker by Me Too,79.95,79.95,0 1 0
+441,GOOD HYOUMAN,88.0,88.0,0 1 0
+442,Juliska,78.0,,0 1 0
+443,Alison Andrews,88.0,,0 1 0
+444,Fleur du Mal,78.0,78.0,0 1 0
+445,Bzees,68.95,68.95,0 1 0
+446,Knotty,76.0,76.0,0 1 0
+447,Supreme,80.0,80.0,0 1 0
+448,Magformers,69.99,69.99,0 1 0
+449,Ralph Lauren,75.0,,0 1 0
+450,Maaji,78.0,78.0,0 1 0
+451,LNDR,85.0,68.0,0 1 0
+452,Aqua,88.0,,0 1 0
+453,Kate Spade New York,78.0,78.0,0 1 0
+454,Madewell,75.0,75.0,0 1 0
+455,RVCA,85.0,85.0,0 1 0
+456,Diesel,68.0,68.0,0 1 0
+457,Papinelle,79.0,79.0,0 1 0
+458,Nununu,69.0,55.0,0 1 0
+459,Anna Weatherley,88.0,,0 1 0
+460,Christian Louboutin,75.0,75.0,0 1 0
+461,CaslonR,69.0,69.0,0 1 0
+462,Annieglass,76.0,,0 1 0
+463,ANTIK KRAFT,74.0,74.0,0 1 0
+464,Michael Kors,88.0,66.0,0 1 0
+465,Topshop,75.0,75.0,1 0 0
+466,John Varvatos,88.0,,0 1 0
+467,evolve,88.95,62.26,0 1 0
+468,Tommy Bahama,79.5,,0 1 0
+469,HalogenR,69.0,41.4,0 1 0
+470,Vince Camuto,89.0,89.0,0 1 0
+471,CeCe,74.0,74.0,0 1 0
+472,BAPE,82.0,,0 1 0
+473,Nike,85.0,85.0,0 1 0
+474,Nom Maternity,68.0,40.8,0 1 0
+475,Nina,88.95,53.37,0 1 0
+476,Maceoo,78.0,46.8,0 1 0
+477,Aqua,88.0,,0 1 0
+478,French Connection,78.0,54.6,0 1 0
+479,Stowaway Collection,85.0,85.0,0 1 0
+480,Kendra Scott,85.0,,0 1 0
+481,Argento Vivo,88.0,,0 1 0
+482,Surya,87.0,65.25,0 1 0
+483,Adina's Jewels,72.0,72.0,0 1 0
+484,Jordan,70.0,,0 1 0
+485,Nike,79.0,79.0,0 1 0
+486,Carhartt Work In Progress,68.0,40.8,0 1 0
+487,Champion,70.0,54.99,0 1 0
+488,Nadri,80.0,56.0,0 1 0
+489,Kappa Kontroll,84.0,59.0,0 1 0
+490,Vitamin A,86.0,,0 1 0
+491,Culinaire,80.0,,0 1 0
+492,Josie,78.0,40.95,0 1 0
+493,Kate Spade New York,78.0,78.0,0 1 0
+494,CALPAK,75.0,63.75,0 1 0
+495,BLANKNYC,88.0,88.0,0 1 0
+496,Wildfox,88.0,66.0,0 1 0
+497,Topshop,75.0,75.0,1 0 0
+498,True Religion,79.0,79.0,0 1 0
+499,Kate Spade New York,88.0,88.0,0 1 0
+500,Topman,70.0,42.0,1 0 0
+501,Anne Klein,69.0,69.0,0 1 0
+502,Forzieri,88.0,,0 1 0
+503,VERO MODA,69.0,,0 1 0
+504,Franco Sarto,68.95,68.95,0 1 0
+505,Thread & Supply,75.0,44.98,0 1 0
+506,Karl Lagerfeld,70.0,66.0,0 1 0
+507,Topshop,68.0,68.0,1 0 0
+508,Polo Ralph Lauren,85.0,25.5,0 1 0
+509,Astr The Label,89.0,89.0,0 1 0
+510,Mini Rodini,89.0,76.0,0 1 0
+511,Nadri,70.0,,0 1 0
+512,Dr. Dennis Gross,88.0,88.0,0 1 0
+513,Agolde,78.0,55.0,0 1 0
+514,Laura Lombardi,68.0,68.0,0 1 0
+515,FILA,79.0,79.0,0 1 0
+516,Splendid,78.95,46.8,0 1 0
+517,Estelle,79.0,79.0,0 1 0
+518,Commando,74.0,74.0,0 1 0
+519,Jag Jeans,84.0,84.0,0 1 0
+520,Florence Eiseman,76.0,,0 1 0
+521,Little Marc Jacobs,87.0,61.0,0 1 0
+522,Vans,87.0,87.0,0 1 0
+523,MAC Cosmetics,79.5,,0 1 0
+524,Seafolly,78.0,73.49,0 1 0
+525,Golden Door,88.0,,0 1 0
+526,Moschino Kids,75.0,75.0,0 1 0
+527,Bosca,85.0,45.0,0 1 0
+528,The Men's Store At Bloomingdale's,68.0,,0 1 0
+529,The Men's Store At Bloomingdale's,75.0,,0 1 0
+530,Surya,87.0,65.25,0 1 0
+531,Bonobos,78.0,78.0,0 1 0
+532,Maaji,72.0,57.6,0 1 0
+533,Saint Laurent,80.0,,0 1 0
+534,Splendid,78.0,,0 1 0
+535,Aqua,88.0,44.0,0 1 0
+536,The North Face,80.0,,0 1 0
+537,Standards & Practices,88.0,88.0,0 1 0
+538,Madewell,69.5,55.6,0 1 0
+539,Juliska,85.0,,0 1 0
+540,Diesel,68.0,55.0,0 1 0
+541,Aqua,88.0,,0 1 0
+542,BCBGeneration,78.0,,0 1 0
+543,Chelsea28,69.0,69.0,0 1 0
+544,Brixton,88.0,52.8,0 1 0
+545,Free People,88.0,88.0,0 1 0
+546,Etro,75.0,75.0,0 1 0
+547,Tommy Hilfiger,69.0,69.0,0 1 0
+548,Diesel,68.0,41.0,0 1 0
+549,Forzieri,86.4,,0 1 0
+550,Kendra Scott,80.0,,0 1 0
+551,Forzieri,87.0,,0 1 0
+552,Mei L'ange,70.0,56.0,0 1 0
+553,CaslonR,79.0,79.0,0 1 0
+554,Converse,75.0,75.0,0 1 0
+555,Blunt,80.0,,0 1 0
+556,Bonobos,88.0,66.0,0 1 0
+557,Molo,70.0,,0 1 0
+558,Cutter & Buck,75.0,37.49,0 1 0
+559,Longchamp,85.0,,0 1 0
+560,Joseph A Plus,88.0,26.33,0 1 0
+561,Corinne McCormack,68.0,68.0,0 1 0
+562,Calvin Klein,76.0,65.0,0 1 0
+563,Diesel,88.0,88.0,0 1 0
+564,Tory Sport,78.0,78.0,0 1 0
+565,Highline Bedding Co.,75.0,24.99,0 1 0
+566,Nike,79.0,,0 1 0
+567,Whistles,69.0,,0 1 0
+568,J. Valdi,76.0,64.6,0 1 0
+569,Charles Jeffrey Loverboy,75.0,75.0,0 1 0
+570,Surf Gypsy,86.0,68.8,0 1 0
+571,Soludos,84.95,33.98,0 1 0
+572,Jordan,75.0,,0 1 0
+573,Diesel Kids,77.0,77.0,0 1 0
+574,Clinique,69.5,,0 1 0
+575,En Creme,78.0,46.8,0 1 0
+576,Nine West,88.95,88.95,0 1 0
+577,Nina,75.0,75.0,0 1 0
+578,BCBGeneration,78.0,,0 1 0
+579,Mitchell & Ness,85.0,,0 1 0
+580,Sanctuary,79.0,23.63,0 1 0
+581,Majestic International,70.0,70.0,0 1 0
+582,Paul Smith,75.0,75.0,0 1 0
+583,Re/Done,74.0,74.0,0 1 0
+584,Aqua,84.0,33.6,0 1 0
+585,BCBG,88.0,,0 1 0
+586,Diesel,88.0,88.0,0 1 0
+587,Vetements,80.0,80.0,0 1 0
+588,Waterford,70.0,49.99,0 1 0
+589,Red Haute,88.0,,0 1 0
+590,Aqua,78.0,,0 1 0
+591,Lab Series Skincare for Men,75.0,,0 1 0
+592,Forzieri,88.0,,0 1 0
+593,YMC,82.0,82.0,0 1 0
+594,Nike,79.0,79.0,0 1 0
+595,The Fifth Label,72.0,43.2,0 1 0
+596,adidas Originals,70.0,,0 1 0
+597,Beyond Yoga,99.0,99.0,0 1 0
+598,Supreme,109.0,109.0,0 1 0
+599,The Upside,109.0,81.0,0 1 0
+600,Jennifer Behr,98.0,,0 1 0
+601,Skagen,95.0,95.0,0 1 0
+602,Theory,95.0,39.97,0 1 0
+603,Terez,108.0,,0 1 0
+604,Nike,100.0,,0 1 0
+605,Wildfox,98.0,98.0,0 1 0
+606,ALLSAINTS,95.0,66.5,0 1 0
+607,Tory Sport,98.0,39.2,0 1 0
+608,Dior,95.0,95.0,0 1 0
+609,Polo Ralph Lauren,89.5,,0 1 0
+610,Gibson,89.0,89.0,0 1 0
+611,Beyond Yoga,99.0,79.2,0 1 0
+612,PE Nation,100.0,50.0,0 1 0
+613,GOOD AMERICAN,100.0,99.0,0 1 0
+614,BCBGeneration,108.0,,0 1 0
+615,Sterling Forever,93.0,93.0,0 1 0
+616,CeCe,89.0,89.0,0 1 0
+617,Alexis Bittar,95.0,95.0,0 1 0
+618,Ralph Lauren,89.5,,0 1 0
+619,Vince Camuto,99.0,99.0,0 1 0
+620,CeCe,99.0,99.0,0 1 0
+621,Hudson Park Collection,90.0,69.99,0 1 0
+622,Supreme,100.0,,0 1 0
+623,Vince Camuto,99.0,99.0,0 1 0
+624,Kith,109.0,,0 1 0
+625,Prps,98.0,29.0,0 1 0
+626,Jordan,90.0,74.99,0 1 0
+627,Barbour,99.0,49.5,0 1 0
+628,SFERRA,105.0,,0 1 0
+629,Aetrex,99.95,99.95,0 1 0
+630,Matouk,108.0,,0 1 0
+631,Whiting & Davis,98.0,98.0,0 1 0
+632,Karl Lagerfeld,105.0,74.0,0 1 0
+633,Lancaster,106.0,106.0,0 1 0
+634,adidas,90.0,54.0,0 1 0
+635,JENNIFER ZEUNER,99.0,79.2,0 1 0
+636,BCBG,98.0,,0 1 0
+637,Nike,100.0,,0 1 0
+638,Estelle,98.0,73.5,0 1 0
+639,Under Armour,92.0,,0 1 0
+640,Polo Ralph Lauren,98.5,,0 1 0
+641,Versace,109.0,77.0,0 1 0
+642,Vince Camuto,99.0,99.0,0 1 0
+643,Keen,99.95,99.95,0 1 0
+644,adidas,109.0,,0 1 0
+645,Charlotte Simone,95.0,,0 1 0
+646,Free People,108.0,108.0,0 1 0
+647,Supreme,100.0,,0 1 0
+648,JEN7 by 7 For All Mankind,99.0,99.0,0 1 0
+649,Vince Camuto,99.0,99.0,0 1 0
+650,Nike,102.0,92.0,0 1 0
+651,adidas,95.0,95.0,0 1 0
+652,Nike,108.0,,0 1 0
+653,Supreme,104.0,,0 1 0
+654,Massimo Alba,91.0,91.0,0 1 0
+655,Paul Smith,95.0,95.0,0 1 0
+656,Billabong,89.95,89.95,0 1 0
+657,Match,90.0,,0 1 0
+658,Gucci,100.0,100.0,0 1 0
+659,Hudson Park Collection,105.0,79.99,0 1 0
+660,Merrell,99.95,99.95,0 1 0
+661,Marcelo Burlon County of Milan,90.0,90.0,0 1 0
+662,adidas,105.0,80.0,0 1 0
+663,Jag Jeans,94.0,94.0,0 1 0
+664,ModCloth,89.0,53.4,0 1 0
+665,Paul Smith,95.0,95.0,0 1 0
+666,Polo Ralph Lauren,89.5,,0 1 0
+667,Magnanni,98.0,98.0,0 1 0
+668,Northskull,101.0,101.0,0 1 0
+669,Boden,90.0,90.0,0 1 0
+670,BLANKNYC,98.0,58.8,0 1 0
+671,Puma,90.0,,0 1 0
+672,Vix,98.0,58.8,0 1 0
+673,Karl Lagerfeld,95.0,48.0,0 1 0
+674,Paul Smith,96.0,96.0,0 1 0
+675,Bella Vita,99.95,39.98,0 1 0
+676,Topshop,95.0,95.0,1 0 0
+677,Topman,90.0,70.0,1 0 0
+678,Levi's,98.0,98.0,0 1 0
+679,John Varvatos,98.0,,0 1 0
+680,Vionic,99.95,49.97,0 1 0
+681,W.R.K,98.0,98.0,0 1 0
+682,Hermes,90.0,,0 1 0
+683,Bella Vita,99.95,47.31,0 1 0
+684,Supreme,109.0,109.0,0 1 0
+685,BIOEFFECT,105.0,,0 1 0
+686,FILA,90.0,72.0,0 1 0
+687,Cosabella,99.0,,0 1 0
+688,Tori Richard,98.0,98.0,0 1 0
+689,Moser,95.0,,0 1 0
+690,Rachel Comey,105.0,63.0,0 1 0
+691,Jordan,109.0,109.0,0 1 0
+692,adidas,96.0,96.0,0 1 0
+693,BLANKNYC,98.0,98.0,0 1 0
+694,Karl Lagerfeld Paris,99.0,,0 1 0
+695,Vionic,89.95,89.95,0 1 0
+696,Cire Trudon,105.0,,0 1 0
+697,Nike,100.0,,0 1 0
+698,J.Crew,98.0,87.99,0 1 0
+699,Naturalizer,98.95,98.95,0 1 0
+700,VIETRI,95.0,95.0,0 1 0
+701,Florsheim,100.0,100.0,0 1 0
+702,Bogs,89.95,89.95,0 1 0
+703,Tory Burch,98.0,98.0,0 1 0
+704,Universal Standard,100.0,100.0,0 1 0
+705,Sol Angeles,98.0,98.0,0 1 0
+706,Tiger Mist,99.0,99.0,0 1 0
+707,Vitamin A,99.0,,0 1 0
+708,Tom & Teddy,94.95,94.95,0 1 0
+709,Arte Italica,90.0,,0 1 0
+710,Omorovicza,90.0,90.0,0 1 0
+711,John Varvatos,98.0,65.66,0 1 0
+712,Robert Barakett,95.0,47.49,0 1 0
+713,Vix,98.0,83.3,0 1 0
+714,Converse,107.0,69.0,0 1 0
+715,TravisMathew,89.95,89.95,0 1 0
+716,J. Renee,89.95,59.95,0 1 0
+717,Tracie Martyn,98.0,,0 1 0
+718,BUENO,98.95,98.95,0 1 0
+719,Dior,102.0,,0 1 0
+720,Brooks Brothers,92.0,92.0,0 1 0
+721,Le Creuset,100.0,80.0,0 1 0
+722,Lou & Grey,89.5,89.5,0 1 0
+723,Boss Hugo Boss,98.0,,0 1 0
+724,Forzieri,96.0,,0 1 0
+725,Eileen Fisher,108.0,45.36,0 1 0
+726,William Yeoward,100.0,,0 1 0
+727,Mavi Jeans,98.0,98.0,0 1 0
+728,Eliza J,108.0,108.0,0 1 0
+729,Angel Maternity,99.95,99.95,0 1 0
+730,Jordan,109.0,109.0,0 1 0
+731,Topman,98.0,80.0,1 0 0
+732,Mavi Jeans,98.0,73.5,0 1 0
+733,CaslonR,99.95,39.98,0 1 0
+734,Lspace,92.0,,0 1 0
+735,Nordstrom,89.0,89.0,1 0 0
+736,EDWIN,92.0,82.0,0 1 0
+737,Badgley Mischka,109.0,65.4,0 1 0
+738,Dr. Vranjes,90.0,,0 1 0
+739,TOMS,94.95,94.95,0 1 0
+740,Fraiche by J,99.0,99.0,0 1 0
+741,Monnalisa,104.0,83.0,0 1 0
+742,Naturalizer,109.95,59.99,0 1 0
+743,Calvin Klein,89.5,,0 1 0
+744,Forzieri,90.0,,0 1 0
+745,diptyque,105.0,,0 1 0
+746,NIC+ZOE,108.0,,0 1 0
+747,Nike,100.0,,0 1 0
+748,James Perse,104.0,104.0,0 1 0
+749,Jimmy Choo,92.0,92.0,0 1 0
+750,Lucky Brand,89.5,89.5,0 1 0
+751,Alex Mill,98.0,58.8,0 1 0
+752,Nike,105.0,,0 1 0
+753,Levis,100.0,100.0,0 1 0
+754,evolve,98.95,44.5,0 1 0
+755,BAPE,100.0,,0 1 0
+756,Polo Ralph Lauren,90.0,90.0,0 1 0
+757,Ted Baker,95.0,,0 1 0
+758,Closed,96.0,96.0,0 1 0
+759,Hanro,98.0,98.0,0 1 0
+760,Majestic Filatures,91.0,82.0,0 1 0
+761,Reebok By Victoria Beckham,90.0,,0 1 0
+762,Stussy,98.0,98.0,0 1 0
+763,Nike,100.0,,0 1 0
+764,Brooks Brothers,92.0,92.0,0 1 0
+765,New Balance,92.0,74.0,0 1 0
+766,BLANKNYC,98.0,98.0,0 1 0
+767,Matteau,93.0,93.0,0 1 0
+768,YMC,95.0,95.0,0 1 0
+769,Jean Patou,100.0,,0 1 0
+770,Orciani,102.0,102.0,0 1 0
+771,Christian Louboutin,90.0,90.0,0 1 0
+772,adidas by Stella McCartney,104.0,93.0,0 1 0
+773,Guerlain,105.0,,0 1 0
+774,Faherty,98.0,98.0,0 1 0
+775,New Balance,100.0,100.0,0 1 0
+776,Elrene Home Fashions,100.0,,0 1 0
+777,Lysse,108.0,64.8,0 1 0
+778,Moschino,93.0,93.0,0 1 0
+779,David Tate,99.95,99.95,0 1 0
+780,Aubade Paris,89.0,,0 1 0
+781,HalogenR,89.95,35.98,0 1 0
+782,BAPE,105.0,,0 1 0
+783,Lilly PulitzerR,98.0,98.0,0 1 0
+784,Georg Jensen,95.0,,0 1 0
+785,BP.,89.95,35.98,0 1 0
+786,Shun,99.99,,0 1 0
+787,Puma,100.0,70.0,0 1 0
+788,Cutter & Buck,100.0,100.0,0 1 0
+789,Vans,103.0,103.0,0 1 0
+790,Kris Nations,98.0,98.0,0 1 0
+791,Sandalboyz,100.0,,0 1 0
+792,Karl Kani,90.0,,0 1 0
+793,New Balance,109.0,109.0,0 1 0
+794,J.Crew,98.0,58.8,0 1 0
+795,Seven7,98.0,,0 1 0
+796,Donna Karan,125.0,99.99,0 1 0
+797,Longchamp,129.0,129.0,0 1 0
+798,Nike,125.0,,0 1 0
+799,ELOQUII,109.95,59.98,0 1 0
+800,Nike,115.0,,0 1 0
+801,Karen Kane,118.0,82.6,0 1 0
+802,John Elliott,120.0,120.0,0 1 0
+803,Peacock Alley,115.0,,0 1 0
+804,FILA,128.0,90.0,0 1 0
+805,NYDJ,129.0,129.0,0 1 0
+806,Comme des Garcons,125.0,,0 1 0
+807,Rebecca Minkoff,118.0,118.0,0 1 0
+808,Goutal Paris,127.0,,0 1 0
+809,SFERRA,125.0,,0 1 0
+810,Gucci,120.0,120.0,0 1 0
+811,ISABEL MARANT,115.0,,0 1 0
+812,Nike,129.0,129.0,0 1 0
+813,Agent Provocateur,128.0,128.0,0 1 0
+814,Villa Home Collection,119.99,119.99,0 1 0
+815,Boss Hugo Boss,127.0,127.0,0 1 0
+816,adidas,120.0,,0 1 0
+817,Ewing Athletics,130.0,,0 1 0
+818,Gas Bijoux,126.0,126.0,0 1 0
+819,Supreme,120.0,,0 1 0
+820,Supreme,114.0,,0 1 0
+821,REFORMATION,118.0,118.0,0 1 0
+822,Paul Smith,125.0,125.0,0 1 0
+823,French Connection,128.0,38.33,0 1 0
+824,cupcakes and cashmere,129.95,129.95,0 1 0
+825,Nike,130.0,,0 1 0
+826,Lorenzo Uomo,125.0,125.0,0 1 0
+827,Tommy Hilfiger,116.0,115.0,0 1 0
+828,Nike,115.0,,0 1 0
+829,K-Swiss,115.0,,0 1 0
+830,Gitman Vintage,115.0,115.0,0 1 0
+831,COACH,125.0,125.0,0 1 0
+832,Villeroy & Boch,130.0,65.0,0 1 0
+833,Dsquared2,115.0,115.0,0 1 0
+834,Current/Elliott,128.0,128.0,0 1 0
+835,Bleu Rod Beattie,119.0,119.0,0 1 0
+836,L'Artiste by Spring Step,119.95,119.95,0 1 0
+837,Nike,130.0,109.99,0 1 0
+838,NIC+ZOE,128.0,,0 1 0
+839,Bugatchi,129.0,77.4,0 1 0
+840,BAPE,110.0,,0 1 0
+841,NIC+ZOE,128.0,89.6,0 1 0
+842,Tory Burch,126.0,126.0,0 1 0
+843,rag & bone,115.0,86.25,0 1 0
+844,Whistles,119.0,83.0,0 1 0
+845,Vitamin A,130.0,82.88,0 1 0
+846,Nike,114.0,,0 1 0
+847,Versace,119.0,108.0,0 1 0
+848,Rick Owens,125.0,125.0,0 1 0
+849,Lipault - Paris,115.0,80.0,0 1 0
+850,Emporio Armani,130.0,,0 1 0
+851,Michael Kors,110.0,43.98,0 1 0
+852,Universal Works,117.0,116.0,0 1 0
+853,Lise Charmel,130.0,,0 1 0
+854,Beach Riot,110.0,110.0,0 1 0
+855,CeCe,129.0,129.0,0 1 0
+856,Free People,128.0,128.0,0 1 0
+857,ISABEL MARANT,120.0,72.0,0 1 0
+858,adidas Originals,130.0,,0 1 0
+859,Nike,130.0,,0 1 0
+860,Polo Ralph Lauren,125.0,,0 1 0
+861,Missoma,123.0,123.0,0 1 0
+862,Lancaster,116.0,116.0,0 1 0
+863,Generation Love,128.0,,0 1 0
+864,Roja Parfums,125.0,,0 1 0
+865,Michael Aram,115.0,,0 1 0
+866,Sorrelli,130.0,97.5,0 1 0
+867,ERL,120.0,120.0,0 1 0
+868,Trotters,109.95,87.38,0 1 0
+869,Alpha Industries,125.0,125.0,0 1 0
+870,Puma,110.0,,0 1 0
+871,Supreme,120.0,,0 1 0
+872,Timberland,120.0,108.0,0 1 0
+873,Rebecca Minkoff,118.0,118.0,0 1 0
+874,Nike,125.0,,0 1 0
+875,adidas,120.0,,0 1 0
+876,Invicta,127.0,127.0,0 1 0
+877,Kendra Scott,128.0,95.0,0 1 0
+878,SFERRA,110.0,,0 1 0
+879,Lorenzo Uomo,125.0,125.0,0 1 0
+880,Opening Ceremony,119.0,119.0,0 1 0
+881,SKIN REGIMEN,115.0,115.0,0 1 0
+882,Madewell,128.0,76.8,0 1 0
+883,Melissa,114.95,92.0,0 1 0
+884,adidas Originals,120.0,120.0,0 1 0
+885,Olivia Burton,125.0,,0 1 0
+886,David Donahue,115.0,115.0,0 1 0
+887,RVCA,110.0,110.0,0 1 0
+888,Suicoke,115.0,115.0,0 1 0
+889,Paul Smith,125.0,93.75,0 1 0
+890,J.Crew,120.0,120.0,0 1 0
+891,Boss Hugo Boss,128.0,76.8,0 1 0
+892,Comme des Garcons,125.0,,0 1 0
+893,STATE Bags,115.0,,0 1 0
+894,Karl Lagerfeld,110.0,77.0,0 1 0
+895,Nadri,115.0,,0 1 0
+896,Lanvin,115.0,115.0,0 1 0
+897,Majestic Filatures,112.0,112.0,0 1 0
+898,Kappa,127.0,114.0,0 1 0
+899,Nike,110.0,,0 1 0
+900,Rockport,119.95,119.95,0 1 0
+901,Supreme,119.0,,0 1 0
+902,Represent,128.0,128.0,0 1 0
+903,The North Face,120.0,120.0,0 1 0
+904,Camper,119.95,119.95,0 1 0
+905,adidas,129.0,129.0,0 1 0
+906,Nike,125.0,125.0,0 1 0
+907,Karl Lagerfeld,120.0,72.0,0 1 0
+908,Asics,128.0,128.0,0 1 0
+909,Red Wing,120.0,120.0,0 1 0
+910,Tahari,128.0,128.0,0 1 0
+911,Vince Camuto,129.0,,0 1 0
+912,Balenciaga,125.0,125.0,0 1 0
+913,Diesel,128.0,128.0,0 1 0
+914,Schott NYC,120.0,120.0,0 1 0
+915,Carhartt Work In Progress,128.0,115.0,0 1 0
+916,Lise Charmel,125.0,61.0,0 1 0
+917,Cole Haan,110.0,57.75,0 1 0
+918,Nike,125.0,,0 1 0
+919,7 For All Mankind,125.0,75.0,0 1 0
+920,Burberry,120.0,120.0,0 1 0
+921,The Art of Shaving,120.0,,0 1 0
+922,Ted Baker,119.0,119.0,0 1 0
+923,Begg & Co,127.0,120.0,0 1 0
+924,CaslonR,109.95,43.98,0 1 0
+925,Vans,129.0,,0 1 0
+926,Polo Ralph Lauren,125.0,,0 1 0
+927,Liverpool,119.0,83.3,0 1 0
+928,UGG,110.0,109.95,0 1 0
+929,Joules,119.95,119.95,0 1 0
+930,BAPE,130.0,,0 1 0
+931,Kenneth Cole,129.0,,0 1 0
+932,Tommy Bahama,115.0,,0 1 0
+933,Reiss,120.0,120.0,0 1 0
+934,City Chic,119.0,71.4,0 1 0
+935,Nike,129.0,129.0,0 1 0
+936,Ted Baker,119.0,119.0,0 1 0
+937,Diesel Kids,123.0,123.0,0 1 0
+938,Levi's,128.0,128.0,0 1 0
+939,Mezlan,115.0,115.0,0 1 0
+940,Nadri,128.0,,0 1 0
+941,Nike,120.0,,0 1 0
+942,Jordan,120.0,,0 1 0
+943,Levi's,128.0,128.0,0 1 0
+944,Free People,128.0,76.8,0 1 0
+945,Ermenegildo Zegna,125.0,125.0,0 1 0
+946,MARIA BLACK,115.0,115.0,0 1 0
+947,adidas,125.0,,0 1 0
+948,Cole Haan,130.0,51.98,0 1 0
+949,Nike,130.0,130.0,0 1 0
+950,Alessi,115.0,,0 1 0
+951,adidas,116.0,81.0,0 1 0
+952,Emporio Armani,125.0,94.0,0 1 0
+953,adidas Originals,120.0,120.0,0 1 0
+954,Supreme,110.0,,0 1 0
+955,Free People,128.0,102.4,0 1 0
+956,Reigning Champ,120.0,120.0,0 1 0
+957,Maison Kitsune,120.0,,0 1 0
+958,Brooks,130.0,130.0,0 1 0
+959,Nike,110.0,,0 1 0
+960,Zac Zac Posen,130.0,78.0,0 1 0
+961,Lna,115.0,34.43,0 1 0
+962,Anne Klein,129.0,129.0,0 1 0
+963,Bond No. 9 New York,130.0,,0 1 0
+964,Tommy Bahama,125.0,75.0,0 1 0
+965,Topman,130.0,130.0,1 0 0
+966,Dansko,124.95,107.9,0 1 0
+967,Longchamp,125.0,125.0,0 1 0
+968,The North Face,119.0,119.0,0 1 0
+969,Reebok,130.0,129.0,0 1 0
+970,Givenchy,117.0,117.0,0 1 0
+971,Saucony,130.0,,0 1 0
+972,Sol Angeles,118.0,,0 1 0
+973,Franco Sarto,119.95,119.95,0 1 0
+974,Fred Perry x Raf Simons,116.0,104.0,0 1 0
+975,Timbuk2,129.0,129.0,0 1 0
+976,THE GREAT.,110.0,110.0,0 1 0
+977,Miraclesuit Plus,124.0,,0 1 0
+978,French Connection,125.0,65.63,0 1 0
+979,Fred Perry,116.0,116.0,0 1 0
+980,Pom Pom at Home,125.0,125.0,0 1 0
+981,Karl Lagerfeld,115.0,115.0,0 1 0
+982,Florsheim,110.0,82.46,0 1 0
+983,Madewell,128.0,49.99,0 1 0
+984,Seiko,118.0,,0 1 0
+985,Tommy Bahama,115.0,69.0,0 1 0
+986,Stussy,122.0,122.0,0 1 0
+987,Rockport Cobb Hill,109.95,109.95,0 1 0
+988,Roja Parfums,125.0,,0 1 0
+989,Lauren Ralph Lauren,128.0,128.0,0 1 0
+990,Sam Edelman,119.95,47.98,0 1 0
+991,Casio,130.0,,0 1 0
+992,Nike,129.0,129.0,0 1 0
+993,Kenneth Mink,129.98,,0 1 0
+994,J. Renee,119.95,119.95,0 1 0
+995,Johnny Was,138.0,96.6,0 1 0
+996,Vans,145.0,145.0,0 1 0
+997,Tommy Hilfiger,151.0,144.0,0 1 0
+998,Diesel,145.0,145.0,0 1 0
+999,Cole Haan,150.0,150.0,0 1 0
+1000,Ray-Ban,152.0,152.0,0 1 0
+1001,Taylor Dresses,138.0,138.0,0 1 0
+1002,Hugo,138.0,82.8,0 1 0
+1003,Reebok,150.0,,0 1 0
+1004,Salvatore Ferragamo,154.0,154.0,0 1 0
+1005,Nike,155.0,,0 1 0
+1006,GOOD AMERICAN,159.0,159.0,0 1 0
+1007,Jonas Studio,156.0,156.0,0 1 0
+1008,Nike,145.0,145.0,0 1 0
+1009,David Donahue,145.0,145.0,0 1 0
+1010,Boss Hugo Boss,138.0,138.0,0 1 0
+1011,ALLSAINTS,150.0,150.0,0 1 0
+1012,Givenchy,155.0,155.0,0 1 0
+1013,Emporio Armani,145.0,145.0,0 1 0
+1014,Ever New,159.0,159.0,0 1 0
+1015,Safavieh,149.0,96.85,0 1 0
+1016,Nike,143.0,,0 1 0
+1017,Endless Rose,150.0,150.0,0 1 0
+1018,COACH,150.0,150.0,0 1 0
+1019,Joe's Jeans,158.0,110.6,0 1 0
+1020,Emporio Armani,154.0,154.0,0 1 0
+1021,Eliza J,148.0,88.8,0 1 0
+1022,Supreme,150.0,150.0,0 1 0
+1023,LOREN STEWART,142.0,142.0,0 1 0
+1024,Puma,151.0,,0 1 0
+1025,Bashian,145.0,108.75,0 1 0
+1026,Stella McCartney,150.0,,0 1 0
+1027,Mini Rodini,145.0,116.0,0 1 0
+1028,Lancaster Paris,132.0,,0 1 0
+1029,Eliza J,138.0,41.33,0 1 0
+1030,Fear of God,150.0,,0 1 0
+1031,Sam Edelman,138.0,110.4,0 1 0
+1032,KENZO,135.0,135.0,0 1 0
+1033,Reed & Barton,150.0,,0 1 0
+1034,Michael Kors,141.0,113.0,0 1 0
+1035,Woolrich,138.0,138.0,0 1 0
+1036,Neil Barrett,150.0,150.0,0 1 0
+1037,Van Cleef & Arpels,150.0,,0 1 0
+1038,7 For All Mankind,149.0,,0 1 0
+1039,BAPE,155.0,,0 1 0
+1040,Maison Kitsune,145.0,145.0,0 1 0
+1041,LNDR,150.0,75.0,0 1 0
+1042,Natori,140.0,,0 1 0
+1043,Reebok,150.0,,0 1 0
+1044,Supreme,150.0,,0 1 0
+1045,Ted Baker,155.0,92.98,0 1 0
+1046,Palace,150.0,,0 1 0
+1047,Anine Bing,149.0,149.0,0 1 0
+1048,Waterworks,138.0,114.99,0 1 0
+1049,J/slides,144.95,81.2,0 1 0
+1050,Armani,145.0,,0 1 0
+1051,Ted Baker,149.0,149.0,0 1 0
+1052,Supreme,139.0,,0 1 0
+1053,Sam Edelman,145.0,145.0,0 1 0
+1054,Sandro Moscoloni,150.0,89.9,0 1 0
+1055,Nike,139.0,,0 1 0
+1056,David Donahue,145.0,145.0,0 1 0
+1057,Dodo,130.0,,0 1 0
+1058,Maggy London,138.0,138.0,0 1 0
+1059,Eileen Fisher,158.0,63.2,0 1 0
+1060,Florence Eiseman,132.0,,0 1 0
+1061,Saturdays NYC,135.0,135.0,0 1 0
+1062,Botkier,148.0,103.6,0 1 0
+1063,Ader Error,159.0,159.0,0 1 0
+1064,Astr The Label,138.0,138.0,0 1 0
+1065,Fendi,140.0,,0 1 0
+1066,adidas,150.0,,0 1 0
+1067,Topshop,150.0,74.99,1 0 0
+1068,Carhartt Work In Progress,138.0,138.0,0 1 0
+1069,Palace,156.0,,0 1 0
+1070,AZ Collection,158.0,,0 1 0
+1071,Colbert Md,135.0,,0 1 0
+1072,Topshop,150.0,105.0,1 0 0
+1073,Orciani,137.0,137.0,0 1 0
+1074,Ragdoll,149.0,149.0,0 1 0
+1075,FILA,144.0,,0 1 0
+1076,CeCe,139.0,139.0,0 1 0
+1077,Mvmt,135.0,,0 1 0
+1078,Boss Hugo Boss,148.0,,0 1 0
+1079,Moschino,146.0,131.0,0 1 0
+1080,Karen Millen,140.0,70.0,0 1 0
+1081,Morgan & Co.,149.0,149.0,0 1 0
+1082,Supreme,150.0,,0 1 0
+1083,Calvin Klein Jeans,135.0,135.0,0 1 0
+1084,Nike,150.0,,0 1 0
+1085,Fleur du Mal,138.0,138.0,0 1 0
+1086,Takashi Murakami,145.0,,0 1 0
+1087,Saskia Diez,155.0,155.0,0 1 0
+1088,Lilly PulitzerR,138.0,138.0,0 1 0
+1089,Save The Duck,144.0,144.0,0 1 0
+1090,Mara Hoffman,140.0,83.98,0 1 0
+1091,Nike,145.0,,0 1 0
+1092,BAPE,145.0,,0 1 0
+1093,GOOD AMERICAN,159.0,159.0,0 1 0
+1094,Tommy Bahama,135.0,135.0,0 1 0
+1095,Underprotection,136.0,95.0,0 1 0
+1096,Free People,148.0,148.0,0 1 0
+1097,Hanro,148.0,111.0,0 1 0
+1098,Donna Karan,145.0,,0 1 0
+1099,Puma,150.0,,0 1 0
+1100,Enzo Angiolini,138.95,138.95,0 1 0
+1101,Puma,135.0,,0 1 0
+1102,Volcom,135.0,135.0,0 1 0
+1103,ONO,149.95,149.95,0 1 0
+1104,Botkier,158.0,94.8,0 1 0
+1105,Jordan,150.0,,0 1 0
+1106,Nest Fragrances,140.0,,0 1 0
+1107,Supreme,132.0,,0 1 0
+1108,Boss Hugo Boss,138.0,,0 1 0
+1109,Heron Preston,154.0,146.0,0 1 0
+1110,Mara Hoffman,140.0,140.0,0 1 0
+1111,Under Armour,150.0,,0 1 0
+1112,Tory Burch,138.0,,0 1 0
+1113,A.P.C.,148.0,148.0,0 1 0
+1114,NIC+ZOE,148.0,118.4,0 1 0
+1115,Krups,149.99,,0 1 0
+1116,Matouk,135.0,,0 1 0
+1117,Maceoo,138.0,138.0,0 1 0
+1118,Sam Edelman,139.0,112.0,0 1 0
+1119,SFERRA,140.0,,0 1 0
+1120,Tommy Jeans,137.0,130.0,0 1 0
+1121,Supreme,150.0,,0 1 0
+1122,NIC+ZOE,148.0,148.0,0 1 0
+1123,Nike,150.0,119.96,0 1 0
+1124,Maison Kitsune,150.0,135.0,0 1 0
+1125,Penhaligon's,144.0,,0 1 0
+1126,Emporio Armani,154.0,108.0,0 1 0
+1127,Zwilling J.a. Henckels,134.99,,0 1 0
+1128,Rebecca Minkoff,158.0,94.8,0 1 0
+1129,Aubade Paris,139.0,,0 1 0
+1130,Puma,138.0,104.0,0 1 0
+1131,Kith,150.0,,0 1 0
+1132,Michael Stars,138.0,,0 1 0
+1133,BCBG,138.0,,0 1 0
+1134,ROSSIGNOL,150.0,150.0,0 1 0
+1135,Roberto Cavalli,147.0,103.0,0 1 0
+1136,Pom Pom at Home,149.0,149.0,0 1 0
+1137,adidas,135.0,,0 1 0
+1138,Sanctuary,149.0,44.63,0 1 0
+1139,Stone Island,145.0,145.0,0 1 0
+1140,adidas,137.0,,0 1 0
+1141,Milly Minis,150.0,73.0,0 1 0
+1142,Cold Picnic,135.0,135.0,0 1 0
+1143,Orlebar Brown,158.0,95.0,0 1 0
+1144,Norma Kamali,145.0,108.0,0 1 0
+1145,Michael Aram,150.0,,0 1 0
+1146,COACH,150.0,150.0,0 1 0
+1147,New Balance,141.0,141.0,0 1 0
+1148,BCBG,148.0,,0 1 0
+1149,Rails,144.0,,0 1 0
+1150,Opening Ceremony,150.0,150.0,0 1 0
+1151,CC Corso Como,138.95,63.98,0 1 0
+1152,Nike,136.0,82.0,0 1 0
+1153,Maree Pour Toi,149.0,149.0,0 1 0
+1154,Northskull,154.0,154.0,0 1 0
+1155,Aqua,132.0,,0 1 0
+1156,Supreme,140.0,,0 1 0
+1157,Ray-Ban,155.0,155.0,0 1 0
+1158,Jiwinaia,130.0,130.0,0 1 0
+1159,Geox,139.95,83.99,0 1 0
+1160,Bonpoint,136.0,95.0,0 1 0
+1161,Sam Edelman,148.0,148.0,0 1 0
+1162,Johnston & Murphy,159.0,159.0,0 1 0
+1163,BAPE,131.0,,0 1 0
+1164,Hestra,150.0,105.0,0 1 0
+1165,Andre Assous,138.95,138.95,0 1 0
+1166,Off-White,150.0,,0 1 0
+1167,Jessica Simpson,158.95,95.37,0 1 0
+1168,J Brand,148.0,148.0,0 1 0
+1169,LHD,150.0,,0 1 0
+1170,Orciani,133.0,133.0,0 1 0
+1171,Tous,139.0,,0 1 0
+1172,OVADIA & SONS,140.0,140.0,0 1 0
+1173,John Varvatos,148.0,148.0,0 1 0
+1174,Boden,150.0,90.0,0 1 0
+1175,Travelpro,140.0,69.99,0 1 0
+1176,Asics,143.0,,0 1 0
+1177,Nike,155.0,155.0,0 1 0
+1178,Rockport,139.95,139.95,0 1 0
+1179,Closed,158.0,137.0,0 1 0
+1180,Estelle,148.0,169.0,0 1 0
+1181,BAPE,158.0,,0 1 0
+1182,All-Clad,155.0,39.99,0 1 0
+1183,KENZO,135.0,135.0,0 1 0
+1184,Nike,140.0,,0 1 0
+1185,Bugatchi,149.0,89.4,0 1 0
+1186,NIC+ZOE,148.0,148.0,0 1 0
+1187,Salvatore Ferragamo,155.0,155.0,0 1 0
+1188,Sarto by Franco Sarto,138.95,138.95,0 1 0
+1189,Fendi,140.0,140.0,0 1 0
+1190,7 For All Mankind,159.0,,0 1 0
+1191,UGG,139.95,139.95,0 1 0
+1192,Asics,149.95,74.96,0 1 0
+1193,Nike,149.0,149.0,0 1 0
+1194,adidas,180.0,144.99,0 1 0
+1195,Michael Kors,182.0,182.0,0 1 0
+1196,Acqua di Parma,171.0,171.0,0 1 0
+1197,Mcq Alexander Mcqueen,175.0,,0 1 0
+1198,Eliza J,168.0,168.0,0 1 0
+1199,Laundry by Shelli Segal,178.0,133.5,0 1 0
+1200,Armani Exchange,165.0,,0 1 0
+1201,KENZO,180.0,,0 1 0
+1202,Il Gufo,160.0,160.0,0 1 0
+1203,Palace,164.0,,0 1 0
+1204,42 GOLD,184.95,184.95,0 1 0
+1205,Bulova,168.0,,0 1 0
+1206,Jeff,185.0,123.95,0 1 0
+1207,Off-White,190.0,190.0,0 1 0
+1208,Supreme,189.0,,0 1 0
+1209,Nike,164.0,,0 1 0
+1210,Supreme,186.0,,0 1 0
+1211,Chan Luu,170.0,170.0,0 1 0
+1212,Palace,180.0,,0 1 0
+1213,A.L.C.,165.0,,0 1 0
+1214,3x1,175.0,,0 1 0
+1215,Pelle Moda,159.95,111.96,0 1 0
+1216,Z Zegna,175.0,175.0,0 1 0
+1217,Oliver Gal,169.0,,0 1 0
+1218,BCBG,178.0,,0 1 0
+1219,Alex Evenings,169.0,169.0,0 1 0
+1220,Supreme,175.0,,0 1 0
+1221,Roberto Collina,188.0,141.0,0 1 0
+1222,Moschino,178.0,178.0,0 1 0
+1223,MARIA BLACK,170.0,170.0,0 1 0
+1224,iCanvas,189.99,189.99,0 1 0
+1225,Ray-Ban,178.0,124.6,0 1 0
+1226,Diesel,178.0,89.0,0 1 0
+1227,Ted Baker,185.0,185.0,0 1 0
+1228,Paul Smith,187.0,187.0,0 1 0
+1229,Creed,185.0,185.0,0 1 0
+1230,Modway,169.0,126.75,0 1 0
+1231,David Tate,159.95,159.95,0 1 0
+1232,Todd Snyder,168.0,83.98,0 1 0
+1233,Rebecca Minkoff,175.0,175.0,0 1 0
+1234,Kith,180.0,,0 1 0
+1235,Ann Demeulemeester,184.0,115.0,0 1 0
+1236,Boss Hugo Boss,179.0,125.0,0 1 0
+1237,DL,189.0,189.0,0 1 0
+1238,Nike,184.0,,0 1 0
+1239,Bloomingdale's,186.0,74.4,0 1 0
+1240,Marc Joseph,185.0,,0 1 0
+1241,n:PHILANTHROPY,178.0,178.0,0 1 0
+1242,Natori,178.0,178.0,0 1 0
+1243,Ancient Greek Sandals,177.0,142.0,0 1 0
+1244,Kate Spade New York,188.0,,0 1 0
+1245,Nourison,179.0,,0 1 0
+1246,Undercover,160.0,160.0,0 1 0
+1247,Heron Preston,165.0,66.0,0 1 0
+1248,adidas,170.0,170.0,0 1 0
+1249,Young Versace,179.0,179.0,0 1 0
+1250,Red Carter,180.0,75.6,0 1 0
+1251,Supreme,160.0,,0 1 0
+1252,Natori,188.0,188.0,0 1 0
+1253,Supreme,174.0,,0 1 0
+1254,Tommy Hilfiger,173.0,121.0,0 1 0
+1255,Kith,185.0,,0 1 0
+1256,adidas,159.0,,0 1 0
+1257,Soulland,190.0,190.0,0 1 0
+1258,Finders Keepers,160.0,84.0,0 1 0
+1259,adidas,180.0,,0 1 0
+1260,Ray-Ban,183.0,174.0,0 1 0
+1261,Diesel,178.0,178.0,0 1 0
+1262,Michael Kors,178.0,106.8,0 1 0
+1263,Paul Smith,173.0,173.0,0 1 0
+1264,Orlebar Brown,175.0,175.0,0 1 0
+1265,Whistles,169.0,,0 1 0
+1266,Hudson Park Collection,170.0,134.99,0 1 0
+1267,Onia,175.0,175.0,0 1 0
+1268,Berle,175.0,175.0,0 1 0
+1269,Asics,169.0,,0 1 0
+1270,Theory,175.0,104.98,0 1 0
+1271,NEUW,189.0,189.0,0 1 0
+1272,Mara Hoffman,160.0,95.98,0 1 0
+1273,Michael Kors,187.0,187.0,0 1 0
+1274,Lafonn,185.0,185.0,0 1 0
+1275,Supreme,175.0,,0 1 0
+1276,NIC+ZOE,188.0,,0 1 0
+1277,Robert Graham,188.0,188.0,0 1 0
+1278,Heidi Klein,180.0,108.0,0 1 0
+1279,Camper,165.0,99.0,0 1 0
+1280,adidas,180.0,,0 1 0
+1281,Nike,165.0,,0 1 0
+1282,Reiss,180.0,80.0,0 1 0
+1283,The Lazy Poet,190.0,190.0,0 1 0
+1284,Off-White,190.0,133.0,0 1 0
+1285,City Chic,189.0,113.4,0 1 0
+1286,Ancient Greek Sandals,185.0,185.0,0 1 0
+1287,Supreme,170.0,170.0,0 1 0
+1288,Borrelli,161.0,161.0,0 1 0
+1289,Tommy Hilfiger,174.0,174.0,0 1 0
+1290,Palace,188.0,,0 1 0
+1291,Polo Ralph Lauren,171.0,171.0,0 1 0
+1292,Palace,180.0,180.0,0 1 0
+1293,Jared Lang,159.0,106.53,0 1 0
+1294,Ag,178.0,178.0,0 1 0
+1295,Supreme,175.0,175.0,0 1 0
+1296,La Perla,174.0,174.0,0 1 0
+1297,OAMC,165.0,124.0,0 1 0
+1298,Ag,168.0,117.6,0 1 0
+1299,adidas,169.0,,0 1 0
+1300,Suboo,160.0,,0 1 0
+1301,Nike,161.0,129.0,0 1 0
+1302,GOOD AMERICAN,179.0,107.4,0 1 0
+1303,Supreme,190.0,,0 1 0
+1304,Patrizia Pepe,165.0,163.0,0 1 0
+1305,Lacoste,172.0,138.0,0 1 0
+1306,rag & bone,165.0,165.0,0 1 0
+1307,Emilio Pucci,160.0,160.0,0 1 0
+1308,GR10K,160.0,128.0,0 1 0
+1309,BAPE,160.0,,0 1 0
+1310,Vans,170.0,,0 1 0
+1311,Ag,188.0,141.0,0 1 0
+1312,Supreme,160.0,,0 1 0
+1313,Emporio Armani,181.0,108.6,0 1 0
+1314,Naot,159.95,159.95,0 1 0
+1315,American Home Fashion,180.0,119.99,0 1 0
+1316,DL,189.0,141.75,0 1 0
+1317,Nourison,179.0,,0 1 0
+1318,Dsquared2,175.0,175.0,0 1 0
+1319,UGG,159.95,159.95,0 1 0
+1320,Emilio Pucci,170.0,102.0,0 1 0
+1321,Lauren Ralph Lauren,181.0,127.0,0 1 0
+1322,adidas,170.0,170.0,0 1 0
+1323,Z Zegna,175.0,175.0,0 1 0
+1324,STUDIOSOPHIASOPHIA,160.0,119.98,0 1 0
+1325,AZ Collection,175.0,70.0,0 1 0
+1326,Vince,165.0,,0 1 0
+1327,Botkier,188.0,,0 1 0
+1328,Christofle,186.0,,0 1 0
+1329,Iceberg,161.0,105.0,0 1 0
+1330,White Sand,161.0,161.0,0 1 0
+1331,Ted Baker,189.0,,0 1 0
+1332,Georg Jensen,165.0,,0 1 0
+1333,Topps,160.0,,0 1 0
+1334,Jordan,170.0,,0 1 0
+1335,Akola,175.0,175.0,0 1 0
+1336,Maison Kitsune,160.0,104.0,0 1 0
+1337,Boyish Jeans,160.0,,0 1 0
+1338,Polo Ralph Lauren,160.0,160.0,0 1 0
+1339,American Home Fashion,180.0,119.99,0 1 0
+1340,Supreme,189.0,,0 1 0
+1341,Velvet,175.0,,0 1 0
+1342,Perfect Moment,186.0,168.0,0 1 0
+1343,Burberry,180.0,180.0,0 1 0
+1344,Closed,172.0,172.0,0 1 0
+1345,Agolde,188.0,112.0,0 1 0
+1346,David Donahue,165.0,132.0,0 1 0
+1347,adidas,160.0,144.0,0 1 0
+1348,Nike,160.0,,0 1 0
+1349,Reiss,180.0,180.0,0 1 0
+1350,Champion,171.0,162.0,0 1 0
+1351,Desmond & Dempsey,180.0,,0 1 0
+1352,Eastpak,181.0,181.0,0 1 0
+1353,Matouk,174.0,,0 1 0
+1354,Reiss,160.0,80.0,0 1 0
+1355,Ted Baker,174.95,174.95,0 1 0
+1356,Ancient Greek Sandals,177.0,177.0,0 1 0
+1357,Loreak Mendian,190.0,,0 1 0
+1358,rag & bone,185.0,185.0,0 1 0
+1359,Kiki de Montparnasse,170.0,170.0,0 1 0
+1360,Tory Sport,168.0,,0 1 0
+1361,Lenox,176.95,,0 1 0
+1362,Nike,185.0,185.0,0 1 0
+1363,adidas,165.0,165.0,0 1 0
+1364,Eileen Fisher,188.0,131.6,0 1 0
+1365,Whistles,189.0,,0 1 0
+1366,ALLSAINTS,165.0,115.5,0 1 0
+1367,Panini,160.0,,0 1 0
+1368,Gal Meets Glam Collection,178.0,106.8,0 1 0
+1369,RACHEL Rachel Roy,169.0,169.0,0 1 0
+1370,Ralph Lauren,185.0,55.43,0 1 0
+1371,Michael Kors,187.0,149.0,0 1 0
+1372,Dondup,181.0,163.0,0 1 0
+1373,Reiss,180.0,89.98,0 1 0
+1374,Nike,173.0,173.0,0 1 0
+1375,Emporio Armani,160.0,158.0,0 1 0
+1376,Levkoff,178.0,178.0,0 1 0
+1377,Ray-Ban,178.0,,0 1 0
+1378,adidas,165.0,165.0,0 1 0
+1379,Emporio Armani,164.0,164.0,0 1 0
+1380,Kurt Geiger,174.95,174.95,0 1 0
+1381,Ash,185.0,,0 1 0
+1382,Versace,167.0,150.0,0 1 0
+1383,John Robshaw,173.0,,0 1 0
+1384,Nike,175.0,,0 1 0
+1385,Michael Aram,160.0,160.0,0 1 0
+1386,COACH,175.0,167.0,0 1 0
+1387,Diesel,178.0,143.0,0 1 0
+1388,Ray-Ban,160.0,160.0,0 1 0
+1389,Andre Assous,188.95,188.95,0 1 0
+1390,Eytys,161.0,129.0,0 1 0
+1391,Le Gali,189.0,113.4,0 1 0
+1392,Nike,180.0,180.0,0 1 0
+1393,Nylora,195.0,97.0,0 1 0
+1394,Ray-Ban,206.0,206.0,0 1 0
+1395,Emporio Armani,215.0,183.0,0 1 0
+1396,Ralph Lauren,215.0,149.99,0 1 0
+1397,Nike,209.0,,0 1 0
+1398,Elie Tahari,198.0,71.52,0 1 0
+1399,Paige,199.0,97.0,0 1 0
+1400,L'AGENCE,195.0,195.0,0 1 0
+1401,Paige,215.0,215.0,0 1 0
+1402,Robert Barakett,195.0,97.49,0 1 0
+1403,Diadora,225.0,,0 1 0
+1404,KENZO,195.0,117.0,0 1 0
+1405,BCBG,198.0,,0 1 0
+1406,Diesel,198.0,198.0,0 1 0
+1407,John Hardy,195.0,195.0,0 1 0
+1408,MARC JACOBS,210.0,210.0,0 1 0
+1409,The Kooples,218.0,,0 1 0
+1410,Ippolita,195.0,,0 1 0
+1411,Ray-Ban,223.0,111.49,0 1 0
+1412,ALLSAINTS,198.0,,0 1 0
+1413,David Tate,219.95,219.95,0 1 0
+1414,Dean Davidson,195.0,195.0,0 1 0
+1415,Kenneth Cole,225.0,,0 1 0
+1416,adidas,205.0,205.0,0 1 0
+1417,Fabiana Filippi,219.0,219.0,0 1 0
+1418,Eastern Accents,195.0,,0 1 0
+1419,Karl Lagerfeld,225.0,225.0,0 1 0
+1420,Reiss,220.0,,0 1 0
+1421,maje,225.0,,0 1 0
+1422,Givenchy,225.0,,0 1 0
+1423,Bonpoint,200.0,200.0,0 1 0
+1424,Reiss,195.0,70.0,0 1 0
+1425,Fleur du Mal,195.0,,0 1 0
+1426,Nannacay,207.0,155.25,0 1 0
+1427,Diesel,198.0,159.0,0 1 0
+1428,Forzieri,210.8,,0 1 0
+1429,Gucci,220.0,220.0,0 1 0
+1430,Villeroy & Boch,218.0,130.8,0 1 0
+1431,Jiwinaia,200.0,139.98,0 1 0
+1432,Icebreaker,200.0,200.0,0 1 0
+1433,Quantum Courage,213.0,211.0,0 1 0
+1434,Seletti,210.0,,0 1 0
+1435,Nike,220.0,,0 1 0
+1436,William Yeoward,205.0,,0 1 0
+1437,Polo Ralph Lauren,198.0,,0 1 0
+1438,KENZO,219.0,219.0,0 1 0
+1439,Alex Evenings,199.0,199.0,0 1 0
+1440,Dolce & Gabbana,195.0,117.0,0 1 0
+1441,Citizens of Humanity,208.0,208.0,0 1 0
+1442,Current/Elliott,198.0,118.8,0 1 0
+1443,Ralph Lauren Home,195.0,,0 1 0
+1444,Jordan,200.0,,0 1 0
+1445,Rebecca Minkoff,198.0,148.5,0 1 0
+1446,Love Moschino,211.0,211.0,0 1 0
+1447,BCBG,198.0,,0 1 0
+1448,MONICA RICH KOSANN,215.0,215.0,0 1 0
+1449,Dalyn Rug Company,199.0,149.25,0 1 0
+1450,Mother,196.0,196.0,0 1 0
+1451,Loewe,220.0,220.0,0 1 0
+1452,Bernardo,195.0,129.9,0 1 0
+1453,Paul Smith,209.0,167.0,0 1 0
+1454,Supreme,214.0,,0 1 0
+1455,Marchesa Notte,225.0,56.0,0 1 0
+1456,BAPE,225.0,,0 1 0
+1457,Gucci,195.0,195.0,0 1 0
+1458,Gas Bijoux,202.0,202.0,0 1 0
+1459,Alexander Wang,223.0,212.0,0 1 0
+1460,Fleur du Mal,195.0,195.0,0 1 0
+1461,Paul Smith,208.0,208.0,0 1 0
+1462,Boss Hugo Boss,213.0,213.0,0 1 0
+1463,Illesteva,220.0,,0 1 0
+1464,Cole Haan,200.0,200.0,0 1 0
+1465,Versace,225.0,225.0,0 1 0
+1466,LoveShackFancy,215.0,128.98,0 1 0
+1467,Emporio Armani,215.0,,0 1 0
+1468,Aspesi,224.0,135.0,0 1 0
+1469,Reigning Champ,220.0,,0 1 0
+1470,Pierre Hardy,195.0,195.0,0 1 0
+1471,Nudie Jeans,210.0,210.0,0 1 0
+1472,Flower Mountain,199.0,179.1,0 1 0
+1473,Imagine by Vince Camuto,194.95,194.95,0 1 0
+1474,Veronica Beard,198.0,198.0,0 1 0
+1475,Michael Kors,225.0,168.75,0 1 0
+1476,Tommy Hilfiger,194.0,194.0,0 1 0
+1477,Robert Barakett,195.0,195.0,0 1 0
+1478,Supreme,219.0,,0 1 0
+1479,Natasha Zinko,215.0,129.0,0 1 0
+1480,Jordan,200.0,,0 1 0
+1481,Mcq Alexander Mcqueen,193.0,116.0,0 1 0
+1482,Jarlo,210.0,126.0,0 1 0
+1483,Salvatore Ferragamo,190.0,,0 1 0
+1484,Polo Ralph Lauren,198.0,99.0,0 1 0
+1485,rag & bone,225.0,150.75,0 1 0
+1486,RtA,215.0,215.0,0 1 0
+1487,Calvin Klein 205W39NYC,200.0,200.0,0 1 0
+1488,Ralph Lauren,225.0,168.75,0 1 0
+1489,Badgley Mischka,198.0,79.2,0 1 0
+1490,Senso,198.0,139.0,0 1 0
+1491,Antony Morato,193.0,144.75,0 1 0
+1492,Patrizia Pepe,203.0,203.0,0 1 0
+1493,Kiton,197.0,187.0,0 1 0
+1494,Jack Mason,225.0,225.0,0 1 0
+1495,Frame,201.48,,0 1 0
+1496,Reiss,195.0,195.0,0 1 0
+1497,Alexander McQueen,220.0,220.0,0 1 0
+1498,Boss Hugo Boss,198.0,,0 1 0
+1499,Solid & Striped,215.0,215.0,0 1 0
+1500,Palace,200.0,,0 1 0
+1501,Loeffler Randall,225.0,90.0,0 1 0
+1502,Dunhill,210.0,,0 1 0
+1503,Natasha Zinko,197.0,138.0,0 1 0
+1504,Post-imperial,225.0,,0 1 0
+1505,Birkenstock,210.0,199.95,0 1 0
+1506,SFERRA,220.0,,0 1 0
+1507,Mignonne Gavigan,225.0,,0 1 0
+1508,Fleur du Mal,195.0,195.0,0 1 0
+1509,Michael Kors,225.0,225.0,0 1 0
+1510,Visconti,215.0,,0 1 0
+1511,Reiss,220.0,220.0,0 1 0
+1512,rag & bone,195.0,146.25,0 1 0
+1513,Solid & Striped,215.0,215.0,0 1 0
+1514,Roberto Collina,211.0,127.0,0 1 0
+1515,Cole Haan,200.0,124.9,0 1 0
+1516,Topman,195.0,195.0,1 0 0
+1517,rag & bone,225.0,,0 1 0
+1518,Show Me Your Mumu,216.0,216.0,0 1 0
+1519,Herend,210.0,,0 1 0
+1520,Labrazel,210.0,,0 1 0
+1521,SFERRA,200.0,,0 1 0
+1522,Ancient Greek Sandals,225.0,158.0,0 1 0
+1523,Topman,195.0,116.98,1 0 0
+1524,Cole Haan,220.0,110.0,0 1 0
+1525,Eileen Fisher,195.0,77.93,0 1 0
+1526,Maison Kitsune,195.0,195.0,0 1 0
+1527,Ermenegildo Zegna,195.0,195.0,0 1 0
+1528,Anke Drechsel,222.0,222.0,0 1 0
+1529,Fornasetti,202.0,202.0,0 1 0
+1530,A.P.C.,220.0,198.0,0 1 0
+1531,Nike,205.0,205.0,0 1 0
+1532,Apparis,220.0,220.0,0 1 0
+1533,Kith,215.0,,0 1 0
+1534,IRO,219.0,153.0,0 1 0
+1535,Apparis,215.0,215.0,0 1 0
+1536,Waterford,195.0,,0 1 0
+1537,Karl Lagerfeld,225.0,113.0,0 1 0
+1538,Aqua,198.0,,0 1 0
+1539,Waterford,200.0,140.0,0 1 0
+1540,John Smedley,225.0,225.0,0 1 0
+1541,Eileen Fisher,198.0,97.02,0 1 0
+1542,Versace,193.0,155.0,0 1 0
+1543,Diesel,200.0,200.0,0 1 0
+1544,Barba,200.0,200.0,0 1 0
+1545,Hudson Jeans,215.0,128.98,0 1 0
+1546,Dolce & Gabbana,225.0,221.0,0 1 0
+1547,Jordan,220.0,,0 1 0
+1548,ara,194.95,194.95,0 1 0
+1549,Ermenegildo Zegna,195.0,,0 1 0
+1550,Chin Teo,205.0,205.0,0 1 0
+1551,Iceberg,195.0,176.0,0 1 0
+1552,B-Low the Belt,209.0,209.0,0 1 0
+1553,J Brand,198.0,89.1,0 1 0
+1554,Noah,220.0,,0 1 0
+1555,Nike,222.0,,0 1 0
+1556,Zachary Prell,198.0,198.0,0 1 0
+1557,ISABEL MARANT,190.0,190.0,0 1 0
+1558,Frame,220.0,220.0,0 1 0
+1559,Ermenegildo Zegna,195.0,195.0,0 1 0
+1560,Karl Lagerfeld,205.0,103.0,0 1 0
+1561,Fleur du Mal,198.0,198.0,0 1 0
+1562,Eileen Fisher,198.0,,0 1 0
+1563,Repetto,205.0,,0 1 0
+1564,Whistles,199.0,,0 1 0
+1565,DKNY,215.0,169.99,0 1 0
+1566,Versace,215.0,,0 1 0
+1567,Supreme,193.0,,0 1 0
+1568,ALALA,215.0,107.0,0 1 0
+1569,Nudie Jeans,210.0,210.0,0 1 0
+1570,Suboo,223.0,221.0,0 1 0
+1571,BCBG,198.0,,0 1 0
+1572,STAUD,210.0,210.0,0 1 0
+1573,Off-White,213.0,,0 1 0
+1574,MSGM,212.0,149.0,0 1 0
+1575,Hobbs London,210.0,105.0,0 1 0
+1576,ROSSIGNOL,200.0,200.0,0 1 0
+1577,Burberry,220.0,220.0,0 1 0
+1578,Travis Scott,211.0,,0 1 0
+1579,Suicoke,213.0,213.0,0 1 0
+1580,Ralph Lauren,215.0,129.0,0 1 0
+1581,Off-White,200.0,,0 1 0
+1582,Reiss,195.0,55.0,0 1 0
+1583,Dr. Martens,219.0,219.0,0 1 0
+1584,Donna Karan,190.0,149.99,0 1 0
+1585,Rebecca Taylor,195.0,195.0,0 1 0
+1586,Palace,195.0,,0 1 0
+1587,Billy Reid,195.0,97.49,0 1 0
+1588,Eric Emanuel,200.0,,0 1 0
+1589,Eliza J,208.0,99.84,0 1 0
+1590,Off-White,225.0,225.0,0 1 0
+1591,Eton,225.0,225.0,0 1 0
+1592,Le Creuset,250.0,200.0,0 1 0
+1593,3x1,255.0,102.0,0 1 0
+1594,Renwil,248.0,248.0,0 1 0
+1595,The Men's Store At Bloomingdale's,228.0,,0 1 0
+1596,Versace,259.0,181.0,0 1 0
+1597,Mother,266.0,266.0,0 1 0
+1598,Vagabond Shoemakers,239.95,239.95,0 1 0
+1599,Roberto Collina,255.0,255.0,0 1 0
+1600,COACH,250.0,250.0,0 1 0
+1601,Hudson Jeans,245.0,110.0,0 1 0
+1602,Missoni,255.0,,0 1 0
+1603,Re/Done,230.0,91.98,0 1 0
+1604,MSGM,240.0,120.0,0 1 0
+1605,OVADIA & SONS,270.0,202.5,0 1 0
+1606,Whistles,239.0,167.0,0 1 0
+1607,Feng Chen Wang,245.0,245.0,0 1 0
+1608,Fisico,273.0,273.0,0 1 0
+1609,Burberry,240.0,240.0,0 1 0
+1610,Michael Kors,258.0,193.5,0 1 0
+1611,Muun,266.0,263.0,0 1 0
+1612,Ash,260.0,208.0,0 1 0
+1613,Tom Ford,250.0,100.0,0 1 0
+1614,Adidas Originals by Alexander Wang,259.0,259.0,0 1 0
+1615,Officine Generale,265.0,,0 1 0
+1616,Palace,250.0,,0 1 0
+1617,Versace,271.0,217.0,0 1 0
+1618,Nourison,259.0,,0 1 0
+1619,Zimmerli,232.0,,0 1 0
+1620,French Connection,258.0,154.8,0 1 0
+1621,Boss Hugo Boss,248.0,148.8,0 1 0
+1622,Dolce & Gabbana,275.0,,0 1 0
+1623,Opening Ceremony,230.0,230.0,0 1 0
+1624,Le Parmentier,238.0,,0 1 0
+1625,Donna Karan,250.0,,0 1 0
+1626,Universal Standard,230.0,230.0,0 1 0
+1627,Derek Rose,245.0,,0 1 0
+1628,Theory,235.0,176.0,0 1 0
+1629,Versace,270.0,132.0,0 1 0
+1630,Club Monaco,229.0,114.5,0 1 0
+1631,Nike,250.0,,0 1 0
+1632,Mignonne Gavigan,250.0,250.0,0 1 0
+1633,Gerard Darel,255.0,127.5,0 1 0
+1634,Diesel,228.0,228.0,0 1 0
+1635,Closed,246.0,246.0,0 1 0
+1636,Mignonne Gavigan,275.0,275.0,0 1 0
+1637,Julius,245.0,243.0,0 1 0
+1638,COACH,250.0,250.0,0 1 0
+1639,Alexander McQueen,228.0,216.0,0 1 0
+1640,Supreme,239.0,,0 1 0
+1641,Adrianna Papell,249.0,,0 1 0
+1642,Palace,258.0,,0 1 0
+1643,Calvin Klein,266.0,226.0,0 1 0
+1644,VALENTINO,245.0,245.0,0 1 0
+1645,Supreme,274.0,,0 1 0
+1646,Aries,250.0,225.0,0 1 0
+1647,Arron,245.0,147.0,0 1 0
+1648,Allen Edmonds,245.0,245.0,0 1 0
+1649,Supreme,250.0,,0 1 0
+1650,Michael Kors,250.0,250.0,0 1 0
+1651,Levi's,228.0,228.0,0 1 0
+1652,NIC+ZOE,238.0,238.0,0 1 0
+1653,Diane von Furstenberg,248.0,248.0,0 1 0
+1654,Emporio Armani,230.0,230.0,0 1 0
+1655,A.P.C.,265.0,,0 1 0
+1656,Vilebrequin,250.0,250.0,0 1 0
+1657,Whistles,239.0,167.0,0 1 0
+1658,Converse,230.0,230.0,0 1 0
+1659,Faliero Sarti,231.0,185.0,0 1 0
+1660,Ksubi,271.0,271.0,0 1 0
+1661,Tory Burch,238.0,,0 1 0
+1662,Ann Demeulemeester,254.0,216.0,0 1 0
+1663,Current/Elliott,248.0,124.0,0 1 0
+1664,rag & bone,250.0,74.93,0 1 0
+1665,Oliver Gal,255.0,,0 1 0
+1666,Linda Farrow,245.0,245.0,0 1 0
+1667,Etro,230.0,224.0,0 1 0
+1668,Michael Aram,230.0,,0 1 0
+1669,Anne De Solene,237.5,,0 1 0
+1670,Salvatore Ferragamo,234.0,234.0,0 1 0
+1671,Poppy Finch,250.0,250.0,0 1 0
+1672,Vince,245.0,98.0,0 1 0
+1673,Illesteva,230.0,138.0,0 1 0
+1674,Le Creuset,250.0,200.0,0 1 0
+1675,Adam Selman Sport,235.0,59.0,0 1 0
+1676,Marni,259.0,169.0,0 1 0
+1677,adidas,229.0,,0 1 0
+1678,Emporio Armani,267.0,267.0,0 1 0
+1679,Frame,256.0,179.0,0 1 0
+1680,The Kooples,258.0,,0 1 0
+1681,Kith,235.0,,0 1 0
+1682,Lewit,249.0,249.0,0 1 0
+1683,Brides And Hairpins,235.0,235.0,0 1 0
+1684,Furla,250.0,250.0,0 1 0
+1685,Palace,240.0,,0 1 0
+1686,Roberto Collina,228.0,228.0,0 1 0
+1687,Michael Stars,228.0,228.0,0 1 0
+1688,A Shirt Thing,245.0,245.0,0 1 0
+1689,Love by Theia,235.0,176.25,0 1 0
+1690,Aenea,265.0,,0 1 0
+1691,Pendleton,229.0,229.0,0 1 0
+1692,MARIA BLACK,229.0,229.0,0 1 0
+1693,Kith,245.0,,0 1 0
+1694,Prada,230.0,230.0,0 1 0
+1695,Off-White,245.0,,0 1 0
+1696,Dsquared2,235.0,235.0,0 1 0
+1697,Parker,228.0,,0 1 0
+1698,Ancient Greek Sandals,260.0,195.0,0 1 0
+1699,Olivia Riegel,250.0,,0 1 0
+1700,Paige,239.0,119.5,0 1 0
+1701,Philippe Model,266.0,266.0,0 1 0
+1702,Fleur du Mal,245.0,123.0,0 1 0
+1703,L'AGENCE,235.0,,0 1 0
+1704,Via Spiga,250.0,112.5,0 1 0
+1705,Bashian,238.0,178.5,0 1 0
+1706,Tory Burch,258.0,258.0,0 1 0
+1707,Nike,260.0,,0 1 0
+1708,Eytys,240.0,162.0,0 1 0
+1709,Derek Rose,230.0,,0 1 0
+1710,Vince Camuto,228.0,128.16,0 1 0
+1711,BAPE,244.0,,0 1 0
+1712,Off-White,245.0,,0 1 0
+1713,Paper London,230.0,172.5,0 1 0
+1714,Mother,228.0,114.0,0 1 0
+1715,Psychworld,250.0,,0 1 0
+1716,Palace,258.0,,0 1 0
+1717,L'AGENCE,230.0,173.0,0 1 0
+1718,Kith,260.0,,0 1 0
+1719,Acler,250.0,,0 1 0
+1720,adidas,230.0,230.0,0 1 0
+1721,Jordan,230.0,,0 1 0
+1722,Nike,250.0,,0 1 0
+1723,Nike,246.0,,0 1 0
+1724,Miu Miu,260.0,260.0,0 1 0
+1725,BCBG,248.0,,0 1 0
+1726,Barena Venezia,243.0,243.0,0 1 0
+1727,Mother,238.0,238.0,0 1 0
+1728,Umbra,250.0,,0 1 0
+1729,Hermès Pre-Owned,234.0,234.0,0 1 0
+1730,Ader Error,235.0,207.0,0 1 0
+1731,Nike,230.0,,0 1 0
+1732,adidas,249.0,,0 1 0
+1733,Reiss,240.0,,0 1 0
+1734,MISBHV,265.0,265.0,0 1 0
+1735,District Vision,250.0,225.0,0 1 0
+1736,Fleur du Mal,245.0,245.0,0 1 0
+1737,John Smedley,255.0,255.0,0 1 0
+1738,Karastan,260.0,,0 1 0
+1739,Boss Hugo Boss,248.0,,0 1 0
+1740,Chloé,273.0,192.0,0 1 0
+1741,The North Face,249.0,249.0,0 1 0
+1742,Michael Aram,250.0,,0 1 0
+1743,Alexis Bittar,255.0,255.0,0 1 0
+1744,Reiss,230.0,90.0,0 1 0
+1745,Grenson,246.0,246.0,0 1 0
+1746,LADORADA,255.0,,0 1 0
+1747,Ag,235.0,235.0,0 1 0
+1748,Paige,239.0,,0 1 0
+1749,Diesel,228.0,228.0,0 1 0
+1750,After Six,250.0,250.0,0 1 0
+1751,Ted Baker,245.0,245.0,0 1 0
+1752,L'Autre Chose,271.0,271.0,0 1 0
+1753,Oscar de la Renta,270.0,,0 1 0
+1754,Ted Muehling,245.0,,0 1 0
+1755,Gas Bijoux,269.0,269.0,0 1 0
+1756,Tory Burch,271.0,190.0,0 1 0
+1757,Boss Hugo Boss,248.0,248.0,0 1 0
+1758,Tory Burch,250.0,250.0,0 1 0
+1759,Lewit,249.0,149.4,0 1 0
+1760,Vilebrequin,260.0,260.0,0 1 0
+1761,Roberto Collina,266.0,253.0,0 1 0
+1762,Oriental Weavers,266.0,199.5,0 1 0
+1763,Paul Smith,272.0,,0 1 0
+1764,Helmut Lang,230.0,57.0,0 1 0
+1765,Northskull,258.0,154.8,0 1 0
+1766,John Richmond,257.0,145.0,0 1 0
+1767,Cristel,252.99,,0 1 0
+1768,Diane James Home,255.0,,0 1 0
+1769,Nike,250.0,,0 1 0
+1770,Moncler,260.0,260.0,0 1 0
+1771,Alex Evenings,239.0,143.4,0 1 0
+1772,Louis Vuitton,250.0,,0 1 0
+1773,Dessy Collection,263.0,263.0,0 1 0
+1774,Versace,230.0,230.0,0 1 0
+1775,Milly Minis,250.0,122.0,0 1 0
+1776,Michael Aram,250.0,,0 1 0
+1777,MOUSSY Vintage,245.0,150.0,0 1 0
+1778,Johnny Was,240.0,,0 1 0
+1779,Hudson Park Collection,260.0,,0 1 0
+1780,Rebecca Minkoff,228.0,136.8,0 1 0
+1781,L'AGENCE,265.0,,0 1 0
+1782,MSGM,270.0,135.0,0 1 0
+1783,Schutz,250.0,137.0,0 1 0
+1784,Mi Mi Sol,262.0,262.0,0 1 0
+1785,Frame,245.0,,0 1 0
+1786,TRAVE,258.0,258.0,0 1 0
+1787,Anne De Solene,250.0,,0 1 0
+1788,Jordan,230.0,230.0,0 1 0
+1789,Woolrich,234.0,234.0,0 1 0
+1790,Nike,244.0,,0 1 0
+1791,Nike,309.0,309.0,0 1 0
+1792,Kith,285.0,,0 1 0
+1793,Amaio Swim,276.0,,0 1 0
+1794,Moschino,295.0,295.0,0 1 0
+1795,Frye,277.95,166.77,0 1 0
+1796,Maria Tash,275.0,275.0,0 1 0
+1797,Jenny Yoo,295.0,147.49,0 1 0
+1798,Moncler,300.0,,0 1 0
+1799,Dsquared2,280.0,280.0,0 1 0
+1800,Fumito Ganryu,307.0,291.0,0 1 0
+1801,Veronica Beard,298.0,298.0,0 1 0
+1802,Asceno,295.0,177.0,0 1 0
+1803,Taylor,279.0,279.0,0 1 0
+1804,Christian Louboutin,290.0,290.0,0 1 0
+1805,A.P.C.,280.0,,0 1 0
+1806,Private Stock,298.0,298.0,0 1 0
+1807,Royal Fern,295.0,,0 1 0
+1808,Citizens of Humanity,278.0,278.0,0 1 0
+1809,T Tahari,278.0,208.5,0 1 0
+1810,Villeroy & Boch,283.0,169.8,0 1 0
+1811,Isabel Marant Etoile,275.0,275.0,0 1 0
+1812,Joseph,295.0,295.0,0 1 0
+1813,Reiss,295.0,295.0,0 1 0
+1814,Incotex,306.0,306.0,0 1 0
+1815,Jordan,285.0,285.0,0 1 0
+1816,Vanessa Seward,313.0,251.0,0 1 0
+1817,Acne Studios,280.0,,0 1 0
+1818,Tous,300.0,,0 1 0
+1819,Gentle Monster,280.0,280.0,0 1 0
+1820,Supreme,309.0,309.0,0 1 0
+1821,Dsquared2,295.0,207.0,0 1 0
+1822,Just Cavalli,275.0,193.0,0 1 0
+1823,ba & sh,275.0,192.5,0 1 0
+1824,Panconesi,295.0,295.0,0 1 0
+1825,Ted Baker,295.0,295.0,0 1 0
+1826,Canali,275.0,137.49,0 1 0
+1827,BAPE,300.0,,0 1 0
+1828,Irobot,299.99,,0 1 0
+1829,Heron Preston,320.0,320.0,0 1 0
+1830,Jaipur,322.0,,0 1 0
+1831,Nike,299.0,,0 1 0
+1832,Lisa Marie Fernandez,275.0,190.0,0 1 0
+1833,Acne Studios,300.0,300.0,0 1 0
+1834,Ramy Brook,295.0,295.0,0 1 0
+1835,MCM,313.0,313.0,0 1 0
+1836,OOO Traveling,278.0,,0 1 0
+1837,New Balance,300.0,,0 1 0
+1838,Dsquared2,295.0,118.0,0 1 0
+1839,Sisley Paris,275.0,275.0,0 1 0
+1840,3x1,275.0,144.38,0 1 0
+1841,Isabel Benenato,322.0,226.0,0 1 0
+1842,Fame and Partners,279.0,279.0,0 1 0
+1843,Surya,285.0,213.75,0 1 0
+1844,Hobbs London,315.0,235.0,0 1 0
+1845,Cinq a Sept,295.0,118.0,0 1 0
+1846,Kaws,295.0,,0 1 0
+1847,Marsell,288.0,288.0,0 1 0
+1848,Natasha Zinko,321.0,225.0,0 1 0
+1849,Stone Island,323.0,323.0,0 1 0
+1850,Emporio Armani,282.0,254.0,0 1 0
+1851,Diesel,278.0,278.0,0 1 0
+1852,Barena Venezia,310.0,310.0,0 1 0
+1853,A.P.C.,284.0,142.0,0 1 0
+1854,Gucci,320.0,320.0,0 1 0
+1855,By Malene Birger,302.0,302.0,0 1 0
+1856,Simon Pearce,320.0,,0 1 0
+1857,Polo Ralph Lauren,298.0,298.0,0 1 0
+1858,Proenza Schouler,275.0,275.0,0 1 0
+1859,Joseph,315.0,,0 1 0
+1860,Prada,280.0,280.0,0 1 0
+1861,Dries Van Noten,315.0,315.0,0 1 0
+1862,MARIA BLACK,314.0,314.0,0 1 0
+1863,KENZO,295.0,295.0,0 1 0
+1864,Neil Barrett,295.0,,0 1 0
+1865,Lafayette 148 New York,298.0,,0 1 0
+1866,Moschino,314.0,314.0,0 1 0
+1867,Gucci,320.0,,0 1 0
+1868,Piazza Sempione,313.0,251.0,0 1 0
+1869,Diane von Furstenberg,298.0,298.0,0 1 0
+1870,Emporio Armani,293.0,293.0,0 1 0
+1871,Acne Studios,290.0,290.0,0 1 0
+1872,La Mer,285.0,285.0,0 1 0
+1873,Tateossian,315.0,315.0,0 1 0
+1874,ALLSAINTS,290.0,173.98,0 1 0
+1875,Rebecca Taylor,295.0,295.0,0 1 0
+1876,Gucci,309.0,,0 1 0
+1877,Peserico,306.0,306.0,0 1 0
+1878,Rick Owens,292.0,292.0,0 1 0
+1879,MISSONIHOME,315.0,,0 1 0
+1880,Jonathan Simkhai,295.0,295.0,0 1 0
+1881,Paul Smith,295.0,148.0,0 1 0
+1882,BAPE,318.0,,0 1 0
+1883,Sandro,295.0,295.0,0 1 0
+1884,Juun.J,295.0,206.0,0 1 0
+1885,Allen Edmonds,275.0,275.0,0 1 0
+1886,Mulberry,295.0,295.0,0 1 0
+1887,Pigeon and Poodle,280.0,,0 1 0
+1888,Canali,295.0,218.0,0 1 0
+1889,Bernardaud,304.0,,0 1 0
+1890,Côte & Ciel,279.0,,0 1 0
+1891,Akris punto,295.0,,0 1 0
+1892,Boss Hugo Boss,278.0,166.8,0 1 0
+1893,Oliver Gal,277.5,277.5,0 1 0
+1894,Moschino,317.0,317.0,0 1 0
+1895,SLINK Jeans,299.0,299.0,0 1 0
+1896,BCBG,298.0,,0 1 0
+1897,Whistles,319.0,223.0,0 1 0
+1898,Js Collections,298.0,298.0,0 1 0
+1899,Ted Baker,280.0,167.98,0 1 0
+1900,Via Spiga,295.0,177.0,0 1 0
+1901,Incotex,287.0,258.0,0 1 0
+1902,Halston,295.0,92.93,0 1 0
+1903,Missoni,292.0,286.0,0 1 0
+1904,Persol,310.0,310.0,0 1 0
+1905,Jaipur,322.0,,0 1 0
+1906,Lele Sadoughi,285.0,,0 1 0
+1907,Elie Tahari,298.0,,0 1 0
+1908,Alice And Olivia,295.0,,0 1 0
+1909,Charlotte Knowles,295.0,295.0,0 1 0
+1910,Chiara Ferragni,316.0,316.0,0 1 0
+1911,Marysia,283.0,283.0,0 1 0
+1912,Ecoalf,320.0,240.0,0 1 0
+1913,LemLem,285.0,228.0,0 1 0
+1914,Alighieri,280.6,,0 1 0
+1915,Emporio Armani,295.0,147.49,0 1 0
+1916,Moschino,275.0,165.0,0 1 0
+1917,Eleventy,313.0,313.0,0 1 0
+1918,Dorothee Schumacher,294.0,294.0,0 1 0
+1919,Engineered Garments,320.0,256.0,0 1 0
+1920,Off-White,310.0,310.0,0 1 0
+1921,Alighieri,305.0,,0 1 0
+1922,John Varvatos,298.0,298.0,0 1 0
+1923,Canali,285.0,,0 1 0
+1924,1017 ALYX 9SM,283.0,212.0,0 1 0
+1925,Nike,309.0,309.0,0 1 0
+1926,Pas de Rouge,310.0,310.0,0 1 0
+1927,BAPE,309.0,,0 1 0
+1928,iCanvas,289.99,289.99,0 1 0
+1929,MARIA BLACK,308.0,308.0,0 1 0
+1930,John Varvatos,298.0,223.5,0 1 0
+1931,Gerard Darel,285.0,142.5,0 1 0
+1932,Alexachung,315.0,158.0,0 1 0
+1933,Ermenegildo Zegna,295.0,295.0,0 1 0
+1934,Supreme,285.0,,0 1 0
+1935,Laneus,303.0,257.0,0 1 0
+1936,Joseph,295.0,118.0,0 1 0
+1937,Twin-Set,276.0,276.0,0 1 0
+1938,Dsquared2,285.0,171.0,0 1 0
+1939,Bashian,285.0,213.75,0 1 0
+1940,Whistles,319.0,319.0,0 1 0
+1941,Salvatore Ferragamo,300.0,300.0,0 1 0
+1942,COACH,275.0,275.0,0 1 0
+1943,Palace,300.0,,0 1 0
+1944,Eleventy,303.0,228.0,0 1 0
+1945,Reiss,320.0,185.0,0 1 0
+1946,Jennifer Behr,295.0,144.0,0 1 0
+1947,Furla,280.0,,0 1 0
+1948,Jacob Cohen,280.0,238.0,0 1 0
+1949,VALENTINO,318.0,190.8,0 1 0
+1950,Jacob Cohen,306.0,214.0,0 1 0
+1951,Palm Angels,275.0,275.0,0 1 0
+1952,rag & bone,275.0,350.0,0 1 0
+1953,Sunday Somewhere,290.0,,0 1 0
+1954,Dolce & Gabbana,280.0,,0 1 0
+1955,Victoria Victoria Beckham,313.0,313.0,0 1 0
+1956,Zwilling J.a. Henckels,275.0,,0 1 0
+1957,Eton,280.0,280.0,0 1 0
+1958,Nike,280.0,,0 1 0
+1959,adidas,305.0,305.0,0 1 0
+1960,Moschino,276.0,276.0,0 1 0
+1961,STAUD,295.0,,0 1 0
+1962,Fleur du Mal,295.0,295.0,0 1 0
+1963,L'AGENCE,319.0,319.0,0 1 0
+1964,Jacob Cohen,301.0,226.0,0 1 0
+1965,Whiting & Davis,285.0,285.0,0 1 0
+1966,John Varvatos,278.0,278.0,0 1 0
+1967,Wedgwood,275.0,,0 1 0
+1968,Versace,311.0,186.6,0 1 0
+1969,Sandro,295.0,147.5,0 1 0
+1970,Nike,307.0,,0 1 0
+1971,Opening Ceremony,295.0,144.0,0 1 0
+1972,Salvatore Ferragamo,285.0,,0 1 0
+1973,Helmut Lang,320.0,285.0,0 1 0
+1974,Soulland,295.0,295.0,0 1 0
+1975,Tibi,295.0,295.0,0 1 0
+1976,Jamie Young,285.0,242.25,0 1 0
+1977,Gucci,290.0,,0 1 0
+1978,Veronica Beard,278.0,278.0,0 1 0
+1979,YMC,321.0,225.0,0 1 0
+1980,Paul Smith,295.0,295.0,0 1 0
+1981,Salvatore Ferragamo,275.0,,0 1 0
+1982,Self-Portrait,279.0,223.0,0 1 0
+1983,Emanuele Bicocchi,320.0,320.0,0 1 0
+1984,Billionaire Boys Club,294.0,177.0,0 1 0
+1985,Sisley Paris,310.0,310.0,0 1 0
+1986,Bloomingdale's,280.0,210.0,0 1 0
+1987,Roberto Collina,287.0,258.0,0 1 0
+1988,Antik Batik,279.0,279.0,0 1 0
+1989,Alice And Olivia,275.0,,0 1 0
+1990,Gucci,350.0,350.0,0 1 0
+1991,PINKO,375.0,188.0,0 1 0
+1992,RED Valentino,360.0,252.0,0 1 0
+1993,Nike,340.0,,0 1 0
+1994,Michael Kors,333.0,333.0,0 1 0
+1995,Alice Mccall,325.0,,0 1 0
+1996,Tibi,345.0,137.98,0 1 0
+1997,Moncler,355.0,355.0,0 1 0
+1998,Vince,350.0,262.5,0 1 0
+1999,Victoria Victoria Beckham,366.0,293.0,0 1 0
+2000,Jacquemus,361.0,361.0,0 1 0
+2001,Supreme,337.0,,0 1 0
+2002,Supreme,350.0,,0 1 0
+2003,Jil Sander,380.0,228.0,0 1 0
+2004,Lagos,350.0,350.0,0 1 0
+2005,Paul Green,385.0,385.0,0 1 0
+2006,Billionaire Boys Club,338.0,153.0,0 1 0
+2007,Loloi,346.0,259.5,0 1 0
+2008,Bleu De Chauffe,360.0,,0 1 0
+2009,SFERRA,380.0,,0 1 0
+2010,Palace,325.0,,0 1 0
+2011,House Of Sillage,370.0,,0 1 0
+2012,Tom Ford,385.0,385.0,0 1 0
+2013,Chloé,355.0,,0 1 0
+2014,Troubadour,372.0,298.0,0 1 0
+2015,Tanya Taylor,375.0,224.98,0 1 0
+2016,Philippe Model,343.0,275.0,0 1 0
+2017,KENZO,325.0,228.0,0 1 0
+2018,Garrett Leight,365.0,365.0,0 1 0
+2019,Zanella,375.0,187.49,0 1 0
+2020,Jan Barboglio,335.0,,0 1 0
+2021,Stone Island,323.0,323.0,0 1 0
+2022,Peserico,357.0,286.0,0 1 0
+2023,Pastori,358.2,,0 1 0
+2024,Royal Limoges,325.0,,0 1 0
+2025,Versace,345.0,345.0,0 1 0
+2026,Moschino,350.0,350.0,0 1 0
+2027,Vince,372.0,372.0,0 1 0
+2028,Neil Barrett,370.0,,0 1 0
+2029,Simone Rocha,335.0,335.0,0 1 0
+2030,Jacob Cohen,343.0,343.0,0 1 0
+2031,Diesel,326.0,326.0,0 1 0
+2032,Salvatore Ferragamo,360.0,288.0,0 1 0
+2033,Max Mara,330.0,330.0,0 1 0
+2034,Joseph,381.0,267.0,0 1 0
+2035,rag & bone,350.0,350.0,0 1 0
+2036,Saint Laurent,375.0,375.0,0 1 0
+2037,Stuart Weitzman,349.0,349.0,0 1 0
+2038,Dior,350.0,350.0,0 1 0
+2039,I.D. Sarrieri,345.0,,0 1 0
+2040,Très Bien,368.0,368.0,0 1 0
+2041,Off-White,350.0,350.0,0 1 0
+2042,Isaia,376.0,263.0,0 1 0
+2043,La Mer,325.0,325.0,0 1 0
+2044,Bloomingdale's,350.0,157.5,0 1 0
+2045,1017 ALYX 9SM,375.0,375.0,0 1 0
+2046,Rebecca Taylor,350.0,350.0,0 1 0
+2047,Incotex,370.0,185.0,0 1 0
+2048,Max Mara,335.0,335.0,0 1 0
+2049,Chloé Eyewear,353.0,353.0,0 1 0
+2050,Laundry by Shelli Segal,380.0,,0 1 0
+2051,Icebreaker,350.0,350.0,0 1 0
+2052,Safavieh,356.0,,0 1 0
+2053,Tom Ford,325.0,325.0,0 1 0
+2054,Rachel Zoe,345.0,207.0,0 1 0
+2055,LEFF amsterdam,379.0,379.0,0 1 0
+2056,Stone Island Junior,340.0,272.0,0 1 0
+2057,alexanderwang.t,335.0,335.0,0 1 0
+2058,Joseph,365.0,91.0,0 1 0
+2059,ATM Anthony Thomas Melillo,350.0,171.0,0 1 0
+2060,Valentino Pre-Owned,326.0,326.0,0 1 0
+2061,STINE GOYA,350.0,,0 1 0
+2062,Calligaris,345.0,,0 1 0
+2063,Etro,360.0,180.0,0 1 0
+2064,Emporio Armani,366.0,256.0,0 1 0
+2065,JW Anderson,350.0,280.0,0 1 0
+2066,Off-White,360.0,,0 1 0
+2067,Palm Angels,329.0,329.0,0 1 0
+2068,Missoni,370.0,222.0,0 1 0
+2069,Kith,345.0,,0 1 0
+2070,Etro,330.0,198.0,0 1 0
+2071,Gentle Monster,346.0,346.0,0 1 0
+2072,Yves Delorme,350.0,,0 1 0
+2073,Kilian,325.0,,0 1 0
+2074,Hickey Freeman,375.0,375.0,0 1 0
+2075,Raf Simons,360.0,324.0,0 1 0
+2076,Acne Studios,340.0,340.0,0 1 0
+2077,Raf Simons,349.0,210.0,0 1 0
+2078,Black Halo,375.0,375.0,0 1 0
+2079,Aurelie Bidermann,352.13,,0 1 0
+2080,Off-White,375.0,368.0,0 1 0
+2081,Mephisto,350.0,350.0,0 1 0
+2082,Just Cavalli,385.0,270.0,0 1 0
+2083,Prada,334.0,334.0,0 1 0
+2084,Charlotte Chesnais,332.0,332.0,0 1 0
+2085,BAPE,336.0,,0 1 0
+2086,Patrizia Pepe,371.0,371.0,0 1 0
+2087,Tory Burch,380.0,285.0,0 1 0
+2088,Helmut Lang,349.0,280.0,0 1 0
+2089,Acne Studios,380.0,380.0,0 1 0
+2090,Marcelo Burlon County of Milan,325.0,325.0,0 1 0
+2091,Michael Kors,332.0,266.0,0 1 0
+2092,Chie Mihara,378.0,378.0,0 1 0
+2093,Versace,350.0,350.0,0 1 0
+2094,Eshvi,367.0,367.0,0 1 0
+2095,Versace,350.0,350.0,0 1 0
+2096,Nike,352.0,,0 1 0
+2097,Roberto Collina,345.0,345.0,0 1 0
+2098,Paule Ka,377.0,377.0,0 1 0
+2099,Alice Mccall,360.0,,0 1 0
+2100,STINE GOYA,350.0,,0 1 0
+2101,Faliero Sarti,336.0,286.0,0 1 0
+2102,Supreme,330.0,,0 1 0
+2103,Carolina Herrera,350.0,,0 1 0
+2104,The Kooples,348.0,139.2,0 1 0
+2105,VALENTINO,370.0,,0 1 0
+2106,Oscar de la Renta,345.0,345.0,0 1 0
+2107,Burberry,350.0,350.0,0 1 0
+2108,Ramy Brook,345.0,,0 1 0
+2109,Rodebjer,335.0,335.0,0 1 0
+2110,Theory,335.0,251.87,0 1 0
+2111,Each X Other,330.0,83.0,0 1 0
+2112,Ermenegildo Zegna,375.0,187.0,0 1 0
+2113,Khaite,340.0,340.0,0 1 0
+2114,Opening Ceremony,350.0,315.0,0 1 0
+2115,Mercedes Castillo,325.0,325.0,0 1 0
+2116,Aspesi,353.0,212.0,0 1 0
+2117,Sparrow & Wren,350.0,262.5,0 1 0
+2118,BCBG,368.0,276.0,0 1 0
+2119,Dolce & Gabbana,355.0,355.0,0 1 0
+2120,Supreme,370.0,,0 1 0
+2121,Juun.J,330.0,330.0,0 1 0
+2122,Stella McCartney,380.0,266.0,0 1 0
+2123,Jacquemus,377.0,,0 1 0
+2124,Tory Burch,348.0,252.0,0 1 0
+2125,MOUSSY Vintage,350.0,350.0,0 1 0
+2126,Jimmy Choo,335.0,335.0,0 1 0
+2127,Norma Kamali,350.0,,0 1 0
+2128,Prada,340.0,340.0,0 1 0
+2129,Crash Baggage,348.0,,0 1 0
+2130,Dorateymur,350.0,350.0,0 1 0
+2131,Peserico,327.0,327.0,0 1 0
+2132,Represent,370.0,333.0,0 1 0
+2133,Karl Lagerfeld,345.0,242.0,0 1 0
+2134,Heron Preston,331.0,331.0,0 1 0
+2135,MARC JACOBS,350.0,333.0,0 1 0
+2136,John Richmond,343.0,340.0,0 1 0
+2137,Saint Laurent,375.0,375.0,0 1 0
+2138,Roseanna,368.0,220.0,0 1 0
+2139,VIETRI,329.0,246.75,0 1 0
+2140,Nike,325.0,,0 1 0
+2141,Premiata,375.0,375.0,0 1 0
+2142,Coccinelle,352.0,352.0,0 1 0
+2143,The Elder Statesman,375.0,375.0,0 1 0
+2144,Tadashi Shoji,328.0,328.0,0 1 0
+2145,Chinti & Parker,373.0,373.0,0 1 0
+2146,Balenciaga Eyewear,345.0,345.0,0 1 0
+2147,Balmain,375.0,375.0,0 1 0
+2148,Prada,380.0,380.0,0 1 0
+2149,Palace,350.0,,0 1 0
+2150,Etro,370.0,370.0,0 1 0
+2151,Nike,330.0,,0 1 0
+2152,Zac Zac Posen,325.0,195.0,0 1 0
+2153,Nk,338.0,237.0,0 1 0
+2154,IRO,344.0,275.0,0 1 0
+2155,Palmer Harding,384.04,134.25,0 1 0
+2156,Roberto Collina,339.0,135.0,0 1 0
+2157,Proenza Schouler,350.0,350.0,0 1 0
+2158,Nike,375.0,,0 1 0
+2159,Prada,372.0,372.0,0 1 0
+2160,Miu Miu,360.0,360.0,0 1 0
+2161,Dolce & Gabbana,355.0,355.0,0 1 0
+2162,Js Collections,358.0,358.0,0 1 0
+2163,Closed,385.0,385.0,0 1 0
+2164,KENZO,370.0,370.0,0 1 0
+2165,Emilio Pucci,365.0,365.0,0 1 0
+2166,Alexis,363.0,363.0,0 1 0
+2167,Zadig & Voltaire,358.0,358.0,0 1 0
+2168,Victoria Victoria Beckham,339.0,339.0,0 1 0
+2169,Christopher Kane,325.0,325.0,0 1 0
+2170,Michael Kors,346.0,312.0,0 1 0
+2171,LemLem,385.0,385.0,0 1 0
+2172,Jacob Cohen,332.0,232.0,0 1 0
+2173,Supreme,328.0,,0 1 0
+2174,FTP,350.0,,0 1 0
+2175,Paul Smith,350.0,245.0,0 1 0
+2176,L'Autre Chose,329.0,326.0,0 1 0
+2177,Xander Zhou,345.0,345.0,0 1 0
+2178,Sv Casa,356.0,,0 1 0
+2179,Leandra Medine,375.0,188.0,0 1 0
+2180,Off-White,370.0,222.0,0 1 0
+2181,Fendi,350.0,350.0,0 1 0
+2182,Common Projects,375.0,375.0,0 1 0
+2183,Bally,350.0,,0 1 0
+2184,J Brand,378.0,,0 1 0
+2185,Lafayette 148 New York,348.0,139.2,0 1 0
+2186,Halston Heritage,375.0,149.0,0 1 0
+2187,Ming Wang,355.0,177.5,0 1 0
+2188,adidas,325.0,,0 1 0
+2189,Vince,425.0,318.75,0 1 0
+2190,Le Gramme,420.0,260.0,0 1 0
+2191,Ann Demeulemeester,410.0,144.0,0 1 0
+2192,Tibi,395.0,,0 1 0
+2193,Karen Walker,406.0,406.0,0 1 0
+2194,Crash Baggage,400.0,,0 1 0
+2195,Matouk,450.0,,0 1 0
+2196,Nike,390.0,390.0,0 1 0
+2197,Miu Miu,400.0,400.0,0 1 0
+2198,Jonathan Simkhai,395.0,197.0,0 1 0
+2199,Garrett Leight,395.0,395.0,0 1 0
+2200,Persol,400.0,400.0,0 1 0
+2201,Salvatore Ferragamo,389.0,389.0,0 1 0
+2202,Ramy Brook,445.0,,0 1 0
+2203,Moncler,425.0,425.0,0 1 0
+2204,Puma,450.0,450.0,0 1 0
+2205,Stella McCartney,445.0,223.0,0 1 0
+2206,Nike,450.0,,0 1 0
+2207,3.1 Phillip Lim,450.0,450.0,0 1 0
+2208,Mansur Gavriel,395.0,395.0,0 1 0
+2209,Sonia Rykiel,402.0,241.0,0 1 0
+2210,Cloth & Co.,450.0,337.5,0 1 0
+2211,Victorinox Swiss Army,395.0,,0 1 0
+2212,Woolrich,440.0,286.0,0 1 0
+2213,Dalyn Rug Company,398.0,,0 1 0
+2214,Thom Browne,385.14,,0 1 0
+2215,Akris punto,395.0,395.0,0 1 0
+2216,Repetto,410.0,,0 1 0
+2217,Jordan,410.0,410.0,0 1 0
+2218,Travis Scott,400.0,,0 1 0
+2219,Psycho Bunny,395.0,237.0,0 1 0
+2220,Maison Margiela,440.0,440.0,0 1 0
+2221,To Boot New York,450.0,315.0,0 1 0
+2222,Harris Wharf,416.0,374.0,0 1 0
+2223,Pearls Before Swine,390.0,390.0,0 1 0
+2224,MSGM,410.0,205.0,0 1 0
+2225,Jenni Kayne,395.0,395.0,0 1 0
+2226,Anissa Kermiche,448.0,,0 1 0
+2227,YMC,443.0,443.0,0 1 0
+2228,Issey Miyake,430.0,430.0,0 1 0
+2229,Officine Creative,389.0,389.0,0 1 0
+2230,Salvatore Ferragamo,395.0,,0 1 0
+2231,Diane von Furstenberg,428.0,,0 1 0
+2232,Equipment,422.0,422.0,0 1 0
+2233,Nike,450.0,,0 1 0
+2234,Gucci,430.0,430.0,0 1 0
+2235,ROSSIGNOL,400.0,400.0,0 1 0
+2236,Needles,445.0,445.0,0 1 0
+2237,Roberto Cavalli,395.0,395.0,0 1 0
+2238,Alexander McQueen,390.0,390.0,0 1 0
+2239,Descente Allterrain,392.0,392.0,0 1 0
+2240,Salvatore Ferragamo,430.0,430.0,0 1 0
+2241,KENZO,395.0,198.0,0 1 0
+2242,Dsquared2,395.0,198.0,0 1 0
+2243,Proenza Schouler,390.0,351.0,0 1 0
+2244,Bloomingdale's,450.0,202.5,0 1 0
+2245,John Varvatos,448.0,,0 1 0
+2246,John Elliott,398.0,398.0,0 1 0
+2247,Each X Other,429.0,343.0,0 1 0
+2248,Moncler,395.0,,0 1 0
+2249,Salvatore Ferragamo,395.0,395.0,0 1 0
+2250,Kiki de Montparnasse,395.0,395.0,0 1 0
+2251,Furla,417.0,417.0,0 1 0
+2252,Christine Lingerie,390.0,,0 1 0
+2253,I.V.I.,400.0,400.0,0 1 0
+2254,L'AGENCE,390.0,390.0,0 1 0
+2255,Miu Miu,395.0,395.0,0 1 0
+2256,EF COLLECTION,395.0,395.0,0 1 0
+2257,Marques Almeida,390.0,,0 1 0
+2258,Halston Heritage,425.0,208.0,0 1 0
+2259,Elie Tahari,448.0,,0 1 0
+2260,Danse Lente,430.0,,0 1 0
+2261,KENZO,440.0,264.0,0 1 0
+2262,Kara,395.0,395.0,0 1 0
+2263,Gucci,435.0,435.0,0 1 0
+2264,Golden Goose Deluxe Brand,390.0,273.0,0 1 0
+2265,Alexander McQueen,415.0,,0 1 0
+2266,Mac Duggal,398.0,398.0,0 1 0
+2267,Supreme,439.0,439.0,0 1 0
+2268,Place Nationale,391.0,293.25,0 1 0
+2269,Halston Heritage,395.0,,0 1 0
+2270,Bottega Veneta,449.0,,0 1 0
+2271,KENZO,395.0,395.0,0 1 0
+2272,Opening Ceremony,450.0,175.0,0 1 0
+2273,Supreme,400.0,,0 1 0
+2274,L'AGENCE,390.0,390.0,0 1 0
+2275,Thom Browne,390.0,234.0,0 1 0
+2276,Milly,395.0,,0 1 0
+2277,Kith,399.0,,0 1 0
+2278,Rebecca De Ravenel,415.0,415.0,0 1 0
+2279,Michael Kors,450.0,,0 1 0
+2280,M Missoni,386.0,309.0,0 1 0
+2281,Dsquared2,440.0,308.0,0 1 0
+2282,Anna Weatherley,440.0,,0 1 0
+2283,Thom Browne,450.0,450.0,0 1 0
+2284,Salvatore Ferragamo,395.0,395.0,0 1 0
+2285,Etro,420.0,315.0,0 1 0
+2286,Cinq a Sept,395.0,395.0,0 1 0
+2287,Chiara Boni La Petite Robe,395.0,,0 1 0
+2288,Cesta Collective,450.0,,0 1 0
+2289,Gerard Darel,445.0,,0 1 0
+2290,Les Reveries,390.0,,0 1 0
+2291,Prada,395.0,,0 1 0
+2292,Charlotte Chesnais,449.0,449.0,0 1 0
+2293,MARC JACOBS,395.0,316.0,0 1 0
+2294,Modern Weaving,435.0,435.0,0 1 0
+2295,RED Valentino,415.0,415.0,0 1 0
+2296,SWEAR,420.0,420.0,0 1 0
+2297,Gucci,420.0,420.0,0 1 0
+2298,Karl Lagerfeld,415.0,208.0,0 1 0
+2299,Oliver Peoples,425.0,425.0,0 1 0
+2300,Tom Ford,400.0,400.0,0 1 0
+2301,Dion Lee,390.0,234.0,0 1 0
+2302,Nanushka,395.0,395.0,0 1 0
+2303,Uniforme,415.0,,0 1 0
+2304,Marcelo Burlon County of Milan,445.0,267.0,0 1 0
+2305,Off-White,450.0,450.0,0 1 0
+2306,Anne De Solene,435.0,,0 1 0
+2307,Jordan,450.0,,0 1 0
+2308,Tom Ford,430.0,,0 1 0
+2309,Rick Owens,424.0,340.0,0 1 0
+2310,Saint Laurent,450.0,,0 1 0
+2311,EF COLLECTION,450.0,450.0,0 1 0
+2312,Brunello Cucinelli,445.0,445.0,0 1 0
+2313,Brunello Cucinelli,445.0,445.0,0 1 0
+2314,Kitchenaid,440.0,,0 1 0
+2315,Reiss,425.0,275.0,0 1 0
+2316,ROSSIGNOL,424.0,382.0,0 1 0
+2317,Dsquared2,395.0,395.0,0 1 0
+2318,Ermenegildo Zegna,395.0,316.0,0 1 0
+2319,Givenchy,450.0,,0 1 0
+2320,Philippe Model,427.0,427.0,0 1 0
+2321,Belstaff,450.0,450.0,0 1 0
+2322,Rebecca Taylor,450.0,450.0,0 1 0
+2323,SLVRLAKE,415.0,415.0,0 1 0
+2324,Rebecca Taylor,395.0,395.0,0 1 0
+2325,Sulvam,417.0,250.0,0 1 0
+2326,Marchesa Notte,395.0,,0 1 0
+2327,Aspesi,410.0,410.0,0 1 0
+2328,Tom Ford,450.0,,0 1 0
+2329,Bally,425.0,297.5,0 1 0
+2330,Rebecca Taylor,395.0,,0 1 0
+2331,Jan Barboglio,450.0,,0 1 0
+2332,Y/Project,448.0,448.0,0 1 0
+2333,Uniform Wares,416.0,416.0,0 1 0
+2334,Pakerson,427.0,,0 1 0
+2335,LES FEW,395.0,,0 1 0
+2336,Kiki de Montparnasse,450.0,,0 1 0
+2337,BAPE,393.0,,0 1 0
+2338,Cesta Collective,450.0,,0 1 0
+2339,Woolrich,427.0,,0 1 0
+2340,Miu Miu Eyewear,440.0,440.0,0 1 0
+2341,Ienki Ienki,386.0,386.0,0 1 0
+2342,Julius,405.0,324.0,0 1 0
+2343,Azhar,390.0,,0 1 0
+2344,Moncler,420.0,205.0,0 1 0
+2345,Dunhill,385.0,,0 1 0
+2346,Safavieh,389.0,,0 1 0
+2347,Saint Laurent,405.0,405.0,0 1 0
+2348,Dalyn Rug Company,398.0,,0 1 0
+2349,Balenciaga,395.0,,0 1 0
+2350,Common Projects,401.0,401.0,0 1 0
+2351,Ermenegildo Zegna,395.0,,0 1 0
+2352,Fendi,400.0,400.0,0 1 0
+2353,Faliero Sarti,416.0,416.0,0 1 0
+2354,Shoshanna,398.0,,0 1 0
+2355,Brochu Walker,428.0,428.0,0 1 0
+2356,Elizabeth and James,425.0,191.0,0 1 0
+2357,VALENTINO,425.0,425.0,0 1 0
+2358,Cinq a Sept,395.0,277.0,0 1 0
+2359,Alexis,396.0,278.0,0 1 0
+2360,John Hardy,395.0,395.0,0 1 0
+2361,Tadashi Shoji,388.0,388.0,0 1 0
+2362,UGG,412.0,247.2,0 1 0
+2363,RIXO,416.0,250.0,0 1 0
+2364,Raymond Weil,440.0,,0 1 0
+2365,Moncler Genius,425.0,,0 1 0
+2366,Les Reveries,436.0,218.0,0 1 0
+2367,Golden Goose Deluxe Brand,445.0,,0 1 0
+2368,Konstantino,395.0,395.0,0 1 0
+2369,Peserico,391.0,246.0,0 1 0
+2370,Givenchy,420.0,420.0,0 1 0
+2371,Diane von Furstenberg,448.0,448.0,0 1 0
+2372,Marina Rinaldi,395.0,,0 1 0
+2373,SUISTUDIO,399.0,399.0,0 1 0
+2374,Lisa Marie Fernandez,395.0,395.0,0 1 0
+2375,Marques Almeida,406.0,284.0,0 1 0
+2376,Moncler,425.0,425.0,0 1 0
+2377,Jour Ne,400.0,160.0,0 1 0
+2378,COACH,387.0,387.0,0 1 0
+2379,SWEAR,385.0,385.0,0 1 0
+2380,Burberry,420.0,420.0,0 1 0
+2381,KENZO,431.0,431.0,0 1 0
+2382,Engineered Garments,415.0,270.0,0 1 0
+2383,Prada,420.0,420.0,0 1 0
+2384,Dsquared2,445.0,223.0,0 1 0
+2385,Elie Tahari,443.0,443.0,0 1 0
+2386,Armani,445.0,400.5,0 1 0
+2387,Chinti & Parker,449.0,315.0,0 1 0
+2388,Kara,477.0,311.0,0 1 0
+2389,Maison Margiela,495.0,446.0,0 1 0
+2390,Sydney Evan,530.0,530.0,0 0 1
+2391,Nanushka,483.0,242.0,0 1 0
+2392,Ulla Johnson,525.0,525.0,0 0 1
+2393,Hed Mayner,466.0,443.0,0 1 0
+2394,Tateossian,460.0,460.0,0 1 0
+2395,Home Treasures,495.0,,0 1 0
+2396,Ermenegildo Zegna,475.0,285.0,0 1 0
+2397,Cardinal of Canada,495.0,,0 1 0
+2398,Aquatalia,475.0,237.5,0 1 0
+2399,Dana Rebecca Designs,495.0,495.0,0 1 0
+2400,Aquatalia,495.0,,0 1 0
+2401,La Prestic Ouiston,500.0,,0 1 0
+2402,Vanrycke,515.0,,0 0 1
+2403,Barton Perreira,470.0,470.0,0 1 0
+2404,Zadig & Voltaire,458.0,229.0,0 1 0
+2405,Fear of God,495.0,495.0,0 1 0
+2406,Forzieri,470.0,,0 1 0
+2407,Prada,460.0,,0 1 0
+2408,Golden Goose Deluxe Brand,530.0,530.0,0 0 1
+2409,Alexander McQueen,490.0,490.0,0 1 0
+2410,Smythe,495.0,495.0,0 1 0
+2411,ISABEL MARANT,460.0,,0 1 0
+2412,Mateo,532.0,532.0,0 0 1
+2413,rag & bone,495.0,371.25,0 1 0
+2414,EF COLLECTION,450.0,,0 1 0
+2415,Malone Souliers,527.0,527.0,0 0 1
+2416,Iceberg,479.0,431.0,0 1 0
+2417,Aalto,530.0,504.0,0 0 1
+2418,BESFXXK,485.0,,0 1 0
+2419,Gerard Darel,465.0,,0 1 0
+2420,Marni,463.0,463.0,0 1 0
+2421,Burberry,490.0,,0 1 0
+2422,Salvatore Ferragamo,475.0,475.0,0 1 0
+2423,Supreme,540.0,,0 0 1
+2424,Versace,525.0,525.0,0 0 1
+2425,Dolce & Gabbana,485.0,291.0,0 1 0
+2426,Etro,460.0,460.0,0 1 0
+2427,Santoni,530.0,424.0,0 0 1
+2428,Burberry,520.0,520.0,0 0 1
+2429,Prada,451.0,451.0,0 1 0
+2430,Dior,495.0,247.49,0 1 0
+2431,Boss Hugo Boss,495.0,198.98,0 1 0
+2432,Shihara,477.0,477.0,0 1 0
+2433,JW Anderson,490.0,196.0,0 1 0
+2434,Reiss,540.0,180.0,0 0 1
+2435,Art Addiction Inc.,500.0,375.0,0 1 0
+2436,Modern Weaving,495.0,198.0,0 1 0
+2437,L'Autre Chose,540.0,270.0,0 0 1
+2438,Julius,490.0,485.0,0 1 0
+2439,Paris Texas,465.0,465.0,0 1 0
+2440,Versace,525.0,525.0,0 0 1
+2441,Brunello Cucinelli,475.0,475.0,0 1 0
+2442,MSGM,490.0,294.0,0 1 0
+2443,VALENTINO,495.0,,0 1 0
+2444,Acne Studios,470.0,470.0,0 1 0
+2445,Common Projects,490.0,,0 1 0
+2446,Ahluwalia Studio,495.0,495.0,0 1 0
+2447,Burberry,490.0,,0 1 0
+2448,Dsquared2,480.0,240.0,0 1 0
+2449,Prada,500.0,500.0,0 1 0
+2450,3.1 Phillip Lim,495.0,297.0,0 1 0
+2451,Reiss,475.0,185.0,0 1 0
+2452,Salvatore Ferragamo,452.0,317.0,0 1 0
+2453,Rickie Freeman for Teri Jon,495.0,,0 1 0
+2454,Tory Burch,458.0,274.8,0 1 0
+2455,Tod's,525.0,368.0,0 0 1
+2456,Harris Wharf,451.0,361.0,0 1 0
+2457,Ramy Brook,495.0,,0 1 0
+2458,Alberta Ferretti,531.0,372.0,0 0 1
+2459,Burberry,490.0,,0 1 0
+2460,Joseph,471.0,471.0,0 1 0
+2461,Iceberg,526.0,263.0,0 0 1
+2462,Gucci,480.0,480.0,0 1 0
+2463,Repetto,525.0,,0 0 1
+2464,La Mer,490.0,,0 1 0
+2465,Alexander McQueen,490.0,490.0,0 1 0
+2466,Troubadour,473.0,473.0,0 1 0
+2467,Tiger of Sweden,539.0,539.0,0 0 1
+2468,Maison Margiela,495.0,495.0,0 1 0
+2469,Golden Goose Deluxe Brand,530.0,530.0,0 0 1
+2470,Maison Margiela,523.0,523.0,0 0 1
+2471,Marques Almeida,500.0,,0 1 0
+2472,Thom Browne,479.0,431.0,0 1 0
+2473,Victoria Victoria Beckham,475.0,285.0,0 1 0
+2474,Maison Pere,505.0,150.0,0 0 1
+2475,Moon & Meadow,465.0,197.63,0 1 0
+2476,Thom Browne,520.0,312.0,0 0 1
+2477,Ambush,530.0,,0 0 1
+2478,RtA,465.0,465.0,0 1 0
+2479,MSGM,539.0,350.0,0 0 1
+2480,Moncler Genius,470.0,470.0,0 1 0
+2481,Alexis,484.0,484.0,0 1 0
+2482,Fendi,490.0,490.0,0 1 0
+2483,Zero Halliburton,495.0,,0 1 0
+2484,Versace,458.0,229.0,0 1 0
+2485,Givenchy,520.0,520.0,0 0 1
+2486,The Kooples,538.0,,0 0 1
+2487,Officine Creative,458.0,458.0,0 1 0
+2488,Dorateymur,525.0,263.0,0 0 1
+2489,Off-White,495.0,,0 1 0
+2490,For Love & Lemons,460.0,460.0,0 1 0
+2491,paco rabanne,481.0,289.0,0 1 0
+2492,Golden Goose Deluxe Brand,495.0,495.0,0 1 0
+2493,Fabiana Filippi,465.0,279.0,0 1 0
+2494,ALANUI,495.0,421.0,0 1 0
+2495,See by Chloé,465.0,,0 1 0
+2496,Christopher Esber,474.0,474.0,0 1 0
+2497,ISABEL MARANT,460.0,276.0,0 1 0
+2498,Gucci,480.0,495.0,0 1 0
+2499,SALT.,470.0,281.98,0 1 0
+2500,Sophia Webster,536.0,536.0,0 0 1
+2501,Polo Ralph Lauren,498.0,261.45,0 1 0
+2502,Le Kasha,491.0,491.0,0 1 0
+2503,Versace,525.0,525.0,0 0 1
+2504,John Hardy,515.0,515.0,0 0 1
+2505,Palm Angels,475.0,475.0,0 1 0
+2506,Dion Lee,490.0,294.0,0 1 0
+2507,Burberry,490.0,490.0,0 1 0
+2508,Golden Goose Deluxe Brand,530.0,530.0,0 0 1
+2509,Celine,500.0,500.0,0 1 0
+2510,Belstaff,475.0,475.0,0 1 0
+2511,Diesel,531.0,478.0,0 0 1
+2512,John Varvatos,458.0,458.0,0 1 0
+2513,MARC JACOBS,450.0,450.0,0 1 0
+2514,Nike,535.0,535.0,0 0 1
+2515,Tory Burch,526.0,526.0,0 0 1
+2516,Saint Laurent,495.0,495.0,0 1 0
+2517,VALENTINO,495.0,495.0,0 1 0
+2518,Balmain,466.0,233.0,0 1 0
+2519,Diane von Furstenberg,457.0,434.0,0 1 0
+2520,Alexandra Golovanoff,517.19,,0 0 1
+2521,3.1 Phillip Lim,475.0,475.0,0 1 0
+2522,Dr. Barbara Sturm,495.0,,0 1 0
+2523,Auden,478.0,,0 1 0
+2524,Jan Barboglio,510.0,,0 0 1
+2525,L'Autre Chose,500.0,350.0,0 1 0
+2526,Fuzzi,495.0,495.0,0 1 0
+2527,Tom Ford,475.0,,0 1 0
+2528,Saint Laurent,525.0,525.0,0 0 1
+2529,Milly,495.0,242.0,0 1 0
+2530,Pakerson,525.0,,0 0 1
+2531,Stella McCartney,525.0,157.0,0 0 1
+2532,MEDEA,514.0,435.0,0 0 1
+2533,BAPE,500.0,,0 1 0
+2534,Baum und Pferdgarten,493.0,493.0,0 1 0
+2535,Dsquared2,480.0,288.0,0 1 0
+2536,Matsuda,484.0,484.0,0 1 0
+2537,Marques Almeida,466.0,466.0,0 1 0
+2538,Moncler,460.0,460.0,0 1 0
+2539,Paper London,485.0,145.43,0 1 0
+2540,Kirin,460.0,230.0,0 1 0
+2541,Golden Goose Deluxe Brand,530.0,530.0,0 0 1
+2542,Tissot,495.0,495.0,0 1 0
+2543,Missoni,535.0,321.0,0 0 1
+2544,Jimmy Choo,475.0,,0 1 0
+2545,Golden Goose Deluxe Brand,480.0,398.0,0 1 0
+2546,L'Autre Chose,520.0,312.0,0 0 1
+2547,Etro,530.0,371.0,0 0 1
+2548,MEDEA,480.0,336.0,0 1 0
+2549,Racil,488.0,488.0,0 1 0
+2550,Dsquared2,480.0,480.0,0 1 0
+2551,Jerome Dreyfuss,502.0,,0 0 1
+2552,Marcelo Burlon,535.0,535.0,0 0 1
+2553,Rick Owens,512.0,308.0,0 0 1
+2554,A.L.C.,495.0,,0 1 0
+2555,N 21,540.0,,0 0 1
+2556,Hogan,455.0,455.0,0 1 0
+2557,Neil Barrett,490.0,245.0,0 1 0
+2558,Brioni,474.0,474.0,0 1 0
+2559,Danse Lente,480.0,480.0,0 1 0
+2560,Stubbs & Wootton,483.0,483.0,0 1 0
+2561,Dsquared2,535.0,535.0,0 0 1
+2562,Bottega Veneta,500.0,500.0,0 1 0
+2563,Moon & Meadow,460.0,,0 1 0
+2564,Tory Burch,526.0,263.0,0 0 1
+2565,Nike,480.0,,0 1 0
+2566,Mykita,477.0,477.0,0 1 0
+2567,Nike,455.0,,0 1 0
+2568,Alan Crocetti,535.0,535.0,0 0 1
+2569,Hogan,455.0,319.0,0 1 0
+2570,Salvatore Ferragamo,495.0,495.0,0 1 0
+2571,Chloé,500.0,,0 1 0
+2572,Santoni,536.0,390.0,0 0 1
+2573,Bashian,525.0,393.75,0 0 1
+2574,Salvatore Ferragamo,495.0,495.0,0 1 0
+2575,Raquel Allegra,523.0,523.0,0 0 1
+2576,Salvatore Ferragamo,495.0,495.0,0 1 0
+2577,Officine Creative,502.0,502.0,0 0 1
+2578,Marni,490.0,245.0,0 1 0
+2579,Barrie,475.0,237.0,0 1 0
+2580,Maison Margiela,495.0,370.0,0 1 0
+2581,Emporio Armani,473.0,332.0,0 1 0
+2582,Pendleton,525.0,315.0,0 0 1
+2583,ami,505.0,,0 0 1
+2584,Burberry,520.0,520.0,0 0 1
+2585,Daniel W. Fletcher,520.0,520.0,0 0 1
+2586,ISABEL MARANT,520.0,520.0,0 0 1
+2587,Ralph Lauren Home,595.0,,0 0 1
+2588,Guidi,600.0,600.0,0 0 1
+2589,Rick Owens,600.0,179.0,0 0 1
+2590,John Varvatos,548.0,,0 0 1
+2591,Mizuki,585.0,585.0,0 0 1
+2592,Dsquared2,615.0,615.0,0 0 1
+2593,Stuart Weitzman,598.0,239.0,0 0 1
+2594,Hogan,545.0,327.0,0 0 1
+2595,Alexandre Birman,636.0,445.0,0 0 1
+2596,Kuboraum,580.0,580.0,0 0 1
+2597,LEE MATHEWS,570.0,342.0,0 0 1
+2598,Jacquemus,640.0,640.0,0 0 1
+2599,Saloni,595.0,595.0,0 0 1
+2600,Nike,619.0,619.0,0 0 1
+2601,Burberry,590.0,354.0,0 0 1
+2602,Neil Barrett,595.0,595.0,0 0 1
+2603,John Hardy,595.0,595.0,0 0 1
+2604,Longchamp,560.0,560.0,0 0 1
+2605,Telfar,548.0,439.0,0 0 1
+2606,Balenciaga,550.0,,0 0 1
+2607,Missoni,640.0,384.0,0 0 1
+2608,Massimo Alba,633.0,589.0,0 0 1
+2609,VALENTINO,645.0,,0 0 1
+2610,Alberta Ferretti,595.0,298.0,0 0 1
+2611,Gucci,550.0,550.0,0 0 1
+2612,Alice And Olivia,550.0,550.0,0 0 1
+2613,Bally,595.0,417.0,0 0 1
+2614,Polo Ralph Lauren,568.0,568.0,0 0 1
+2615,Sergio Rossi,595.0,595.0,0 0 1
+2616,KENZO,575.0,345.0,0 0 1
+2617,Giuseppe Zanotti,641.0,449.0,0 0 1
+2618,Marni,633.0,633.0,0 0 1
+2619,Off-White,560.0,392.0,0 0 1
+2620,Saint Laurent,545.0,326.9,0 0 1
+2621,Saint Laurent,545.0,,0 0 1
+2622,BAPE,599.0,,0 0 1
+2623,Dolce & Gabbana,575.0,345.0,0 0 1
+2624,John Hardy,595.0,595.0,0 0 1
+2625,Off-White,605.0,,0 0 1
+2626,Chloé,595.0,595.0,0 0 1
+2627,A.L.C.,645.0,316.0,0 0 1
+2628,Furla,587.0,,0 0 1
+2629,Max Mara,630.0,630.0,0 0 1
+2630,Alexandre Birman,557.0,552.0,0 0 1
+2631,Tumi,625.0,625.0,0 0 1
+2632,Blumarine,639.0,320.0,0 0 1
+2633,Furla,588.0,,0 0 1
+2634,Acne Studios,590.0,590.0,0 0 1
+2635,Magda Butrym,630.0,567.0,0 0 1
+2636,Balenciaga,595.0,,0 0 1
+2637,Salvatore Ferragamo,590.0,590.0,0 0 1
+2638,Givenchy,640.0,640.0,0 0 1
+2639,ISABEL MARANT,600.0,600.0,0 0 1
+2640,Lagos,600.0,600.0,0 0 1
+2641,Shrimps,591.0,414.0,0 0 1
+2642,Fear of God,550.0,,0 0 1
+2643,Golden Goose Deluxe Brand,585.0,585.0,0 0 1
+2644,Magnanni,556.0,556.0,0 0 1
+2645,Sydney Evan,540.0,,0 0 1
+2646,Pierre Hardy,545.0,,0 0 1
+2647,Santoni,610.0,604.0,0 0 1
+2648,Tabitha Simmons,645.0,258.0,0 0 1
+2649,ROSSIGNOL,649.0,649.0,0 0 1
+2650,Forte Forte,625.0,250.0,0 0 1
+2651,Issey Miyake,630.0,,0 0 1
+2652,Engineered Garments,625.0,625.0,0 0 1
+2653,Alexander McQueen,590.0,590.0,0 0 1
+2654,ALANUI,605.0,303.0,0 0 1
+2655,Nanushka,631.0,631.0,0 0 1
+2656,Ann Demeulemeester,607.0,364.0,0 0 1
+2657,A.P.C.,641.0,449.0,0 0 1
+2658,Kiton,595.0,,0 0 1
+2659,Salvatore Ferragamo,595.0,,0 0 1
+2660,Nili Lotan,550.0,385.0,0 0 1
+2661,ASAI,648.0,518.0,0 0 1
+2662,Jimmy Choo,575.0,575.0,0 0 1
+2663,Meira T,550.0,,0 0 1
+2664,Rebecca Vallance,630.0,630.0,0 0 1
+2665,Maison Kitsune,648.0,648.0,0 0 1
+2666,Alexander McQueen,640.0,640.0,0 0 1
+2667,Helmut Lang,549.0,467.0,0 0 1
+2668,Sydney Evan,540.0,,0 0 1
+2669,Robe di Firenze,540.0,,0 0 1
+2670,Les Reveries,630.0,430.0,0 0 1
+2671,Adina Reyter,598.0,,0 0 1
+2672,Nike,595.0,,0 0 1
+2673,Rick Owens DRKSHDW,569.0,342.0,0 0 1
+2674,Hogan,605.0,303.0,0 0 1
+2675,Mehry Mu,600.0,,0 0 1
+2676,Prada,595.0,595.0,0 0 1
+2677,Alberta Ferretti,595.0,595.0,0 0 1
+2678,Rebecca Taylor,595.0,,0 0 1
+2679,Tod's,625.0,438.0,0 0 1
+2680,Burberry,580.0,290.0,0 0 1
+2681,Kiton,595.0,,0 0 1
+2682,Maison Margiela,545.0,327.0,0 0 1
+2683,Jordan,565.0,565.0,0 0 1
+2684,Kaws,580.0,,0 0 1
+2685,Raquel Allegra,586.0,586.0,0 0 1
+2686,Kolor,627.0,627.0,0 0 1
+2687,Dolce & Gabbana,575.0,345.0,0 0 1
+2688,Etro,600.0,360.0,0 0 1
+2689,Max Mara,565.0,338.98,0 0 1
+2690,Marni,560.0,336.0,0 0 1
+2691,Versace,550.0,495.0,0 0 1
+2692,Mauviel,575.0,,0 0 1
+2693,Bottega Veneta,640.0,512.0,0 0 1
+2694,WOLF,549.0,565.0,0 0 1
+2695,Schott,585.0,585.0,0 0 1
+2696,La Prairie,560.0,560.0,0 0 1
+2697,rag & bone,550.0,330.0,0 0 1
+2698,Sofie D'Hoore,629.0,623.0,0 0 1
+2699,Burberry,630.0,630.0,0 0 1
+2700,Dolce & Gabbana,625.0,563.0,0 0 1
+2701,Jerome Dreyfuss,596.0,357.6,0 0 1
+2702,SACAI,645.0,,0 0 1
+2703,Palm Angels,645.0,645.0,0 0 1
+2704,Fendi,590.0,,0 0 1
+2705,Palm Angels,570.0,570.0,0 0 1
+2706,rag & bone,595.0,446.25,0 0 1
+2707,Church's,552.0,547.0,0 0 1
+2708,Versace,625.0,625.0,0 0 1
+2709,Off-White,595.0,595.0,0 0 1
+2710,Manu Atelier,585.0,585.0,0 0 1
+2711,Nina Ricci,595.0,595.0,0 0 1
+2712,Eleventy,615.0,615.0,0 0 1
+2713,Neil Barrett,560.0,336.0,0 0 1
+2714,Aspesi,548.0,329.0,0 0 1
+2715,Sophia Webster,559.0,559.0,0 0 1
+2716,Neil Barrett,560.0,336.0,0 0 1
+2717,Alberta Ferretti,645.0,549.0,0 0 1
+2718,Harris Wharf,555.0,,0 0 1
+2719,Paul Andrew,557.0,279.0,0 0 1
+2720,Emporio Armani,545.0,464.0,0 0 1
+2721,Chloé,626.0,626.0,0 0 1
+2722,Fabiana Filippi,569.0,370.0,0 0 1
+2723,EF COLLECTION,550.0,,0 0 1
+2724,Faith Connexion,617.0,494.0,0 0 1
+2725,Missoni,548.0,,0 0 1
+2726,Etro,640.0,640.0,0 0 1
+2727,Fendi,600.0,600.0,0 0 1
+2728,SACAI,550.0,440.0,0 0 1
+2729,Boss Hugo Boss,595.0,595.0,0 0 1
+2730,Prada,557.0,557.0,0 0 1
+2731,Lafayette 148 New York,548.0,,0 0 1
+2732,David Yurman,595.0,595.0,0 0 1
+2733,Maison Margiela,630.0,315.0,0 0 1
+2734,Officine Generale,550.0,,0 0 1
+2735,Miu Miu,550.0,550.0,0 0 1
+2736,Ermanno Scervino,630.0,630.0,0 0 1
+2737,Thom Browne,570.0,570.0,0 0 1
+2738,Chloé,589.0,471.0,0 0 1
+2739,VALENTINO,625.0,625.0,0 0 1
+2740,R13,622.0,622.0,0 0 1
+2741,Hogan,545.0,545.0,0 0 1
+2742,David Yurman,600.0,600.0,0 0 1
+2743,Bottega Veneta,580.0,580.0,0 0 1
+2744,Badgley Mischka,550.0,550.0,0 0 1
+2745,Moncler,636.0,636.0,0 0 1
+2746,Malone Souliers,595.0,,0 0 1
+2747,Ted Baker,575.0,,0 0 1
+2748,Canada Goose,625.0,625.0,0 0 1
+2749,MCM,580.0,,0 0 1
+2750,Prada,645.0,645.0,0 0 1
+2751,Yves Delorme,595.0,,0 0 1
+2752,Dolce & Gabbana,545.0,545.0,0 0 1
+2753,Loewe,550.0,550.0,0 0 1
+2754,Corneliani,636.0,509.0,0 0 1
+2755,Tibi,595.0,595.0,0 0 1
+2756,Officine Generale,544.0,544.0,0 0 1
+2757,Tory Burch,598.0,,0 0 1
+2758,Sara Lanzi,587.0,587.0,0 0 1
+2759,Eleventy,642.0,450.0,0 0 1
+2760,Ken Griffey Jr.,550.0,,0 0 1
+2761,Heron Preston,540.0,270.0,0 0 1
+2762,Thom Browne,600.0,600.0,0 0 1
+2763,Stuart Weitzman,595.0,238.0,0 0 1
+2764,we11done,615.0,615.0,0 0 1
+2765,Prada,570.0,570.0,0 0 1
+2766,Forte Forte,635.0,,0 0 1
+2767,Ports 1961,641.0,257.0,0 0 1
+2768,Victoria Victoria Beckham,589.0,413.0,0 0 1
+2769,Marni,550.0,275.0,0 0 1
+2770,Alberta Ferretti,595.0,238.0,0 0 1
+2771,Bally,575.0,,0 0 1
+2772,Moschino,625.0,375.0,0 0 1
+2773,Raf Simons,550.0,358.0,0 0 1
+2774,Fendi,590.0,590.0,0 0 1
+2775,Johanna Ortiz,595.0,357.0,0 0 1
+2776,Diane von Furstenberg,648.0,648.0,0 0 1
+2777,Acler,550.0,550.0,0 0 1
+2778,Courreges,645.0,,0 0 1
+2779,Salvatore Ferragamo,630.0,,0 0 1
+2780,Proenza Schouler,590.0,501.5,0 0 1
+2781,Malone Souliers,613.0,,0 0 1
+2782,Diane von Furstenberg,598.0,598.0,0 0 1
+2783,Piquadro,560.0,,0 0 1
+2784,Moschino,550.0,550.0,0 0 1
+2785,Dolce & Gabbana,545.0,327.0,0 0 1
+2786,Loewe,690.0,345.0,0 0 1
+2787,A.P.C.,660.0,,0 0 1
+2788,Rick Owens DRKSHDW,725.0,725.0,0 0 1
+2789,Brother Vellies,750.0,,0 0 1
+2790,Ippolita,750.0,,0 0 1
+2791,Buscemi,685.0,411.0,0 0 1
+2792,Rick Owens,698.0,419.0,0 0 1
+2793,Balmain,750.0,750.0,0 0 1
+2794,MSGM,710.0,284.0,0 0 1
+2795,Jimmy Choo,650.0,650.0,0 0 1
+2796,Ulla Johnson,702.0,492.0,0 0 1
+2797,Fendi,650.0,650.0,0 0 1
+2798,Balenciaga,695.0,695.0,0 0 1
+2799,Christian Wijnants,760.0,760.0,0 0 1
+2800,Santoni,685.0,568.0,0 0 1
+2801,Sergio Rossi,695.0,417.0,0 0 1
+2802,Manolo Blahnik,745.0,745.0,0 0 1
+2803,Dolce & Gabbana,740.0,740.0,0 0 1
+2804,Equipment,681.0,681.0,0 0 1
+2805,1017 ALYX 9SM,724.0,616.0,0 0 1
+2806,Duo,706.0,494.0,0 0 1
+2807,Jimmy Choo,750.0,375.0,0 0 1
+2808,Balenciaga,700.0,,0 0 1
+2809,Yves Delorme,695.0,,0 0 1
+2810,3.1 Phillip Lim,745.0,521.5,0 0 1
+2811,Dries Van Noten,745.0,298.0,0 0 1
+2812,Lagos,650.0,650.0,0 0 1
+2813,Rick Owens,680.0,408.0,0 0 1
+2814,Dolce & Gabbana,695.0,695.0,0 0 1
+2815,Aspesi,671.0,671.0,0 0 1
+2816,Dolce & Gabbana,725.0,363.0,0 0 1
+2817,Heron Preston,658.0,592.0,0 0 1
+2818,Balenciaga,695.0,695.0,0 0 1
+2819,Gucci,700.0,700.0,0 0 1
+2820,Gianvito Rossi,695.0,,0 0 1
+2821,Burberry,770.0,770.0,0 0 1
+2822,Marcelo Burlon County of Milan,716.0,502.0,0 0 1
+2823,Hogan,725.0,508.0,0 0 1
+2824,Le Feuillet,660.0,,0 0 1
+2825,Sergio Rossi,750.0,750.0,0 0 1
+2826,Giuseppe Zanotti,695.0,695.0,0 0 1
+2827,Nike,700.0,,0 0 1
+2828,Off-White,755.0,755.0,0 0 1
+2829,Oriental Weavers,666.0,499.5,0 0 1
+2830,ISABEL MARANT,740.0,444.0,0 0 1
+2831,Molly Goddard,655.0,393.0,0 0 1
+2832,Proenza Schouler,681.0,647.0,0 0 1
+2833,Elisabetta Franchi,702.0,526.0,0 0 1
+2834,Missoni,696.0,689.0,0 0 1
+2835,Paul Smith,670.0,670.0,0 0 1
+2836,Boss Hugo Boss,695.0,629.0,0 0 1
+2837,Natasha Zinko,742.0,371.0,0 0 1
+2838,Acne Studios,700.0,,0 0 1
+2839,Dolce & Gabbana,775.0,760.0,0 0 1
+2840,MISSONIHOME,770.0,,0 0 1
+2841,Wandler,740.0,740.0,0 0 1
+2842,Prada,690.0,690.0,0 0 1
+2843,Adam Lippes,750.0,450.0,0 0 1
+2844,Casadei,745.0,522.0,0 0 1
+2845,Yohji Yamamoto,670.0,536.0,0 0 1
+2846,Maison Margiela,685.0,480.0,0 0 1
+2847,Chanel Pre-Owned,674.0,674.0,0 0 1
+2848,Philippe Deshoulieres,750.0,,0 0 1
+2849,ML Monique Lhuillier,695.0,695.0,0 0 1
+2850,Julius,706.0,459.0,0 0 1
+2851,JW Anderson,760.0,380.0,0 0 1
+2852,New Balance,650.0,,0 0 1
+2853,Gucci,750.0,750.0,0 0 1
+2854,Off-White,718.0,,0 0 1
+2855,Rick Owens DRKSHDW,745.0,447.0,0 0 1
+2856,Balenciaga,695.0,695.0,0 0 1
+2857,Ermenegildo Zegna,695.0,695.0,0 0 1
+2858,Jane Wilner Designs,725.0,,0 0 1
+2859,Alexander McQueen,690.0,,0 0 1
+2860,Tabitha Simmons,695.0,695.0,0 0 1
+2861,Ann Demeulemeester,755.0,755.0,0 0 1
+2862,Pierre Hardy,695.0,487.0,0 0 1
+2863,Sandro,670.0,268.0,0 0 1
+2864,Roland Mouret,740.0,,0 0 1
+2865,Burberry,742.0,742.0,0 0 1
+2866,VALENTINO,695.0,,0 0 1
+2867,Dsquared2,740.0,444.0,0 0 1
+2868,ALTUZARRA,695.0,695.0,0 0 1
+2869,Iceberg,743.0,669.0,0 0 1
+2870,MSGM,730.0,365.0,0 0 1
+2871,Dsquared2,745.0,745.0,0 0 1
+2872,Charlotte Olympia,695.0,,0 0 1
+2873,Gianvito Rossi,745.0,745.0,0 0 1
+2874,Ziggy Chen,724.0,688.0,0 0 1
+2875,VALENTINO,750.0,750.0,0 0 1
+2876,UGG,695.0,695.0,0 0 1
+2877,Kith,750.0,,0 0 1
+2878,Massimo Alba,690.0,683.0,0 0 1
+2879,Off-White,680.0,680.0,0 0 1
+2880,Pleats Please Issey Miyake,655.0,655.0,0 0 1
+2881,Balenciaga,650.0,,0 0 1
+2882,Marni,650.0,325.0,0 0 1
+2883,MONICA RICH KOSANN,750.0,,0 0 1
+2884,Saint Laurent,725.0,725.0,0 0 1
+2885,Adriana Degreas,687.0,687.0,0 0 1
+2886,Saint Laurent,725.0,725.0,0 0 1
+2887,Bally,725.0,,0 0 1
+2888,Dolce & Gabbana,745.0,745.0,0 0 1
+2889,Saloni,750.0,375.0,0 0 1
+2890,Dolce & Gabbana,725.0,508.0,0 0 1
+2891,Alexander McQueen,750.0,750.0,0 0 1
+2892,Balenciaga,770.0,,0 0 1
+2893,Prada,690.0,690.0,0 0 1
+2894,Roksanda,724.0,724.0,0 0 1
+2895,Chloé,750.0,750.0,0 0 1
+2896,Moncler,655.0,655.0,0 0 1
+2897,Marcelo Burlon County of Milan,695.0,695.0,0 0 1
+2898,Caroline Constas,695.0,173.0,0 0 1
+2899,Stella McCartney,675.0,,0 0 1
+2900,Nili Lotan,742.0,742.0,0 0 1
+2901,Tod's,695.0,487.0,0 0 1
+2902,Clergerie,750.0,450.0,0 0 1
+2903,Saint Laurent,650.0,390.0,0 0 1
+2904,Burberry,760.0,760.0,0 0 1
+2905,Burberry,650.0,,0 0 1
+2906,Moschino,684.0,410.4,0 0 1
+2907,Off-White,745.0,447.0,0 0 1
+2908,Tod's,695.0,695.0,0 0 1
+2909,Pierre Hardy,745.0,,0 0 1
+2910,Moncler,720.0,,0 0 1
+2911,Norma Kamali,655.0,655.0,0 0 1
+2912,Jimmy Choo,675.0,675.0,0 0 1
+2913,BAPE,750.0,,0 0 1
+2914,KENZO,750.0,367.0,0 0 1
+2915,Bally,670.0,,0 0 1
+2916,M Missoni,715.0,715.0,0 0 1
+2917,Just Cavalli,765.0,459.0,0 0 1
+2918,Chiara Boni La Petite Robe,750.0,292.0,0 0 1
+2919,Balmain,714.0,643.0,0 0 1
+2920,Stella McCartney,765.0,765.0,0 0 1
+2921,Z Zegna,695.0,,0 0 1
+2922,Etro,765.0,,0 0 1
+2923,John Richmond,692.0,554.0,0 0 1
+2924,Gianvito Rossi,695.0,,0 0 1
+2925,Maryam Nassir Zadeh,696.0,487.0,0 0 1
+2926,Ann Demeulemeester,742.0,742.0,0 0 1
+2927,Rick Owens,740.0,444.0,0 0 1
+2928,Loewe,650.0,650.0,0 0 1
+2929,Dolce & Gabbana,725.0,711.0,0 0 1
+2930,VALENTINO,695.0,,0 0 1
+2931,Junya Watanabe,730.0,730.0,0 0 1
+2932,Saloni,695.0,417.0,0 0 1
+2933,Burberry,690.0,352.0,0 0 1
+2934,Solace London,746.0,746.0,0 0 1
+2935,Off-White,760.0,608.0,0 0 1
+2936,1017 ALYX 9SM,690.0,552.0,0 0 1
+2937,Wandler,720.0,720.0,0 0 1
+2938,Boglioli,756.0,454.0,0 0 1
+2939,Dorateymur,695.0,417.0,0 0 1
+2940,Marni,650.0,325.0,0 0 1
+2941,Christian Wijnants,690.0,690.0,0 0 1
+2942,Canada Goose,771.0,771.0,0 0 1
+2943,Balenciaga,720.0,720.0,0 0 1
+2944,Giuseppe Zanotti,750.0,600.0,0 0 1
+2945,Dsquared2,770.0,770.0,0 0 1
+2946,alexanderwang,650.0,325.0,0 0 1
+2947,Giorgio Armani,700.0,525.0,0 0 1
+2948,Badgley Mischka,650.0,389.98,0 0 1
+2949,Marcelo Burlon County of Milan,775.0,388.0,0 0 1
+2950,ISABEL MARANT,695.0,525.0,0 0 1
+2951,Bottega Veneta,680.0,,0 0 1
+2952,Stella McCartney,680.0,680.0,0 0 1
+2953,Veronica Beard,695.0,695.0,0 0 1
+2954,Calvin Klein,740.0,370.0,0 0 1
+2955,Victoria Beckham,720.0,432.0,0 0 1
+2956,Rick Owens DRKSHDW,703.0,703.0,0 0 1
+2957,Freida Rothman,750.0,,0 0 1
+2958,Repetto,695.0,174.0,0 0 1
+2959,Fendi,650.0,650.0,0 0 1
+2960,3.1 Phillip Lim,774.0,541.8,0 0 1
+2961,Hed Mayner,700.0,700.0,0 0 1
+2962,Marco Bicego,770.0,690.0,0 0 1
+2963,Francesco Russo,695.0,695.0,0 0 1
+2964,Dion Lee,650.0,650.0,0 0 1
+2965,Helmut Lang,725.0,,0 0 1
+2966,Neil Barrett,650.0,455.0,0 0 1
+2967,Giuseppe Zanotti,775.0,775.0,0 0 1
+2968,Kim Seybert,674.0,,0 0 1
+2969,Forzieri,767.0,,0 0 1
+2970,Christian Louboutin,745.0,,0 0 1
+2971,Givenchy,738.0,738.0,0 0 1
+2972,John Hardy,750.0,750.0,0 0 1
+2973,Suzusan,745.0,745.0,0 0 1
+2974,Mulberry,675.0,675.0,0 0 1
+2975,Miu Miu,750.0,,0 0 1
+2976,Off-White,655.0,655.0,0 0 1
+2977,SACAI,764.0,726.0,0 0 1
+2978,Surya,765.0,,0 0 1
+2979,Jerome Dreyfuss,710.0,,0 0 1
+2980,Sies Marjan,695.0,695.0,0 0 1
+2981,Maison Margiela,720.0,504.0,0 0 1
+2982,Le Nine,655.0,458.0,0 0 1
+2983,Alexander McQueen,695.0,487.0,0 0 1
+2984,COACH,650.0,650.0,0 0 1
+2985,Zimmermann,850.0,,0 0 1
+2986,Balenciaga,780.0,,0 0 1
+2987,Givenchy,945.0,945.0,0 0 1
+2988,Bernard Delettrez,880.0,,0 0 1
+2989,JW Anderson,850.0,850.0,0 0 1
+2990,Public School,895.0,,0 0 1
+2991,Alexander McQueen,850.0,425.0,0 0 1
+2992,Givenchy,795.0,795.0,0 0 1
+2993,ISABEL MARANT,860.0,,0 0 1
+2994,Ermenegildo Zegna,844.0,759.0,0 0 1
+2995,Larkspur & Hawk,800.0,800.0,0 0 1
+2996,Safavieh,864.0,,0 0 1
+2997,Marni,850.0,340.0,0 0 1
+2998,Zimmermann,875.0,875.0,0 0 1
+2999,Just Don,900.0,450.0,0 0 1
+3000,Gucci,950.0,950.0,0 0 1
+3001,Prada,820.0,820.0,0 0 1
+3002,Saint Laurent,895.0,895.0,0 0 1
+3003,VALENTINO,845.0,845.0,0 0 1
+3004,Marchesa Notte,795.0,398.0,0 0 1
+3005,Moschino,935.0,935.0,0 0 1
+3006,Marina Moscone,950.0,950.0,0 0 1
+3007,Dsquared2,795.0,477.0,0 0 1
+3008,Dolce & Gabbana,875.0,744.0,0 0 1
+3009,Moncler Genius,900.0,900.0,0 0 1
+3010,Elie Saab,900.0,675.0,0 0 1
+3011,Rosetta Getty,870.0,,0 0 1
+3012,Dalyn Rug Company,799.0,599.25,0 0 1
+3013,Moschino,795.0,477.0,0 0 1
+3014,Ippolita,795.0,,0 0 1
+3015,Hayward,925.0,,0 0 1
+3016,David Yurman,850.0,850.0,0 0 1
+3017,ALTUZARRA,895.0,,0 0 1
+3018,Maison Margiela,950.0,665.0,0 0 1
+3019,Armani Collezioni,895.0,438.0,0 0 1
+3020,Gianvito Rossi,795.0,795.0,0 0 1
+3021,Haider Ackermann,898.0,539.0,0 0 1
+3022,Proenza Schouler,945.0,945.0,0 0 1
+3023,Miu Miu,780.0,780.0,0 0 1
+3024,Rosie Assoulin,795.0,795.0,0 0 1
+3025,MCM,850.0,850.0,0 0 1
+3026,Balenciaga,950.0,475.0,0 0 1
+3027,Gianvito Rossi,945.0,378.0,0 0 1
+3028,Balenciaga,850.0,850.0,0 0 1
+3029,Balenciaga,850.0,850.0,0 0 1
+3030,Zoe Chicco,790.0,,0 0 1
+3031,Saint Laurent,904.0,633.0,0 0 1
+3032,VALENTINO,895.0,895.0,0 0 1
+3033,Santoni,847.0,593.0,0 0 1
+3034,Jil Sander,845.0,845.0,0 0 1
+3035,Gu de,950.0,,0 0 1
+3036,Wandler,800.0,800.0,0 0 1
+3037,Versace,925.0,925.0,0 0 1
+3038,Zoe Chicco,875.0,700.0,0 0 1
+3039,Just Cavalli,820.0,410.0,0 0 1
+3040,Monica Vinader,895.0,895.0,0 0 1
+3041,Just Don,900.0,450.0,0 0 1
+3042,Surya,865.0,865.0,0 0 1
+3043,Rick Owens,800.0,,0 0 1
+3044,Saint Laurent,795.0,795.0,0 0 1
+3045,Meira T,850.0,,0 0 1
+3046,Chloé,858.0,600.0,0 0 1
+3047,Saint Laurent,890.0,890.0,0 0 1
+3048,Off-White,881.0,793.0,0 0 1
+3049,Alexander McQueen,820.0,574.0,0 0 1
+3050,Anya Hindmarch,850.0,850.0,0 0 1
+3051,Gucci,790.0,,0 0 1
+3052,Sydney Evan,860.0,,0 0 1
+3053,Miu Miu,950.0,950.0,0 0 1
+3054,Jimmy Choo,795.0,795.0,0 0 1
+3055,Prada,790.0,790.0,0 0 1
+3056,Stella McCartney,850.0,850.0,0 0 1
+3057,3.1 Phillip Lim,834.0,417.0,0 0 1
+3058,Tory Burch,936.0,749.0,0 0 1
+3059,Versace,877.9,975.0,0 0 1
+3060,Kiton,895.0,,0 0 1
+3061,Bloomingdale's,840.0,378.0,0 0 1
+3062,Tissot,795.0,675.75,0 0 1
+3063,Gu de,818.0,,0 0 1
+3064,Rick Owens,840.0,840.0,0 0 1
+3065,Nicholas Kirkwood,895.0,447.0,0 0 1
+3066,Fendi,850.0,,0 0 1
+3067,Jimmy Choo,850.0,680.0,0 0 1
+3068,Junya Watanabe,845.0,423.0,0 0 1
+3069,Versace,795.0,,0 0 1
+3070,Veronica Beard,895.0,,0 0 1
+3071,Maison Margiela,895.0,770.0,0 0 1
+3072,Haider Ackermann,870.0,631.0,0 0 1
+3073,Etro,860.0,516.0,0 0 1
+3074,Gucci,950.0,950.0,0 0 1
+3075,Kith,790.0,,0 0 1
+3076,Tabitha Simmons,825.0,825.0,0 0 1
+3077,Miu Miu,850.0,850.0,0 0 1
+3078,Akris,895.0,895.0,0 0 1
+3079,ALANUI,810.0,405.0,0 0 1
+3080,Kiton,895.0,,0 0 1
+3081,Gucci,780.0,780.0,0 0 1
+3082,Stella McCartney,795.0,,0 0 1
+3083,Prada,950.0,950.0,0 0 1
+3084,Balenciaga,895.0,895.0,0 0 1
+3085,Louis Vuitton,908.0,,0 0 1
+3086,Gucci,820.0,820.0,0 0 1
+3087,Gucci,790.0,790.0,0 0 1
+3088,Bloomingdale's,930.0,697.5,0 0 1
+3089,VALENTINO,795.0,,0 0 1
+3090,Alexander McQueen,860.0,516.0,0 0 1
+3091,Dolce & Gabbana,795.0,795.0,0 0 1
+3092,Jil Sander,860.0,860.0,0 0 1
+3093,Louis Vuitton,855.0,,0 0 1
+3094,Miu Miu,840.0,840.0,0 0 1
+3095,Alberta Ferretti,850.0,510.0,0 0 1
+3096,Etro,900.0,630.0,0 0 1
+3097,Giuseppe Zanotti,850.0,595.0,0 0 1
+3098,Bottega Veneta,860.0,860.0,0 0 1
+3099,Prada,780.0,,0 0 1
+3100,Miu Miu,790.0,,0 0 1
+3101,Versace,795.0,398.0,0 0 1
+3102,Jil Sander,890.0,623.0,0 0 1
+3103,Canada Goose,918.0,918.0,0 0 1
+3104,paco rabanne,880.0,308.0,0 0 1
+3105,Peserico,853.0,768.0,0 0 1
+3106,Jimmy Choo,850.0,425.0,0 0 1
+3107,Jil Sander,839.0,671.0,0 0 1
+3108,ISABEL MARANT,840.0,,0 0 1
+3109,MM6 Maison Margiela,880.0,880.0,0 0 1
+3110,Bearbrick,799.0,,0 0 1
+3111,Gentry Portofino,929.0,697.0,0 0 1
+3112,Gucci,800.0,,0 0 1
+3113,Chloé,839.0,587.0,0 0 1
+3114,Versace,795.0,795.0,0 0 1
+3115,EF COLLECTION,895.0,,0 0 1
+3116,Amina Muaddi,846.0,762.0,0 0 1
+3117,BAPE,850.0,,0 0 1
+3118,Burberry,820.0,820.0,0 0 1
+3119,noir kei ninomiya,880.0,880.0,0 0 1
+3120,Etro,940.0,564.0,0 0 1
+3121,MM6 Maison Martin Margiela,803.0,321.2,0 0 1
+3122,Bottega Veneta,830.0,830.0,0 0 1
+3123,Bony Levy,895.0,895.0,0 0 1
+3124,Prada,950.0,950.0,0 0 1
+3125,Nourison,799.0,,0 0 1
+3126,Marina Rinaldi,825.0,825.0,0 0 1
+3127,Proenza Schouler,945.0,851.0,0 0 1
+3128,Alexander Wang,795.0,795.0,0 0 1
+3129,Bloomingdale's,930.0,418.5,0 0 1
+3130,CUSHNIE,795.0,795.0,0 0 1
+3131,Comme des Garcons Homme Plus,775.0,775.0,0 0 1
+3132,Brunello Cucinelli,845.0,845.0,0 0 1
+3133,Prada,920.0,450.0,0 0 1
+3134,Tabitha Simmons,795.0,,0 0 1
+3135,Bottega Veneta,890.0,,0 0 1
+3136,Rosie Assoulin,795.0,795.0,0 0 1
+3137,Maria Tash,840.0,840.0,0 0 1
+3138,Cornelian Taurus By Daisuke Iwanaga,795.0,477.0,0 0 1
+3139,The Row,790.0,,0 0 1
+3140,Saint Laurent,850.0,850.0,0 0 1
+3141,Giuseppe Zanotti,930.0,651.0,0 0 1
+3142,Lost Daze,850.0,425.0,0 0 1
+3143,Emporio Armani,796.0,717.0,0 0 1
+3144,Kiton,912.0,730.0,0 0 1
+3145,Balenciaga,850.0,850.0,0 0 1
+3146,Saint Laurent,845.0,,0 0 1
+3147,Bottega Veneta,790.0,,0 0 1
+3148,Aztech Mountain,850.0,850.0,0 0 1
+3149,Casadei,780.0,390.0,0 0 1
+3150,Prada,780.0,780.0,0 0 1
+3151,Versace,825.0,825.0,0 0 1
+3152,MARC JACOBS,850.0,,0 0 1
+3153,MISSONIHOME,780.0,,0 0 1
+3154,Gucci,790.0,790.0,0 0 1
+3155,Dalyn Rug Company,799.0,599.25,0 0 1
+3156,Jimmy Choo,895.0,448.0,0 0 1
+3157,Forzieri,912.0,,0 0 1
+3158,Salvatore Ferragamo,873.0,611.0,0 0 1
+3159,adidas,950.0,,0 0 1
+3160,Sparrow & Wren,815.0,611.25,0 0 1
+3161,Marchesa Notte,895.0,448.0,0 0 1
+3162,Herno,855.0,855.0,0 0 1
+3163,Giuseppe Zanotti,795.0,,0 0 1
+3164,Michelle Mason,897.0,897.0,0 0 1
+3165,Linda Farrow,836.0,836.0,0 0 1
+3166,Balenciaga,780.0,,0 0 1
+3167,Miu Miu,830.0,415.0,0 0 1
+3168,Burberry,900.0,,0 0 1
+3169,Proenza Schouler,945.0,851.0,0 0 1
+3170,Lela Rose,790.0,,0 0 1
+3171,Stella McCartney,825.0,578.0,0 0 1
+3172,Marsell,795.0,795.0,0 0 1
+3173,Loewe,814.0,407.0,0 0 1
+3174,VALENTINO,850.0,850.0,0 0 1
+3175,Philipp Plein,820.0,820.0,0 0 1
+3176,Maison Margiela,855.0,513.0,0 0 1
+3177,Mr & Mrs Italy,830.0,415.0,0 0 1
+3178,Fendi,890.0,890.0,0 0 1
+3179,Jil Sander,835.0,501.0,0 0 1
+3180,Lafayette 148 New York,798.0,798.0,0 0 1
+3181,Fear of God,895.0,895.0,0 0 1
+3182,Gianvito Rossi,945.0,378.0,0 0 1
+3183,VALENTINO,795.0,,0 0 1
+3184,Versace,1072.0,1072.0,0 0 1
+3185,Stouls,1205.0,,0 0 1
+3186,Moschino,1150.0,1150.0,0 0 1
+3187,Prada,1230.0,1230.0,0 0 1
+3188,Giambattista Valli,1203.0,662.0,0 0 1
+3189,Stuart Weitzman,951.0,870.0,0 0 1
+3190,Matthew Adams Dolan,1088.0,979.0,0 0 1
+3191,Off-White,1235.0,494.0,0 0 1
+3192,Movado,995.0,,0 0 1
+3193,SACAI,1020.0,,0 0 1
+3194,Alexander Wang,995.0,,0 0 1
+3195,Prada,990.0,990.0,0 0 1
+3196,Sies Marjan,1217.0,487.0,0 0 1
+3197,Acler,1043.0,1043.0,0 0 1
+3198,Samsonite,1140.0,569.97,0 0 1
+3199,Versace,1195.0,717.0,0 0 1
+3200,Emilio Pucci,990.0,990.0,0 0 1
+3201,Kiko Kostadinov,1050.0,1050.0,0 0 1
+3202,MSGM,1100.0,,0 0 1
+3203,Prada,1060.0,1060.0,0 0 1
+3204,ami,965.0,,0 0 1
+3205,Ralph Lauren Home,995.0,,0 0 1
+3206,Gucci,1100.0,1100.0,0 0 1
+3207,Etro,1055.0,1055.0,0 0 1
+3208,MONSE,1090.0,1090.0,0 0 1
+3209,Junya Watanabe,1205.0,1205.0,0 0 1
+3210,M Missoni,1052.0,1052.0,0 0 1
+3211,Royal Crown Derby,994.0,,0 0 1
+3212,Dolce & Gabbana,1029.0,1029.0,0 0 1
+3213,Givenchy,1112.5,1104.0,0 0 1
+3214,Emilio Pucci,1125.0,1125.0,0 0 1
+3215,Alexander McQueen,1175.0,705.0,0 0 1
+3216,Manolo Blahnik,1045.0,,0 0 1
+3217,ISABEL MARANT,1170.0,1170.0,0 0 1
+3218,RED Valentino,975.0,975.0,0 0 1
+3219,VALENTINO,1100.0,1100.0,0 0 1
+3220,Jil Sander,1090.0,654.0,0 0 1
+3221,Stella McCartney,995.0,498.0,0 0 1
+3222,Z Zegna,1095.0,1095.0,0 0 1
+3223,Dolce & Gabbana,995.0,597.0,0 0 1
+3224,Franz Collection,1016.0,,0 0 1
+3225,Lalique,995.0,,0 0 1
+3226,Amina Muaddi,967.0,967.0,0 0 1
+3227,Bottega Veneta,1235.0,865.0,0 0 1
+3228,Balmain,1195.0,1076.0,0 0 1
+3229,Deitas,1052.0,526.0,0 0 1
+3230,Gucci,1200.0,1200.0,0 0 1
+3231,Rick Owens,1040.0,1040.0,0 0 1
+3232,Alexander McQueen,1175.0,705.0,0 0 1
+3233,Gucci,980.0,980.0,0 0 1
+3234,Junya Watanabe,1095.0,548.0,0 0 1
+3235,Gucci,980.0,980.0,0 0 1
+3236,Creed,995.0,995.0,0 0 1
+3237,Rick Owens,1170.0,1170.0,0 0 1
+3238,Just Cavalli,1170.0,585.0,0 0 1
+3239,MSGM,1140.0,570.0,0 0 1
+3240,Sara Battaglia,1046.0,942.0,0 0 1
+3241,kismet by milka,970.0,970.0,0 0 1
+3242,Versace,995.0,995.0,0 0 1
+3243,Petar Petrov,1170.0,468.0,0 0 1
+3244,Rick Owens,1080.0,864.0,0 0 1
+3245,Bottega Veneta,1150.0,1150.0,0 0 1
+3246,Adam Lippes,990.0,594.0,0 0 1
+3247,VALENTINO,975.0,683.0,0 0 1
+3248,FAZ/ not fur,1100.0,,0 0 1
+3249,Prada,1120.0,672.0,0 0 1
+3250,Jacquemus,1013.0,710.0,0 0 1
+3251,1017 ALYX 9SM,972.0,972.0,0 0 1
+3252,Versace,954.0,477.0,0 0 1
+3253,Rosantica,1049.0,787.0,0 0 1
+3254,Mia & Beverly,960.0,,0 0 1
+3255,MSGM,1100.0,,0 0 1
+3256,Nourison,1199.0,,0 0 1
+3257,Thom Browne,970.0,970.0,0 0 1
+3258,Torrini,1131.0,791.7,0 0 1
+3259,Sies Marjan,1175.0,1175.0,0 0 1
+3260,Hermès Pre-Owned,1090.0,1090.0,0 0 1
+3261,Saint Laurent,995.0,995.0,0 0 1
+3262,VALENTINO,1045.0,1045.0,0 0 1
+3263,Jimmy Choo,1025.0,513.0,0 0 1
+3264,Undercover,1050.0,1050.0,0 0 1
+3265,Chloé,1150.0,,0 0 1
+3266,Prada,968.0,968.0,0 0 1
+3267,Balenciaga,1090.0,1090.0,0 0 1
+3268,Yohji Yamamoto,1100.0,1100.0,0 0 1
+3269,Rick Owens,1000.0,700.0,0 0 1
+3270,Forzieri,1188.0,,0 0 1
+3271,Adam Lippes,1190.0,1012.0,0 0 1
+3272,Tibi,995.0,821.0,0 0 1
+3273,Fendi,1190.0,,0 0 1
+3274,Saint Laurent,1190.0,1190.0,0 0 1
+3275,ALANUI,1170.0,,0 0 1
+3276,Palm Angels,1030.0,721.0,0 0 1
+3277,Ann Demeulemeester,1219.0,1219.0,0 0 1
+3278,Tom Ford,1190.0,,0 0 1
+3279,Moose Knuckles,1139.0,1139.0,0 0 1
+3280,Alexander McQueen,990.0,495.0,0 0 1
+3281,Supreme,995.0,995.0,0 0 1
+3282,Giuseppe Zanotti,995.0,995.0,0 0 1
+3283,Burberry,1090.0,,0 0 1
+3284,Yves Salomon - Meteo,1180.0,1180.0,0 0 1
+3285,Tod's,1078.0,1078.0,0 0 1
+3286,Marni,1090.0,545.0,0 0 1
+3287,Dolce & Gabbana,1150.0,1150.0,0 0 1
+3288,Saint Laurent,1190.0,1190.0,0 0 1
+3289,Herno,1080.0,,0 0 1
+3290,Givenchy,1120.0,,0 0 1
+3291,Borgo de Nor,955.0,955.0,0 0 1
+3292,Ermenegildo Zegna,1190.0,1190.0,0 0 1
+3293,Miu Miu,1220.0,1220.0,0 0 1
+3294,Roland Mouret,1120.0,,0 0 1
+3295,Dolce & Gabbana,995.0,995.0,0 0 1
+3296,Balenciaga,1190.0,595.0,0 0 1
+3297,Bao Bao Issey Miyake,1117.0,1117.0,0 0 1
+3298,AQUAZZURA,1157.0,1157.0,0 0 1
+3299,Tibi,995.0,564.0,0 0 1
+3300,Balenciaga,1090.0,1090.0,0 0 1
+3301,Burberry,960.0,960.0,0 0 1
+3302,Dolce & Gabbana,1075.0,1075.0,0 0 1
+3303,Chloé,1233.0,493.0,0 0 1
+3304,Chloé,975.0,,0 0 1
+3305,Saint Laurent,990.0,990.0,0 0 1
+3306,VALENTINO,995.0,995.0,0 0 1
+3307,Fabiana Filippi,965.0,483.0,0 0 1
+3308,Gucci,980.0,980.0,0 0 1
+3309,Acne Studios,1000.0,1000.0,0 0 1
+3310,Stella McCartney,1025.0,1025.0,0 0 1
+3311,Saint Laurent,1095.0,,0 0 1
+3312,Prada,960.0,768.0,0 0 1
+3313,Jimmy Choo,1195.0,717.0,0 0 1
+3314,Ulla Johnson,979.0,930.0,0 0 1
+3315,Saint Laurent,990.0,990.0,0 0 1
+3316,Fear of God,997.0,997.0,0 0 1
+3317,Ellery,969.0,485.0,0 0 1
+3318,ISABEL MARANT,1125.0,1125.0,0 0 1
+3319,Versace,1025.0,1025.0,0 0 1
+3320,Balenciaga,995.0,995.0,0 0 1
+3321,John Hardy,1200.0,1200.0,0 0 1
+3322,Bric's,995.0,,0 0 1
+3323,MICHELE,1095.0,,0 0 1
+3324,Gucci,1100.0,,0 0 1
+3325,Alexis,1027.0,924.0,0 0 1
+3326,Rickie Freeman for Teri Jon,1060.0,,0 0 1
+3327,Sergio Rossi,975.0,975.0,0 0 1
+3328,The Row,995.0,398.0,0 0 1
+3329,Yvonne Leon,1055.0,1055.0,0 0 1
+3330,Maison Margiela,1075.0,1075.0,0 0 1
+3331,Jimmy Choo,995.0,995.0,0 0 1
+3332,Stella McCartney,1165.0,1165.0,0 0 1
+3333,Gucci,1100.0,1100.0,0 0 1
+3334,OAMC,954.0,668.0,0 0 1
+3335,Etro,1020.0,510.0,0 0 1
+3336,Gianvito Rossi,1195.0,,0 0 1
+3337,Gucci,1150.0,1150.0,0 0 1
+3338,Off-White,1060.0,1060.0,0 0 1
+3339,BAPE,1000.0,,0 0 1
+3340,MICHELE,995.0,,0 0 1
+3341,Gucci,995.0,995.0,0 0 1
+3342,Cecilie Bahnsen,995.0,995.0,0 0 1
+3343,VALENTINO,975.0,975.0,0 0 1
+3344,Jil Sander,964.0,964.0,0 0 1
+3345,Saint Laurent,995.0,597.0,0 0 1
+3346,Versace,959.0,480.0,0 0 1
+3347,Noor Fares,1196.0,1196.0,0 0 1
+3348,Gucci,1200.0,1200.0,0 0 1
+3349,Roland Mouret,1095.0,274.0,0 0 1
+3350,Toteme,1050.0,1050.0,0 0 1
+3351,Saint Laurent,1045.0,836.0,0 0 1
+3352,Missoni,980.0,588.0,0 0 1
+3353,Gucci,1200.0,1200.0,0 0 1
+3354,Miu Miu,970.0,970.0,0 0 1
+3355,Vuarnet,1160.0,1160.0,0 0 1
+3356,Adam Lippes,1190.0,714.0,0 0 1
+3357,The Row,1042.71,,0 0 1
+3358,Bloomingdale's,1200.0,540.0,0 0 1
+3359,Zoe Lev,995.0,,0 0 1
+3360,Barrie,1244.0,1244.0,0 0 1
+3361,Mulberry,1075.0,1075.0,0 0 1
+3362,rag & bone,1071.0,964.0,0 0 1
+3363,Roland Mouret,1120.0,1064.0,0 0 1
+3364,Camiel Fortgens,1050.0,1050.0,0 0 1
+3365,Balenciaga,1190.0,714.0,0 0 1
+3366,Saint Laurent,995.0,995.0,0 0 1
+3367,Dsquared2,1170.0,585.0,0 0 1
+3368,Fendi,990.0,990.0,0 0 1
+3369,MSGM,1235.0,988.0,0 0 1
+3370,Haider Ackermann,1100.0,550.0,0 0 1
+3371,VALENTINO,1045.0,626.98,0 0 1
+3372,Thom Browne,990.0,990.0,0 0 1
+3373,Manolo Blahnik,985.0,,0 0 1
+3374,Loloi,1212.0,909.0,0 0 1
+3375,Brunello Cucinelli,995.0,995.0,0 0 1
+3376,Fendi,990.0,990.0,0 0 1
+3377,Moschino,1102.0,1102.0,0 0 1
+3378,Maison Margiela,990.0,792.0,0 0 1
+3379,Ralph Lauren Purple Label,995.0,,0 0 1
+3380,Ralph Lauren Purple Label,995.0,995.0,0 0 1
+3381,Lanvin,1165.0,1165.0,0 0 1
+3382,Michelle Mason,989.0,989.0,0 0 1
+3383,Balmain,1350.0,810.0,0 0 1
+3384,EF COLLECTION,1695.0,1695.0,0 0 1
+3385,Sparrow & Wren,1335.0,1001.25,0 0 1
+3386,Gucci,1590.0,1590.0,0 0 1
+3387,Sies Marjan,1695.0,,0 0 1
+3388,Prada,1490.0,,0 0 1
+3389,Saint Laurent,1350.0,,0 0 1
+3390,Philipp Plein,1260.0,1260.0,0 0 1
+3391,Maison Margiela,1365.0,683.0,0 0 1
+3392,Maison Rabih Kayrouz,1500.0,750.0,0 0 1
+3393,DASH & ALBERT,1440.0,1440.0,0 0 1
+3394,Alberta Ferretti,1615.0,969.0,0 0 1
+3395,Christian Louboutin,1290.0,,0 0 1
+3396,Fear of God,1643.0,1643.0,0 0 1
+3397,Boglioli,1325.0,1325.0,0 0 1
+3398,Loewe,1550.0,1550.0,0 0 1
+3399,Burberry,1650.0,1650.0,0 0 1
+3400,Tom Ford,1690.0,1690.0,0 0 1
+3401,Gucci,1500.0,1500.0,0 0 1
+3402,Gucci,1600.0,1600.0,0 0 1
+3403,Marni,1350.0,405.0,0 0 1
+3404,Burberry,1390.0,1390.0,0 0 1
+3405,Fendi,1425.0,1425.0,0 0 1
+3406,Meira T,1325.0,,0 0 1
+3407,Fendi,1490.0,1490.0,0 0 1
+3408,Versace,1385.0,,0 0 1
+3409,Roland Mouret,1301.0,1301.0,0 0 1
+3410,Woolrich,1301.0,1171.0,0 0 1
+3411,Fabiana Filippi,1305.0,1305.0,0 0 1
+3412,Jil Sander,1290.0,903.0,0 0 1
+3413,Saint Laurent,1750.0,1750.0,0 0 1
+3414,Aurelie Bidermann,1595.0,1595.0,0 0 1
+3415,Stella McCartney,1495.0,1495.0,0 0 1
+3416,Stella McCartney,1295.0,777.0,0 0 1
+3417,Visvim,1473.0,1399.0,0 0 1
+3418,VALENTINO,1595.0,1595.0,0 0 1
+3419,Burberry,1750.0,1400.0,0 0 1
+3420,ALTUZARRA,1695.0,1695.0,0 0 1
+3421,F.R.S For Restless Sleepers,1326.0,1061.0,0 0 1
+3422,Rick Owens,1490.0,446.0,0 0 1
+3423,Off-White,1269.0,1001.0,0 0 1
+3424,Miu Miu,1500.0,1500.0,0 0 1
+3425,Dolce & Gabbana,1245.0,1245.0,0 0 1
+3426,Edie Parker,1595.0,638.0,0 0 1
+3427,Mulberry,1275.0,1275.0,0 0 1
+3428,Gucci,1690.0,1690.0,0 0 1
+3429,Marni,1350.0,675.0,0 0 1
+3430,Kenneth Mink,1729.0,1296.75,0 0 1
+3431,Fendi,1290.0,,0 0 1
+3432,Undercover,1560.0,1248.0,0 0 1
+3433,Sparrow & Wren,1315.0,986.25,0 0 1
+3434,Sydney Evan,1585.0,,0 0 1
+3435,Delpozo,1365.0,1024.0,0 0 1
+3436,Moncler,1375.0,,0 0 1
+3437,Figue,1695.0,,0 0 1
+3438,Prada,1770.0,1770.0,0 0 1
+3439,Ulla Johnson,1254.0,1254.0,0 0 1
+3440,Dolce & Gabbana,1395.0,558.0,0 0 1
+3441,Lotus Arts de Vivre,1260.0,,0 0 1
+3442,Gucci,1300.0,1300.0,0 0 1
+3443,Talbot Runhof,1495.0,1196.0,0 0 1
+3444,Thom Browne,1450.0,1450.0,0 0 1
+3445,Missoni,1685.0,1011.0,0 0 1
+3446,Alberta Ferretti,1586.0,793.0,0 0 1
+3447,Givenchy,1750.0,1575.0,0 0 1
+3448,Givenchy,1490.0,447.0,0 0 1
+3449,Loewe,1350.0,1350.0,0 0 1
+3450,alexanderwang,1495.0,448.0,0 0 1
+3451,Elisabetta Franchi,1485.0,1485.0,0 0 1
+3452,Sethi Couture,1650.0,1650.0,0 0 1
+3453,Ippolita,1395.0,,0 0 1
+3454,Christian Siriano,1750.0,1488.0,0 0 1
+3455,Fendi,1690.0,1690.0,0 0 1
+3456,EBEL,1600.0,,0 0 1
+3457,Balmain,1750.0,1750.0,0 0 1
+3458,Shrimps,1510.0,1435.0,0 0 1
+3459,Gucci,1600.0,1600.0,0 0 1
+3460,Balmain,1295.0,,0 0 1
+3461,Talbot Runhof,1595.0,1117.0,0 0 1
+3462,Marques Almeida,1677.0,1341.0,0 0 1
+3463,SACAI,1415.0,849.0,0 0 1
+3464,Bottega Veneta,1580.0,1580.0,0 0 1
+3465,RACHEL GILBERT,1387.0,1387.0,0 0 1
+3466,Etro,1600.0,800.0,0 0 1
+3467,Lagos,1250.0,1250.0,0 0 1
+3468,Jimmy Choo,1250.0,1000.0,0 0 1
+3469,Brunello Cucinelli,1295.0,1295.0,0 0 1
+3470,RADO,1750.0,1750.0,0 0 1
+3471,Louis Vuitton,1299.0,,0 0 1
+3472,Fausto Puglisi,1309.0,1178.0,0 0 1
+3473,Dsquared2,1485.0,1485.0,0 0 1
+3474,Kc Designs,1670.0,,0 0 1
+3475,Emilio Pucci,1265.0,759.0,0 0 1
+3476,Rick Owens,1440.0,864.0,0 0 1
+3477,David Koma,1728.0,1037.0,0 0 1
+3478,Talbot Runhof,1395.0,698.0,0 0 1
+3479,Maison Margiela,1569.0,1569.0,0 0 1
+3480,ISABEL MARANT,1395.0,934.65,0 0 1
+3481,ALTUZARRA,1295.0,1036.0,0 0 1
+3482,Rickie Freeman for Teri Jon,1295.0,,0 0 1
+3483,The Vampire's Wife,1513.0,1059.0,0 0 1
+3484,Bony Levy,1595.0,1595.0,0 0 1
+3485,Prada,1270.0,1270.0,0 0 1
+3486,Gucci,1550.0,1550.0,0 0 1
+3487,Prada,1495.0,,0 0 1
+3488,Safavieh,1750.0,,0 0 1
+3489,Dolce & Gabbana,1291.0,1033.0,0 0 1
+3490,Prada,1420.0,1420.0,0 0 1
+3491,ALTUZARRA,1695.0,1695.0,0 0 1
+3492,Bottega Veneta,1470.0,1029.0,0 0 1
+3493,Loewe,1350.0,1350.0,0 0 1
+3494,Christian Louboutin,1495.0,1495.0,0 0 1
+3495,Off-White,1745.0,1047.0,0 0 1
+3496,St. John,1595.0,1595.0,0 0 1
+3497,Bloomingdale's,1300.0,585.0,0 0 1
+3498,Givenchy,1430.0,995.98,0 0 1
+3499,Saint Laurent,1468.0,1174.4,0 0 1
+3500,Zimmermann,1350.0,945.0,0 0 1
+3501,Dolce & Gabbana,1495.0,1495.0,0 0 1
+3502,Bally,1695.0,848.0,0 0 1
+3503,Off-White,1440.0,,0 0 1
+3504,Gucci,1700.0,,0 0 1
+3505,Missoni,1595.0,1595.0,0 0 1
+3506,Manolo Blahnik,1466.0,1466.0,0 0 1
+3507,Bottega Veneta,1750.0,1750.0,0 0 1
+3508,Brunello Cucinelli,1545.0,1545.0,0 0 1
+3509,Giorgio Brato,1330.0,1330.0,0 0 1
+3510,Loewe,1400.0,700.0,0 0 1
+3511,Dolce & Gabbana,1745.0,1745.0,0 0 1
+3512,Nike,1620.0,1620.0,0 0 1
+3513,Bloomingdale's,1550.0,697.5,0 0 1
+3514,Burberry,1501.0,1501.0,0 0 1
+3515,Herno,1495.0,897.0,0 0 1
+3516,Fendi,1490.0,1490.0,0 0 1
+3517,Gucci,1500.0,1500.0,0 0 1
+3518,Givenchy,1590.0,1590.0,0 0 1
+3519,Temple St. Clair,1650.0,1650.0,0 0 1
+3520,Off-White,1310.0,1310.0,0 0 1
+3521,Proenza Schouler,1750.0,875.0,0 0 1
+3522,Officine Generale,1275.0,,0 0 1
+3523,Brunello Cucinelli,1295.0,634.0,0 0 1
+3524,Mastermind Japan,1512.0,1512.0,0 0 1
+3525,Pierre Hardy,1295.0,1283.0,0 0 1
+3526,Prada,1650.0,1650.0,0 0 1
+3527,Ann Demeulemeester,1491.0,1342.0,0 0 1
+3528,DASH & ALBERT,1499.0,1499.0,0 0 1
+3529,Miu Miu,1550.0,,0 0 1
+3530,Ring Jacket,1695.0,1695.0,0 0 1
+3531,Balmain,1350.0,810.0,0 0 1
+3532,Balmain,1297.0,1232.0,0 0 1
+3533,Prada,1620.0,1620.0,0 0 1
+3534,Herno,1566.0,1253.0,0 0 1
+3535,David Koma,1295.0,,0 0 1
+3536,David Yurman,1350.0,1350.0,0 0 1
+3537,Chloé,1505.0,1354.0,0 0 1
+3538,LANA,1550.0,,0 0 1
+3539,Etro,1495.0,,0 0 1
+3540,Gucci,1500.0,1500.0,0 0 1
+3541,Bao Bao Issey Miyake,1560.0,,0 0 1
+3542,Lagos,1300.0,1300.0,0 0 1
+3543,Asics,1750.0,,0 0 1
+3544,Armenta,1290.0,,0 0 1
+3545,Marni,1550.0,,0 0 1
+3546,Thom Browne,1590.0,1590.0,0 0 1
+3547,Herno,1285.0,771.0,0 0 1
+3548,VALENTINO,1290.0,774.0,0 0 1
+3549,Roger Vivier,1695.0,,0 0 1
+3550,Chloé,1321.0,,0 0 1
+3551,Belstaff,1273.0,1146.0,0 0 1
+3552,Miu Miu,1250.0,1250.0,0 0 1
+3553,Rick Owens,1430.0,1430.0,0 0 1
+3554,Gucci,1250.0,1250.0,0 0 1
+3555,Saint Laurent,1695.0,1695.0,0 0 1
+3556,Moschino,1250.0,750.0,0 0 1
+3557,Fendi,1290.0,1290.0,0 0 1
+3558,Roberto Cavalli,1417.0,1134.0,0 0 1
+3559,Loro Piana,1700.0,,0 0 1
+3560,The Row,1754.0,1544.0,0 0 1
+3561,Tre by Natalie Ratabesi,1595.0,,0 0 1
+3562,Lela Rose,1690.0,,0 0 1
+3563,Salvatore Ferragamo,1579.0,1579.0,0 0 1
+3564,Stella McCartney,1625.0,650.0,0 0 1
+3565,Gucci,1290.0,1290.0,0 0 1
+3566,Chloé,1250.0,,0 0 1
+3567,Burberry,1490.0,1043.0,0 0 1
+3568,the VOLON,1539.0,1463.0,0 0 1
+3569,Mackintosh,1275.0,893.0,0 0 1
+3570,Wooyoungmi,1400.0,1400.0,0 0 1
+3571,Nike,1500.0,,0 0 1
+3572,Etro,1490.0,745.0,0 0 1
+3573,Lela Rose,1690.0,1690.0,0 0 1
+3574,Louis Vuitton,1285.0,,0 0 1
+3575,Marco Bicego,1290.0,,0 0 1
+3576,Miu Miu,1355.0,542.0,0 0 1
+3577,Off-White,1350.0,1350.0,0 0 1
+3578,Roberto Demeglio,1280.0,,0 0 1
+3579,Bell & Ross,1760.0,,0 0 1
+3580,Brunello Cucinelli,1295.0,,0 0 1
+3581,Johanna Ortiz,1650.0,1650.0,0 0 1
+3582,Attico,2479.0,1240.0,0 0 1
+3583,Gucci,1950.0,1950.0,0 0 1
+3584,Stella McCartney,1875.0,938.0,0 0 1
+3585,VALENTINO,2890.0,1156.0,0 0 1
+3586,Brunello Cucinelli,1895.0,,0 0 1
+3587,Prada,2350.0,2350.0,0 0 1
+3588,Dsquared2,2394.0,1556.0,0 0 1
+3589,Perrin Paris,1800.0,1260.0,0 0 1
+3590,Maison Margiela,1790.0,1307.0,0 0 1
+3591,Prada,2350.0,2350.0,0 0 1
+3592,ALANUI,2011.0,1408.0,0 0 1
+3593,Aspesi,2258.0,1355.0,0 0 1
+3594,Bloomingdale's,1885.0,848.25,0 0 1
+3595,Dsquared2,1985.0,993.0,0 0 1
+3596,BLISS Monique Lhuillier,2900.0,2900.0,0 0 1
+3597,Etro,2330.0,1165.0,0 0 1
+3598,Gucci,2700.0,2700.0,0 0 1
+3599,Tom Ford,2450.0,1715.0,0 0 1
+3600,Chanel Pre-Owned,2758.0,2758.0,0 0 1
+3601,Givenchy,2790.0,2790.0,0 0 1
+3602,Jamie Wolf,2100.0,,0 0 1
+3603,Alexander McQueen,2240.0,,0 0 1
+3604,Bloomingdale's,2279.0,683.7,0 0 1
+3605,Chloé,1850.0,,0 0 1
+3606,Forzieri,2140.0,,0 0 1
+3607,Alberta Ferretti,2400.0,1560.0,0 0 1
+3608,Huppe,2270.0,1702.5,0 0 1
+3609,Dolce & Gabbana,2195.0,768.0,0 0 1
+3610,Fendi,1890.0,1701.0,0 0 1
+3611,Emilio Pucci,1840.0,1104.0,0 0 1
+3612,Kelly Wearstler,2520.0,,0 0 1
+3613,Chloé,2602.0,1561.0,0 0 1
+3614,Gucci,1850.0,1850.0,0 0 1
+3615,Burberry,2450.0,2450.0,0 0 1
+3616,Burberry,1990.0,1990.0,0 0 1
+3617,The Row,1990.0,,0 0 1
+3618,Bloomingdale's,2600.0,1170.0,0 0 1
+3619,Lg,1979.0,,0 0 1
+3620,Marni,2390.0,1673.0,0 0 1
+3621,Haider Ackermann,1945.0,1945.0,0 0 1
+3622,MSGM,2116.0,635.0,0 0 1
+3623,VALENTINO,2875.0,2875.0,0 0 1
+3624,Victoria Beckham,2056.0,1234.0,0 0 1
+3625,Adam Lippes,2490.0,1494.0,0 0 1
+3626,Khaite,1900.0,760.0,0 0 1
+3627,Gucci,1848.0,1570.8,0 0 1
+3628,Versace,2775.0,,0 0 1
+3629,Gucci,1800.0,1800.0,0 0 1
+3630,Prada,1840.0,1840.0,0 0 1
+3631,Sally LaPointe,1950.0,,0 0 1
+3632,Alexander McQueen,2750.0,2750.0,0 0 1
+3633,Versace,2950.0,1180.0,0 0 1
+3634,Balmain,2450.0,2450.0,0 0 1
+3635,Oscar de la Renta,1790.0,895.0,0 0 1
+3636,Saint Laurent,2845.0,2418.25,0 0 1
+3637,Miu Miu,2100.0,2100.0,0 0 1
+3638,Fendi,2390.0,2390.0,0 0 1
+3639,Ermenegildo Zegna,2795.0,1369.0,0 0 1
+3640,Gucci,1980.0,,0 0 1
+3641,Haider Ackermann,2080.0,2075.0,0 0 1
+3642,Dolce & Gabbana,2495.0,2246.0,0 0 1
+3643,Louis Vuitton,2510.0,,0 0 1
+3644,Paul Smith,1895.0,1327.0,0 0 1
+3645,Nourison,1909.0,,0 0 1
+3646,Gucci,1980.0,1980.0,0 0 1
+3647,Fendi,2890.0,2890.0,0 0 1
+3648,Bloomingdale's,1800.0,810.0,0 0 1
+3649,Bloomingdale's,1800.0,810.0,0 0 1
+3650,Mark Cross,2495.0,2495.0,0 0 1
+3651,Missoni,2340.0,,0 0 1
+3652,Dolce & Gabbana,2675.0,2541.0,0 0 1
+3653,Gucci,2420.0,2057.0,0 0 1
+3654,Ashley Pittman,1895.0,947.0,0 0 1
+3655,Attico,2131.0,1491.0,0 0 1
+3656,Gucci,2100.0,2100.0,0 0 1
+3657,Saint Laurent,2790.0,1674.0,0 0 1
+3658,Maison Margiela,2640.0,2640.0,0 0 1
+3659,Breville,1999.99,,0 0 1
+3660,Jason Wu,1995.0,498.0,0 0 1
+3661,Bloomingdale's,2200.0,990.0,0 0 1
+3662,Narciso Rodriguez,2095.0,,0 0 1
+3663,Gucci,2500.0,2500.0,0 0 1
+3664,Giorgio Armani,2347.0,2112.0,0 0 1
+3665,Roberto Cavalli,1971.0,1971.0,0 0 1
+3666,Fendi,1790.0,1611.0,0 0 1
+3667,Gucci,2890.0,2890.0,0 0 1
+3668,Church's,2930.0,2930.0,0 0 1
+3669,Saint Laurent,2290.0,1374.0,0 0 1
+3670,Burberry,2190.0,2190.0,0 0 1
+3671,Fred,1850.0,,0 0 1
+3672,Dolce & Gabbana,2539.0,2539.0,0 0 1
+3673,Gucci,2135.0,1814.75,0 0 1
+3674,Gucci,2800.0,2800.0,0 0 1
+3675,Johanna Ortiz,1850.0,1850.0,0 0 1
+3676,Alexander McQueen,1790.0,1790.0,0 0 1
+3677,Monique Lhuillier,2795.0,,0 0 1
+3678,Gabriela Hearst,2400.0,,0 0 1
+3679,Fendi,1790.0,,0 0 1
+3680,Fendi,2590.0,2072.0,0 0 1
+3681,Ermenegildo Zegna,2395.0,1173.0,0 0 1
+3682,Fendi,1790.0,1790.0,0 0 1
+3683,Gucci,1980.0,,0 0 1
+3684,Dolce & Gabbana,2845.0,2845.0,0 0 1
+3685,Dsquared2,2445.0,1467.0,0 0 1
+3686,Burberry,1790.0,1790.0,0 0 1
+3687,Max Mara,2950.0,,0 0 1
+3688,Alexander McQueen,2595.0,1817.0,0 0 1
+3689,NANCY GONZALEZ,2350.0,,0 0 1
+3690,VALENTINO,2195.0,2195.0,0 0 1
+3691,Prada,2150.0,2150.0,0 0 1
+3692,Burberry,2090.0,2090.0,0 0 1
+3693,Balenciaga,1990.0,1990.0,0 0 1
+3694,Mr & Mrs Italy,1940.0,1358.0,0 0 1
+3695,Prada,2437.5,2422.4,0 0 1
+3696,Chloé,1850.0,,0 0 1
+3697,Balmain,2149.0,2149.0,0 0 1
+3698,Balenciaga,1790.0,894.0,0 0 1
+3699,Dolce & Gabbana,2340.0,1170.0,0 0 1
+3700,David Yurman,2050.0,,0 0 1
+3701,Prada,1970.0,1970.0,0 0 1
+3702,VALENTINO,2100.0,,0 0 1
+3703,VALENTINO,2300.0,,0 0 1
+3704,Alexander McQueen,2490.0,2490.0,0 0 1
+3705,Peter Pilotto,2069.0,1242.0,0 0 1
+3706,Maison Margiela,1795.0,1795.0,0 0 1
+3707,Yohji Yamamoto,2790.0,2232.0,0 0 1
+3708,Alexander McQueen,2640.0,1584.0,0 0 1
+3709,Adam Lippes,2259.0,1807.0,0 0 1
+3710,Mark Cross,2358.0,2358.0,0 0 1
+3711,Saint Laurent,2410.0,2048.5,0 0 1
+3712,Fendi,2890.0,2890.0,0 0 1
+3713,Missoni,2275.0,910.0,0 0 1
+3714,Chanel,2350.0,,0 0 1
+3715,Gucci,1980.0,1980.0,0 0 1
+3716,Chloé,2003.0,2003.0,0 0 1
+3717,Brioni,2640.0,2112.0,0 0 1
+3718,ISABEL MARANT,2825.0,1413.0,0 0 1
+3719,Saint Laurent,2850.0,2850.0,0 0 1
+3720,Gucci,2200.0,,0 0 1
+3721,Prada,2850.0,2850.0,0 0 1
+3722,Bloomingdale's,2100.0,945.0,0 0 1
+3723,Fendi,1790.0,1790.0,0 0 1
+3724,Dolce & Gabbana,2565.0,2052.0,0 0 1
+3725,Marco Bicego,1940.0,1552.0,0 0 1
+3726,Gucci,2490.0,2490.0,0 0 1
+3727,SACAI,2765.0,2765.0,0 0 1
+3728,Gucci,2500.0,2500.0,0 0 1
+3729,Givenchy,2190.0,2190.0,0 0 1
+3730,Gucci,2490.0,,0 0 1
+3731,Bottega Veneta,2810.0,2810.0,0 0 1
+3732,Loewe,1800.0,1800.0,0 0 1
+3733,The Row,1990.0,,0 0 1
+3734,Givenchy,2290.0,1603.0,0 0 1
+3735,Fendi,2575.0,2575.0,0 0 1
+3736,Fendi,2490.0,2490.0,0 0 1
+3737,Tom Ford,1990.0,,0 0 1
+3738,Cvc Stones,2800.0,2800.0,0 0 1
+3739,Burberry,1990.0,1990.0,0 0 1
+3740,Alberta Ferretti,2790.0,1395.0,0 0 1
+3741,Canali,1895.0,,0 0 1
+3742,Miu Miu,2350.0,2350.0,0 0 1
+3743,Carolina Herrera,2590.0,1295.0,0 0 1
+3744,Gucci,2400.0,2400.0,0 0 1
+3745,Forzieri,2478.0,,0 0 1
+3746,Akris,2490.0,,0 0 1
+3747,Jil Sander,2742.0,2057.0,0 0 1
+3748,Thom Browne,1890.0,,0 0 1
+3749,Thom Browne,2050.0,,0 0 1
+3750,Saint Laurent,1790.0,1253.0,0 0 1
+3751,Halpern,2923.0,1462.0,0 0 1
+3752,Christian Louboutin,1950.0,,0 0 1
+3753,Dior,1980.0,,0 0 1
+3754,Mark Cross,2490.0,2490.0,0 0 1
+3755,Larkspur & Hawk,1900.0,1900.0,0 0 1
+3756,Missoni,2275.0,,0 0 1
+3757,Rick Owens,1872.0,1872.0,0 0 1
+3758,Balmain,2910.0,,0 0 1
+3759,Gucci,2499.0,,0 0 1
+3760,Carl F. Bucherer,2180.0,,0 0 1
+3761,Ileana Makri,2670.0,2670.0,0 0 1
+3762,MARLO LAZ,2760.0,2760.0,0 0 1
+3763,VALENTINO,2200.0,2200.0,0 0 1
+3764,Louis Vuitton,2500.0,,0 0 1
+3765,Giorgio Armani,2635.0,2635.0,0 0 1
+3766,Lalique,2900.0,,0 0 1
+3767,Moncler,1850.0,1850.0,0 0 1
+3768,Bloomingdale's,1800.0,810.0,0 0 1
+3769,Louis Vuitton,2678.0,,0 0 1
+3770,Saint Laurent,1890.0,1890.0,0 0 1
+3771,Carolina Herrera,1890.0,1890.0,0 0 1
+3772,Gianvito Rossi,1795.0,898.0,0 0 1
+3773,ALTUZARRA,2195.0,2195.0,0 0 1
+3774,Prada,1850.0,1850.0,0 0 1
+3775,Badgley Mischka,2785.0,,0 0 1
+3776,Givenchy,1990.0,1592.0,0 0 1
+3777,Alexandre Vauthier,2095.0,2095.0,0 0 1
+3778,Saint Laurent,2150.0,2150.0,0 0 1
+3779,Roger Vivier,1875.0,,0 0 1
+3780,Raymond Weil,1995.0,,0 0 1
+3781,Rick Owens,3040.0,1824.0,0 0 1
+3782,Chloé,2995.0,1797.0,0 0 1
+3783,Balmain,3395.0,1698.0,0 0 1
+3784,Brunello Cucinelli,4995.0,4995.0,0 0 1
+3785,Attico,4085.0,3144.0,0 0 1
+3786,Bell & Ross,3495.0,,0 0 1
+3787,Cartier,6880.0,,0 0 1
+3788,Brunello Cucinelli,4495.0,4495.0,0 0 1
+3789,Isaia,2995.0,,0 0 1
+3790,Bloomingdale's,5095.0,2038.0,0 0 1
+3791,Bloomingdale's,3650.0,3285.0,0 0 1
+3792,Jaipur,13145.0,,0 0 1
+3793,David Yurman,3700.0,3700.0,0 0 1
+3794,Louis Vuitton,16950.0,,0 0 1
+3795,Isaia,2995.0,1592.0,0 0 1
+3796,Gucci,3200.0,3200.0,0 0 1
+3797,Carhartt Work In Progress,,60.0,0 1 0
+3798,Safavieh,3888.0,,0 0 1
+3799,KENZO,,250.0,0 1 0
+3800,Frame,,215.0,0 1 0
+3801,Brunello Cucinelli,4245.0,4245.0,0 0 1
+3802,Gucci,3200.0,3200.0,0 0 1
+3803,Bloomingdale's,9495.0,3798.0,0 0 1
+3804,Jimmy Choo,,1295.0,0 1 0
+3805,Tom Ford,5390.0,3773.0,0 0 1
+3806,Marco Bicego,4490.0,,0 0 1
+3807,Brunello Cucinelli,3995.0,3995.0,0 0 1
+3808,Balenciaga,4400.0,,0 0 1
+3809,Topman,,195.0,1 0 0
+3810,alexanderwang.t,,350.0,0 1 0
+3811,Bloomingdale's,3999.0,2999.25,0 0 1
+3812,Dita,,650.0,0 1 0
+3813,Tom Ford,3290.0,3290.0,0 0 1
+3814,Topman,,30.0,1 0 0
+3815,Bloomingdale's,3800.0,1710.0,0 0 1
+3816,MICHELE,4695.0,2816.98,0 0 1
+3817,Akris,2990.0,2990.0,0 0 1
+3818,Rick Owens,4471.0,1341.0,0 0 1
+3819,Fumito Ganryu,3248.0,2924.0,0 0 1
+3820,Balenciaga,2950.0,,0 0 1
+3821,Bloomingdale's,4900.0,2205.0,0 0 1
+3822,Marco Bicego,5510.0,,0 0 1
+3823,ISABEL MARANT,,415.0,0 1 0
+3824,Givenchy,3445.0,3445.0,0 0 1
+3825,Cartier,27500.0,,0 0 1
+3826,Bloomingdale's,7279.0,2911.6,0 0 1
+3827,Sydney Evan,3565.0,,0 0 1
+3828,Saint Laurent,,1107.0,0 1 0
+3829,Nikos Koulis,6480.0,,0 0 1
+3830,CHOSEN by One Day,2995.0,2995.0,0 0 1
+3831,Topman,,30.0,1 0 0
+3832,Sophie Buhai,,352.0,0 1 0
+3833,IWC,15000.0,,0 0 1
+3834,Le Gramme,4005.0,4005.0,0 0 1
+3835,Topman,,45.0,1 0 0
+3836,Lillian August,7275.0,5456.25,0 0 1
+3837,Bloomingdale's,13719.0,5487.6,0 0 1
+3838,Missoni,4435.0,2661.0,0 0 1
+3839,Nike,7249.0,,0 0 1
+3840,3.1 Phillip Lim,,275.0,0 1 0
+3841,Toteme,,495.0,0 1 0
+3842,Random Identities,,154.0,0 1 0
+3843,Bloomingdale's,6295.0,2518.0,0 0 1
+3844,Fear of God,,495.0,0 1 0
+3845,Mattia Cielo,4600.0,4600.0,0 0 1
+3846,Roberto Coin,6160.0,,0 0 1
+3847,Bloomingdale's,6295.0,2518.0,0 0 1
+3848,Alaia,3140.0,,0 0 1
+3849,Roberto Coin,6300.0,,0 0 1
+3850,Givenchy,3445.0,3445.0,0 0 1
+3851,Azzaro,9000.0,,0 0 1
+3852,Vetements,,450.0,0 1 0
+3853,Bloomingdale's,3000.0,1350.0,0 0 1
+3854,Rolex,3540.0,,0 0 1
+3855,Nike,,82.0,0 1 0
+3856,VALEXTRA,3450.0,3450.0,0 0 1
+3857,A.P.C.,,127.0,0 1 0
+3858,Ingie Paris,3705.0,3705.0,0 0 1
+3859,Breguet,12950.0,,0 0 1
+3860,Prada,3337.0,3337.0,0 0 1
+3861,Versace,,625.0,0 1 0
+3862,Alexander McQueen,5390.0,2156.0,0 0 1
+3863,Monique Lhuillier,2995.0,,0 0 1
+3864,Prada,3350.0,3350.0,0 0 1
+3865,Levis,,45.0,0 1 0
+3866,Topman,,10.0,1 0 0
+3867,David Yurman,3700.0,,0 0 1
+3868,Fendi,3890.0,3890.0,0 0 1
+3869,Diesel,,65.0,0 1 0
+3870,Bloomingdale's,6295.0,2518.0,0 0 1
+3871,Topman,,110.0,1 0 0
+3872,Brunello Cucinelli,9495.0,,0 0 1
+3873,Omega,7250.0,,0 0 1
+3874,Loewe,5400.0,,0 0 1
+3875,Balmain,,650.0,0 1 0
+3876,Temple St. Clair,6500.0,,0 0 1
+3877,Bloomingdale's,6295.0,2518.0,0 0 1
+3878,Bell & Ross,7900.0,,0 0 1
+3879,Dolce & Gabbana,3445.0,3445.0,0 0 1
+3880,David Yurman,4400.0,4400.0,0 0 1
+3881,Versace,,198.0,0 1 0
+3882,Salvatore Ferragamo,8600.0,6880.0,0 0 1
+3883,Patek Philippe,51950.0,,0 0 1
+3884,Azzedine Alaïa,3660.0,3660.0,0 0 1
+3885,Givenchy,3300.0,,0 0 1
+3886,Jil Sander,4750.0,4750.0,0 0 1
+3887,VALENTINO,3400.0,1700.0,0 0 1
+3888,Gucci,4300.0,4300.0,0 0 1
+3889,SLVRLAKE,,330.0,0 1 0
+3890,SUZANNE KALAN,4600.0,,0 0 1
+3891,IWC,23500.0,,0 0 1
+3892,Gucci,,980.0,0 1 0
+3893,Versace,,350.0,0 1 0
+3894,Needles,,1065.0,0 1 0
+3895,Boss Hugo Boss,,162.0,0 1 0
+3896,Louis Vuitton,20212.0,,0 0 1
+3897,Versace,3695.0,1478.0,0 0 1
+3898,Rick Owens,,265.0,0 1 0
+3899,Bloomingdale's,6000.0,2700.0,0 0 1
+3900,The Row,3431.0,2745.0,0 0 1
+3901,Rick Owens,3160.0,1896.0,0 0 1
+3902,Paul Morelli,3600.0,,0 0 1
+3903,Anita Ko,12050.0,,0 0 1
+3904,Topman,,13.0,1 0 0
+3905,Element,,50.0,0 1 0
+3906,Thom Browne,3600.0,3600.0,0 0 1
+3907,Delfina Delettrez,4059.0,4059.0,0 0 1
+3908,Gucci,20000.0,,0 0 1
+3909,Alexander McQueen,3795.0,2657.0,0 0 1
+3910,Tag Heuer,3000.0,,0 0 1
+3911,Givenchy,4890.0,4890.0,0 0 1
+3912,Celine,3800.0,,0 0 1
+3913,Tag Heuer,6400.0,,0 0 1
+3914,ALTUZARRA,3447.0,3102.0,0 0 1
+3915,Palmetto Living,2998.0,,0 0 1
+3916,Levis,,85.0,0 1 0
+3917,Givenchy,3238.0,,0 0 1
+3918,Gucci,3980.0,3980.0,0 0 1
+3919,Tag Heuer,4150.0,,0 0 1
+3920,Topman,,35.0,1 0 0
+3921,Saint Laurent,,420.0,0 1 0
+3922,Temple St. Clair,7500.0,,0 0 1
+3923,Kiton,7795.0,,0 0 1
+3924,Yves Salomon,3421.0,2395.0,0 0 1
+3925,David Yurman,3350.0,3350.0,0 0 1
+3926,Larkspur & Hawk,3600.0,3600.0,0 0 1
+3927,Aime Leon Dore,,365.0,0 1 0
+3928,Thom Browne,3400.0,2040.0,0 0 1
+3929,Giorgio Armani,3503.0,2802.0,0 0 1
+3930,Hermes,15995.0,,0 0 1
+3931,Mikimoto,3900.0,3900.0,0 0 1
+3932,IWC,23500.0,,0 0 1
+3933,Bloomingdale's,3700.0,1665.0,0 0 1
+3934,Off-White,,735.0,0 1 0
+3935,Loewe,,2250.0,0 1 0
+3936,Gucci,5900.0,5900.0,0 0 1
+3937,Roberto Coin,3200.0,,0 0 1
+3938,GRLFRND,,47.0,0 1 0
+3939,Dinh Van,3780.0,3780.0,0 0 1
+3940,Prada,5100.0,5100.0,0 0 1
+3941,Saint Laurent,5990.0,2396.0,0 0 1
+3942,Maison Margiela,,154.0,0 1 0
+3943,Pomellato,9800.0,,0 0 1
+3944,Saint Laurent,2990.0,1495.0,0 0 1
+3945,Prada,3970.0,,0 0 1
+3946,Omega,3330.0,,0 0 1
+3947,Gucci,4500.0,4500.0,0 0 1
+3948,Topman,,20.0,1 0 0
+3949,Thom Browne,4300.0,4300.0,0 0 1
+3950,Dolce & Gabbana,3937.0,3937.0,0 0 1
+3951,Sareh Nouri,4890.0,4890.0,0 0 1
+3952,Kiton,8495.0,8495.0,0 0 1
+3953,Ulysse Nardin,65200.0,,0 0 1
+3954,adidas Originals,,63.0,0 1 0
+3955,Off-White,,865.0,0 1 0
+3956,American Leather,6998.0,6298.2,0 0 1
+3957,Burberry,,260.0,0 1 0
+3958,Topman,,70.0,1 0 0
+3959,Topman,,2.0,1 0 0
+3960,Gucci,3800.0,3800.0,0 0 1
+3961,Fendi,,890.0,0 1 0
+3962,Bloomingdale's,3065.0,2298.75,0 0 1
+3963,Z Zegna,,195.0,0 1 0
+3964,Topman,,55.0,1 0 0
+3965,Topman,,35.0,1 0 0
+3966,VALENTINO,3900.0,,0 0 1
+3967,Jordan,6300.0,,0 0 1
+3968,Ancient Greek Sandals,,140.0,0 1 0
+3969,Kaws,3500.0,,0 0 1
+3970,Chopard,6280.0,6280.0,0 0 1
+3971,Topman,,15.0,1 0 0
+3972,Saint Laurent,6900.0,6900.0,0 0 1
+3973,Gucci,3600.0,,0 0 1
+3974,Alexander McQueen,,240.0,0 1 0
+3975,Givenchy,4195.0,4195.0,0 0 1
+3976,Glashutte Original,47950.0,,0 0 1
+3977,Gucci,4500.0,,0 0 1
+3978,Patek Philippe,31950.0,,0 0 1
+3979,Karastan,3260.0,2445.0,0 0 1
