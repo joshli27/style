@@ -37,7 +37,9 @@ Tier: ['Fast Fashion', 'Mid level', 'Designer']
 ## Evaluation
 The dense model performs at an accuracy of about 93%
     The model does not recognize fast fashion items well, in the training data there are not many items that are fast fashion, so with fast fashion items in the training set performance could improve
+    
     The model predominantly identifies the expensive items as designer however it has trouble with certain brands (Valentino, Tom Ford)
+    
     Brands with a wide range of prices are sometimes troublesome, for example Nike's are mostly in the mid tier, however some Nike items from StockX should be designer but are sometimes labelled Mid tier
 
 # Files
